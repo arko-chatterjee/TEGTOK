@@ -1,0 +1,12 @@
+!pip install torch==1.7.1 torchvision==0.8.2 torchaudio==0.7.2
+from google.colab import drive
+drive.mount('/content/gdrive')
+%cd gdrive/My Drive/527Project
+!git clone https://github.com/arko-chatterjee/TEGTOK.git
+%cd TEGTOK
+!pip install -r requirements.txt
+%cd data
+%%shell
+tar -jxvf reddit.tar.bz2
+tar -jxvf squad_nqg.tar.bz2
+!python trainer.py --output_path output/o.txt --params_file config/squad_nqg/TegTok.json
