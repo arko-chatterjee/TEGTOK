@@ -68,5 +68,5 @@ def writeDataFor(subredditName, postsPerMonth, postScoreThreshold, commentScoreT
 # With 100 posts per month, will view ~10,000 posts total in ~3 hours
 # Low thresholds set in order to get more data per post observed
 # writeDataFor("FreeCompliments", 100, 4, 2)
-writeDataFor("RoastMe", 100, 12, 5)
+writeDataFor("RoastMe", 100, 10, 4)
 
