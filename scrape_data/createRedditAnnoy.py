@@ -38,7 +38,7 @@ def createAnnoyFor(fileName):
                 indexer.add_item(i, embedding)
                 i += 1
     print("BUILDING TREE")
-    indexer.build(5) # 5 trees
+    indexer.build(10) # 10 trees
     measure()
     print("WRITING TREE")
     indexer.save(fileName+'.ann')

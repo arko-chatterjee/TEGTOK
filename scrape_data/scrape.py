@@ -67,6 +67,7 @@ def writeDataFor(subredditName, postsPerMonth, postScoreThreshold, commentScoreT
 # Reddit only allows a logged-in account to access 1 post per second
 # With 100 posts per month, will view ~10,000 posts total in ~3 hours
 # Low thresholds set in order to get more data per post observed
-# writeDataFor("FreeCompliments", 100, 4, 2)
-writeDataFor("RoastMe", 100, 10, 4)
+if (__name__ == '__main__'):
+    writeDataFor("FreeCompliments", 100, 4, 2)
+    writeDataFor("RoastMe", 100, 10, 4)
 

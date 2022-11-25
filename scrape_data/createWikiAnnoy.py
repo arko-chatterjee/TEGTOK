@@ -23,15 +23,15 @@ model = DPRContextEncoder.from_pretrained("facebook/dpr-ctx_encoder-single-nq-ba
 
 print("INDEXING DATA")
 indexer = AnnoyIndex(EMBEDDING_DIM, 'dot')
-for i in range(0, dataset['train'].num_rows, 10):
+for i in range(0, dataset['train'].num_rows, 5):
     if (i % 100000 == 0):
         print(i)
         measure()
     v = dataset['train'][i]['embeddings']
-    indexer.add_item(int(i/10), v)
+    indexer.add_item(int(i/5), v)
 
 print("BUILDING TREE")
-indexer.build(5) # 5 trees
+indexer.build(10) # 10 trees
 measure()
 print("WRITING TREE")
 indexer.save('wikipedia.ann')
