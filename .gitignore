@@ -175,3 +175,5 @@ __try__.py
 data/*
 logs/*
 runs/*
+*.ann
+scrape_data/*.json
