@@ -10,17 +10,18 @@ def splitDatasetFor(fileName):
     i = 2
     j = 1
     for item in redditData:
-        if (i % 5 == 0):
-            item['dialog_id'] = "valid-"+str(int(i/5))
-            valid.append(item)
-        elif (i % 5 == 1):
-            item['dialog_id'] = "test-"+str(int(i/5))
-            test.append(item)
-        else:
-            item['dialog_id'] = "train-"+str(j)
-            j += 1
-            train.append(item)
-        i += 1
+        if (len(item['response']) < 512):
+            if (i % 5 == 0):
+                item['dialog_id'] = "valid-"+str(int(i/5))
+                valid.append(item)
+            elif (i % 5 == 1):
+                item['dialog_id'] = "test-"+str(int(i/5))
+                test.append(item)
+            else:
+                item['dialog_id'] = "train-"+str(j)
+                j += 1
+                train.append(item)
+            i += 1
     
     print("WRITING JSON")
     json_object = json.dumps(train, indent=4)
