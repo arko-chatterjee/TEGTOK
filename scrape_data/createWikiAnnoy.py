@@ -17,9 +17,9 @@ def measure():
 print("LOADING DATA")
 dataset = load_dataset("wiki_dpr", "psgs_w100.nq.compressed", cache_dir="~/Downloads/huggingface/datasets")
 
-print("LOADING MODEL")
-tokenizer = DPRContextEncoderTokenizer.from_pretrained("facebook/dpr-ctx_encoder-single-nq-base")
-model = DPRContextEncoder.from_pretrained("facebook/dpr-ctx_encoder-single-nq-base")
+# print("LOADING MODEL")
+# tokenizer = DPRContextEncoderTokenizer.from_pretrained("facebook/dpr-ctx_encoder-single-nq-base")
+# model = DPRContextEncoder.from_pretrained("facebook/dpr-ctx_encoder-single-nq-base")
 
 print("INDEXING DATA")
 indexer = AnnoyIndex(EMBEDDING_DIM, 'dot')

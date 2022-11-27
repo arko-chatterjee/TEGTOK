@@ -177,3 +177,4 @@ logs/*
 runs/*
 *.ann
 scrape_data/*.json
+scrape_data2/*
