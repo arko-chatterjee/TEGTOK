@@ -64,10 +64,12 @@ def createDatasetFor(fileName):
             titleArrR.append("")
             scoreArrR.append(distance)
         for comment in post['comments']: 
-            output.append({"post": post['title'], "response": comment, 
-                "wiki_knowledge": textArrW, "wiki_knowledge_title": titleArrW, "wiki_knowledge_score": scoreArrW,
-                "reddit_knowledge": textArrR, "reddit_knowledge_title": titleArrR, "reddit_knowledge_score": scoreArrR,
-            })
+            if(len(comment) < 512 and comment != "[deleted]"):
+                output.append({"post": post['title'], "response": comment, 
+                    "wiki_knowledge": textArrW, "wiki_knowledge_title": titleArrW, "wiki_knowledge_score": scoreArrW,
+                    "reddit_knowledge": textArrR, "reddit_knowledge_title": titleArrR, "reddit_knowledge_score": scoreArrR,
+                })
+                break
 
     print("WRITING JSON")
     json_object = json.dumps(output, indent=4)

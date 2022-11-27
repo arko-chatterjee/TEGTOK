@@ -7,21 +7,22 @@ def splitDatasetFor(fileName):
     train = []
     test = []
     valid = []
-    i = 2
+    i = 1
     j = 1
+    k = 1
     for item in redditData:
-        if (len(item['response']) < 512):
-            if (i % 5 == 0):
-                item['dialog_id'] = "valid-"+str(int(i/5))
-                valid.append(item)
-            elif (i % 5 == 1):
-                item['dialog_id'] = "test-"+str(int(i/5))
-                test.append(item)
-            else:
-                item['dialog_id'] = "train-"+str(j)
-                j += 1
-                train.append(item)
-            i += 1
+        if (i % 10 == 1 or i % 10 == 2):
+            item['dialog_id'] = "valid-"+str(k)
+            k += 1
+            valid.append(item)
+        elif (i % 10 == 0):
+            item['dialog_id'] = "test-"+str(int(i/10))
+            test.append(item)
+        else:
+            item['dialog_id'] = "train-"+str(j)
+            j += 1
+            train.append(item)
+        i += 1
     
     print("WRITING JSON")
     json_object = json.dumps(train, indent=4)

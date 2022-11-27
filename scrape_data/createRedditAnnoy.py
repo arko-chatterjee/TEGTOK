@@ -29,7 +29,7 @@ def createAnnoyFor(fileName):
     i = 0
     for post in redditData:
         for comment in post['comments']:
-            if(len(comment) < 512):
+            if(len(comment) < 512 and comment != "[deleted]"):
                 if (i % 1000 == 0):
                     print(i)
                     measure()
