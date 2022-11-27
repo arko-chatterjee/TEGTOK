@@ -1,0 +1,2368 @@
+[
+  {
+    "dialog_id": "test-1",
+    "ground_truth": "Hey, stop being so hard on yourself. You have obviously proven yourself fit for the job, otherwise they would have offered it to someone else. I wish you the best of luck, you god damn rockstar. Congrats on your promotion!",
+    "generated": "You\u2019ve got a new job and it\u2019s going to be awesome. ",
+    "reddit_knowledge": "Aww this is such a neat idea. I'm pretty severely depressed in every definition, no motivation, no drive, no sense of self worth. But I have hope! I feel like soon my life might get better, but not due to anything on my part",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-2",
+    "ground_truth": "Keep that bit of anxiety running inside of you to motivate you to work hard tomorrow. It'll dissipate over time, but you'll already have established your work ethic. Win-win!\n\nCongratulations on landing the job, mate - you're an inspiration to those of us looking for one! YEAH! :D",
+    "generated": "You look like you\u2019ve got a great sense of style and style. I\u2019m sure you will find a job soon!",
+    "reddit_knowledge": "hope you are doing great, mental health is also health. i\u2019m here in case you need to talk to someone and exchange thoughts! :)",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-3",
+    "ground_truth": "No you!",
+    "generated": "You\u2019re very pretty!",
+    "reddit_knowledge": "Looking great!",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-4",
+    "ground_truth": "Have a great day everyone. Thanks /u/custardfactory_. ",
+    "generated": "You\u2019re brilliant! I\u2019m sure you\u2019ll find someone who\u2019s like you.",
+    "reddit_knowledge": "You're stunning!",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-5",
+    "ground_truth": "Hey man I totally know what it's like.. I was in a similar place and lost all motivation.\n\nI had to realise that there is no rational way to think your way out of your problems. Too much thinking is not going to help.\n\nHave you ever tried meditating before? The Headspace app is great for beginners and might help..\n\nhttps://www.headspace.com/",
+    "generated": "You\u2019re very pretty. I\u2019m sorry you\u2019ve had a rough couple months. I hope things improve for you soon.",
+    "reddit_knowledge": "Sorry for your loss. Hope you feel better ",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-6",
+    "ground_truth": "This is beautiful, thanks :)  \n\nI wish the same for you!",
+    "generated": "You have a very pretty face, and I love your hair! I hope you feel better soon!",
+    "reddit_knowledge": "Hey [u/LowCommunication2](https://www.reddit.com/user/LowCommunication2)\n\nif you like I send you an internet-hug and if you prefer you can change it for a high five. Irecommend the mental illness happy hour podcast which helped me many times. I'm sure you are a kind human and a brighter future is ahead.  \n",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-7",
+    "ground_truth": "This is a great idea. In one year. I have gone from homeless. To married with a kid. And, right now I'm a stay at home dad. But until 2 weeks ago I had my own business. And when old enough to start school. I can go right back to my business. My point is everyone needs to know they are doing well. And, that things will be ok. Good luck guys. ",
+    "generated": "You have a great smile, and I love your hair!",
+    "reddit_knowledge": "Definitely post to your ig. You are really goddamn cute!\n\nUsername checks out",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-8",
+    "ground_truth": "I love your glasses! Regular & sun! Also you are adorable ",
+    "generated": "You\u2019re very pretty, and I\u2019m sure you\u2019ll find someone who appreciates you",
+    "reddit_knowledge": "You look like an adorable nerd girl, what do they dispense at the dispensary?",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-9",
+    "ground_truth": "So, I went on to RateMe on here to hopefully get some constructive criticism to improve myself. It wasn't constructive at all, it was counterproductive because now I am very down about it. I don't really care about that now, I just need something to get me out of the dumps. I thought I could handle that mess, but I wasn't ready for people to call me out on my problems.",
+    "generated": "You have a great smile, and I love your hair!",
+    "reddit_knowledge": "really happy this is trending, would not have seen it otherwise :)",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-10",
+    "ground_truth": "Congratulations! That is actually a big deal. I have friends almost in their 30's who still don't know how. \\o/",
+    "generated": "You have a great sense of style! ",
+    "reddit_knowledge": "Wow it was a good idea :)) i honestly yhink it lokks super cool and sophisticated",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-11",
+    "ground_truth": "I love how neat your hair is. Obviously smiles aren't the easiest thing to do a lot of the time, but i think it'd look good on you :)",
+    "generated": "You\u2019re so cute!",
+    "reddit_knowledge": "Ah that sucks... Hope you'll feel better soon. And looking great!",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-12",
+    "ground_truth": "You've got really nice eyebrows - they arch well!",
+    "generated": "You\u2019re very pretty, and I\u2019m sure you\u2019ll find someone who\u2019s as good looking as you!",
+    "reddit_knowledge": "I gotta respect you and this post just for saying rad in it honestly, haven't seen that in a while",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-13",
+    "ground_truth": "Hey, I have that haircut, too! I freaked out at first because I really hated it, but after a week or so I loved it! Sometimes haircuts have to grow on you and I think this one will totally grow on her :) *even now it looks super cute to me btw, just had to share my anecdote!",
+    "generated": "You look like you\u2019ve got a great sense of style!",
+    "reddit_knowledge": "You look like a nice dude, also I love ur hair and beard",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-14",
+    "ground_truth": "You are totally adorable, have a sweet face, and the way your hair slightly curls in the back is lovely.  You also look really young, high school/early college perhaps I'm guessing.  So please understand that when you get out into the world and meet more people, you will realize that rejection at this age is fleeting and you have just yet to find your 'people.'\n\nHappy New Year's!",
+    "generated": "You have a very pretty face, and I love your hair!",
+    "reddit_knowledge": "I've been suffering from depression for quite some time now, but been too stubborn to get help until now (New Year's resolution). Grades suffering. Wasting away my college opportunity. Feel like a failure. Parents seem to run away. Might be minute in the gist of things, but it doesn't help that I've been rejected by every girl I've been interested in. ",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-15",
+    "ground_truth": "You're super attractive.  Looked at your profile and it was touching how you try to help people with depression.  You're good people as someone that is fighting depression I appreciate it. ",
+    "generated": "You\u2019re really cute. I\u2019m sorry to hear about your loss. I hope you\u2019ll feel better soon. ",
+    "reddit_knowledge": "Sorry for your loss. Hope you feel better ",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-16",
+    "ground_truth": "That mustache is beastly as shit.",
+    "generated": "You beard looks great!",
+    "reddit_knowledge": "I gotta respect you and this post just for saying rad in it honestly, haven't seen that in a while",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-17",
+    "ground_truth": "So much hate on reddit, why is it that i see compliments and it feels out of place. Reddit is so\nOdd. ",
+    "generated": "You have a very pretty face, and I love your hair!",
+    "reddit_knowledge": "I appreciate your posts. Have a great weekend!",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-18",
+    "ground_truth": "God, you're beautiful ",
+    "generated": "You look like you\u2019ve got a lot of fun to do!",
+    "reddit_knowledge": "I think you look just fine, just a little tired. Nothing to be insecure about. As for your eyes (if they really bother you so much): have you tried applying a cooling eye cream? \n",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-19",
+    "ground_truth": "You're cute, but I'm more than a bit intimidated by that zucchini (cucumber...squash...whatever)",
+    "generated": "You\u2019re very pretty!",
+    "reddit_knowledge": "Also sorry I\u2019ve posted again (I was here 9 days ago). You guys are so awesome here and it just feels good talking to all of you and meeting people. ",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-20",
+    "ground_truth": "Ur hair style is on point..u have beautiful eyes ... Just go to mirror and look deep in ur eyes..u might fall in love with it...",
+    "generated": "You look like you\u2019ve got a great smile!",
+    "reddit_knowledge": "Sorry to read about this :( hope al is well!! Prayers and good wishes coming your way!!",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-21",
+    "ground_truth": "u aint short gurl u funsized",
+    "generated": "You\u2019re so cute! I\u2019m so sorry you\u2019ve been made fun of for being short. \n\nI hope you feel better soon!",
+    "reddit_knowledge": "Thanks everyone for the sweet comments :) I really didn't expect to get so many!\n\nIf anyone's interested I can post another one or you can just ask me anything :) \nThanks again I'm pretty much shocked",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-22",
+    "ground_truth": "Hey there buddy!\n\n[We've created a new rule for people posting selfies - you have missed it by just a bit, so we're not removing it!](https://www.reddit.com/r/FreeCompliments/comments/4ez2fh/a_minor_change_for_those_posting_selfies/) I didn't see anything in your history that follows it, so I'll approve your post once you complete those little precursors. It's just to ensure quality involvement in the community.\n\nLet me know when you've done so - and Happy FreeComplimenting! :D",
+    "generated": "You, you look good. \n\nI hope you feel better soon.",
+    "reddit_knowledge": "Well thank you for posting again. Damn",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-23",
+    "ground_truth": "You're a handsome lad and the older you get, the more you'll appreciate that baby face. ",
+    "generated": "You look like a fun person to hang out with!",
+    "reddit_knowledge": "That\u2019s fantastic! Thanks for sharing \ud83d\ude0a",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-24",
+    "ground_truth": "Hey bro, first loves are tough, sorry about the breakup. Keep on going each day, try to smile a few times a day, and do it again the next, and you'll get through this. One day, impossible as it sounds, you'll be happy, love, and be loved again. ",
+    "generated": "You\u2019re so cute!",
+    "reddit_knowledge": "My boyfriend of four years tried to sleep with my friend on our anniversary...when confronted he simply told me he's not attracted to me anymore and also he still wants to be my best friend. ",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-25",
+    "ground_truth": "You've got a kinda cheeky look about you that i really like, i bet you've got a smile that would light up a whole room.\n\nAlso like somebody else said, you've got very lovely eyes, very striking.",
+    "generated": "You\u2019ve got a great smile! I hope you\u2019re able to keep smiling!",
+    "reddit_knowledge": "You seem like a really nice and funny guy based on your comment history. ",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-26",
+    "ground_truth": "You look like a super chill laid back dude that would be fun to grab a beer with.",
+    "generated": "You\u2019re very pretty, and I\u2019m sure you\u2019ll find someone who appreciates you!",
+    "reddit_knowledge": "Thank you everyone for the lovely comments! I feel better, and not as gross looking anymore. ",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-27",
+    "ground_truth": "I'm listening to it now and it's dope so far. I'm 1 minute in and it's pretty relaxing. 2 minutes in now; it's still relaxing but more fast-paced.\n\nAfter listening to it: I have to say that was very good! I'm inept when it comes to writing, playing and designing music so I wouldn't be able to give you much advice on improving your work. All I can say is keep making music man! :D",
+    "generated": "You\u2019re really good. I\u2019m not sure if it\u2019s a good song or not, but I think you\u2019ve got a great style.",
+    "reddit_knowledge": "Wow, I see some songs there that take me back to my high school days (Journey)! Thanks for the memories! ",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-28",
+    "ground_truth": "I really needed this OP! Been having a rough time with finals and depression coming back to bite me.",
+    "generated": "You\u2019re very pretty, and I\u2019m sure you\u2019ll find someone who appreciates you.",
+    "reddit_knowledge": "I hope you have a good day too!",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-29",
+    "ground_truth": "Hey, man. Sorry you got cheated on. It's evident by the fact that she stayed for so long that you were worth keeping to her, and it was kind of her to at least be honest with you. If she cared so much as to spare your feelings, you must be a really great guy.",
+    "generated": "You\u2019re a good looking guy, I\u2019m sure you\u2019ll find someone who appreciates you.",
+    "reddit_knowledge": "She didn't deserve you anyways",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-30",
+    "ground_truth": "Braces actually look cute on you. ",
+    "generated": "You\u2019re the one in the middle!",
+    "reddit_knowledge": "Thank you everyone for the lovely comments! I feel better, and not as gross looking anymore. ",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-31",
+    "ground_truth": "I'm sorry, that's awful he didn't explain why or give you a heads up. It'll turn out just fine though! I bet tons of restaurants could use someone with your kind of experience. Start the job hunt now, look around for a place that's hiring and you'll be back working in no time! Maybe you can get some financial support from family/friends in the meantime. Good luck! :)",
+    "generated": "You\u2019re so sorry. I\u2019m so sorry for your loss. I hope you\u2019ll be able to find a new job soon.",
+    "reddit_knowledge": "Am I gay.. fuck I don\u2019t know anymore ",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-32",
+    "ground_truth": "The only thing that's ugly is your ex Co workers personality. You are better off. I'm sure you are a wonderful person!! ",
+    "generated": "You\u2019re so cute! I\u2019m so sorry to hear about your loss. I hope you feel better soon.",
+    "reddit_knowledge": "What's there to be dysphoric about?  ",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-33",
+    "ground_truth": "You shouldn't feel inadequate. :) I think you look really beautiful, and your smile is stunning in all of those pictures. You're pretty attractive, don't sell yourself short!",
+    "generated": "You have a very pretty face, and I love your hair!",
+    "reddit_knowledge": "I hope you have a good day too!",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-34",
+    "ground_truth": "You're beautiful! Your lipstick is fantastic, and I love your glasses :) sorry life's been rough, but things will get better, dear. And just remember that if your fianc\u00e9 thought you were a burden, he wouldn't be marrying you :)",
+    "generated": "You\u2019re a burden on your fianc\u00e9. I\u2019m sorry to hear about that. I hope you find a job that suits you well. \n\nI hope you\u2019ll find one that fits you. ",
+    "reddit_knowledge": "I've been battling depression for the past two years. I'm broke and I can't afford my meds. I got robbed and in the struggle my glasses were broken. I have no money to replace them and not having them makes doing anything at night difficult. I'm almost at my breaking point.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-35",
+    "ground_truth": "wow ",
+    "generated": "You\u2019re a good looking guy, and I\u2019m sure you\u2019ll find someone who appreciates you.",
+    "reddit_knowledge": "This makes me feel a little better :)",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-36",
+    "ground_truth": "You are a very attractive guy and don't let anyone tell you differently. You have a face of a man not a boy. ",
+    "generated": "You have a very pretty face, and I love your hair!",
+    "reddit_knowledge": "Not a selfie but it's close enough for flair purposes I guess.\n\nI actually really like this photo, which is rare for me. I just spent a little while before posting this reading through comments on this sub. I just want to let you all know that you are all amazing people and I have love for you all, even though you're strangers. ",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-37",
+    "ground_truth": "dude you are really are a good looking guy, get confident bro. do changes of styles, save money, travel and be interesting. you are young bro... it is worst when you get older\n",
+    "generated": "You\u2019re so beautiful! I\u2019m so sorry to hear about your loss. I hope you feel better soon.",
+    "reddit_knowledge": "My guy out here living the life",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-38",
+    "ground_truth": "When I saw the thumbnail, I thought it was from r/PrettyGirls, another sub I'm subbed to. Let's put it that way.",
+    "generated": "You\u2019re so cute! I\u2019m so sorry to hear about your loss. I hope you feel better soon.",
+    "reddit_knowledge": "You are literally so cute, like wtf. Have any tips, because I wanna be this cute? \ud83d\ude06",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-39",
+    "ground_truth": "Your unconventional facial structure, skin tone, and lack of eyes thrill me. Also, that guy you're hugging is cute as fuck.",
+    "generated": "You look like a great person to hang out with!",
+    "reddit_knowledge": "Sorry to hear pretty girl \\*hugs\\*",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-40",
+    "ground_truth": "Man she must've been crazy to cheat on a fella like you! Don't let it get you down! You're a good looking dude I guarantee she wasn't the only chick wanting to hang with you! Get that handsome face back out there and show the world you don't get knocked down that easily! Call up an old friend or family member you haven't seen in a while, I bet they'll love to hear from you and want to hang out! Life is too short to spend it feeling sad, especially when you're a boss =D",
+    "generated": "You\u2019re a good looking guy, and I\u2019m sure you\u2019ll find someone who appreciates you.",
+    "reddit_knowledge": "Looks like you never left, gotta say I'm jealous",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-41",
+    "ground_truth": "You have pretty eyes.\n\nYou know? Looking at you, I wouldn't guess that you were struggling with anything. You look like one of those guys who has their shit together, and maybe there is one of those guys inside you, waiting to reveal himself. Remember: sometimes it's not who you think you *are* that's holding you back, it's who you think you're *not*.",
+    "generated": "You\u2019re a great looking guy, and I\u2019m sure you\u2019ll feel better soon.",
+    "reddit_knowledge": "I've been battling depression for the past two years. I'm broke and I can't afford my meds. I got robbed and in the struggle my glasses were broken. I have no money to replace them and not having them makes doing anything at night difficult. I'm almost at my breaking point.",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-42",
+    "ground_truth": "Happy birthday! \ud83c\udf82 \ud83c\udf88 \n\nI'm sorry that others didn't wish you a happy birthday, but even if you're alone, it means you're never in bad company. Please don't be sad on your birthday, the importance of the day still remains and it's just as significant. Treat yourself to all the things that make you happy  \n\nHave a wonderful day! ",
+    "generated": "You birthday girl! Happy birthday!",
+    "reddit_knowledge": "My ex boyfriend cheated on me, and I've had a really rough few weeks thinking I'm not worth anyone's time.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-43",
+    "ground_truth": "I know, right? I felt narcissistic coming here at first, but it feels so good to have a supportive place to just make people feel better. I'm an insecure people pleaser, this is a great sub for that lol. Good luck nurturing your kind side, I think it's a great thing to improve!",
+    "generated": "You look like you\u2019re a great person to hang out with!",
+    "reddit_knowledge": "You look like a sexy badass!",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-44",
+    "ground_truth": "You're too pretty, it's intimidating! Plus, if you're doing what you love you're already a step above the rest of us!! Just keep doing you, girl! ",
+    "generated": "You\u2019re a great looking guy. I\u2019m sure you\u2019ll find someone who appreciates you. ",
+    "reddit_knowledge": "I'm 17 and 100% all I want to do in life is play music but all my friends say I'll never make it and I'll be poor forever. I'm already poor guys!",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-45",
+    "ground_truth": "You're pretty, your hair is stunning and you obviously know how to dress well and your makeup is sublime! No need to feel down at all!",
+    "generated": "You look like you\u2019re in a great mood!",
+    "reddit_knowledge": "Ah that sucks... Hope you'll feel better soon. And looking great!",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-46",
+    "ground_truth": "You're gorgeous! (I'm also suffering. The holidays doesn't make it any easier. Hang in there!)",
+    "generated": "You\u2019re so cute! I\u2019m so sorry you\u2019ve been going through that. I hope you\u2018re feeling better soon.",
+    "reddit_knowledge": "Nothing wrong with looking for support. I'm sorry you've had the roughest time of your life but that just means it's only up from here! You seem like really fun person to be around. Hope you feel better soon. ",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-47",
+    "ground_truth": "You two look like you're about to drop the hardest rap album since Run the Jewels 3. ",
+    "generated": "You have a cute kitty!",
+    "reddit_knowledge": "I love your fashion!! it's super pretty",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-48",
+    "ground_truth": "well I don't enough about poetry or art to really critique your work. but for what it's worth from just a regular guy I thought it was more gripping and kept my attention better than I thought it would so I think that is a good thing :)",
+    "generated": "You\u2019re a great writer. I\u2019m sorry you\u2019ve had to go through this, but I hope you find a way to make it better.",
+    "reddit_knowledge": "I don\u2019t think you post too much.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-49",
+    "ground_truth": "hey man, i'm sorry things aren't working out for you right now. just try and power through it, and remember the harder it gets, the prouder you'll feel coming out the other side. plus, you have a really good face shape, so focus on that for now :D",
+    "generated": "You\u2019re a great person and I\u2019m proud of you for making it this far. ",
+    "reddit_knowledge": "Going through a midlife crisis right now and really doubting myself... trying to lose weight and learn to love myself.",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-50",
+    "ground_truth": "You have beautiful eyes.",
+    "generated": "You have a great smile!",
+    "reddit_knowledge": "New haircut looks great!",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-51",
+    "ground_truth": "You look like a badass viking Leif Ericsson kind of guy, who also has a good sense of humor. (Maybe it's just the t-shirt that made me think that)\n\nBut seriously, don't beat yourself up brah. I wish you the very best.",
+    "generated": "You\u2019ve got a great smile!",
+    "reddit_knowledge": "It gets easier my friend you just have to keep trying and improving. But that's the hard part, you gotta do it everyday. But it does get better i promise",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-52",
+    "ground_truth": "Hi! :) You're cool because you're brave (able and willing to share your challenges in a public forum) and also because you're forthright (able to clearly recognize and state what you're feeling) which is a good combination! Appearance-wise, your orange tinted glasses are cool, and also how your hair nicely matches your sweater in color and texture. :)",
+    "generated": "You\u2019re a good looking guy, and I\u2019m sure you\u2019ll find someone who appreciates you.",
+    "reddit_knowledge": "I'm just one lonely ass dude, anything to help really.",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-53",
+    "ground_truth": "http://imgur.com/CB4EsZi",
+    "generated": "You\u2019ve got a great smile, and I\u2019m glad you\u2019re having a great day!",
+    "reddit_knowledge": "I\u2019d approach for her number for sure",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-54",
+    "ground_truth": "Me too, buddy. But if I was inclined that way I'd be happy to date you.\n\nYou have some great, full, manly stubble, a good looking face, and nicely styled hair. \n\nAnd in your short time on reddit, you've dedicated the majority of your posting to being kind, understanding, and giving out free compliments. \n\nKeep up the good work",
+    "generated": "You look like you\u2019ve got a lot of fun to be around!",
+    "reddit_knowledge": "Doing the sober life for over a year now. Not easy but rewards are worth it.",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-55",
+    "ground_truth": "deleted  ^^^^^^^^^^^^^^^^0.2857  [^^^What ^^^is ^^^this?](https://pastebin.com/FcrFs94k/08616)",
+    "generated": "You have a great smile, and I love your hair!",
+    "reddit_knowledge": "You remind me very much of someone I love dearly who no longer is in my life. Therefore I think you're awesome and I instantly like you! :-) Glad you are feeling better!!",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-56",
+    "ground_truth": "Okay? No, you don't look okay. You look fantastic. You should be so proud to look as good as you do, and you should realize that you look perfect as you are right now - the reason other people have talked you down is simply because they envy you, and they want to bring you down to their level. Don't believe them, they couldn't be more wrong. Take a smile with you as you go, and use it in the face of those who belittle you. You got this. <3",
+    "generated": "You\u2019re so cute! I\u2019m so sorry you feel down. I hope you feel better soon.",
+    "reddit_knowledge": "Looking good hope you had a good day also.",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-57",
+    "ground_truth": "Hey I like it! Would fit really nicely into a movie like Garden State. Also, pretty cover.",
+    "generated": "You\u2019re a great band, and I\u2019m sure you\u2019ll find someone who appreciates your music.",
+    "reddit_knowledge": "I find you to be very attractive :)\nDay by day if you work on self love I hope that you can change your own mind. I struggle with self esteem and self worth all the time but I\u2019m getting stronger and every day I look for ways to express my self love and gratitude.",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-58",
+    "ground_truth": "you look super cuddly come out of that bag so we may cuddle you!",
+    "generated": "You have a very cute face, and I love your hair! ",
+    "reddit_knowledge": "Lol. You want free compliments, free pizza and steal snacks? \n\nMaybe you wouldn't feel so bad if you weren't a thief. ",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-59",
+    "ground_truth": "That was beautiful, the singing and the guitar playing!",
+    "generated": "You\u2019re really good at it. I\u2019m really proud of you for trying to improve your singing. I hope you\u2019ll be able to get better soon.",
+    "reddit_knowledge": "This song cheers me up when I'm feeling a bit down. Hopefully it eases some of you folks as well.",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-60",
+    "ground_truth": "You have such healthy hair! And your haircut looks very nice! :) \n\n(Sometimes when you have a good haircut, people don't notice because it looks like it always should have. Kind of like how you know you've made a good home improvement decision when the end result looks like it always should have been that way. Humans tend to notice things that don't look right more often, unfortunately) ",
+    "generated": "You look great!",
+    "reddit_knowledge": "You're still here and that means you're awesome already! Your tats look dope!",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-61",
+    "ground_truth": "You have a cool face, I'm jealous of your ear gauges too, I can't pull that off but you totally do.",
+    "generated": "You\u2019ve got a great smile!",
+    "reddit_knowledge": "On one hand fretting is not helpful on the other...\n\n\nBad jokes help, right?\n\n",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-62",
+    "ground_truth": "I'm so sorry for your heartbreak, but am certain that one day you'll find someone who appreciates someone as Zazzy as you!!\n\n\"'Don't cry because it's over,\u00a0smile because it happened.\" -Dr. Seuss",
+    "generated": "You\u2019re a good looking guy, and I\u2019m sure you\u2019ll find someone who appreciates you. ",
+    "reddit_knowledge": "Divorced FOR 18 months after being with the same person my entire life, just met someone new and am falling for her big time, looks like she is falling for me too :)",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-63",
+    "ground_truth": "Your drawings are great especially the dragon!",
+    "generated": "You, you\u2019re a great illustrator, and I\u2019m proud of you for making this happen. ",
+    "reddit_knowledge": "Well, I feel grateful that you posted this. You are extraordinarily lovely.",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-64",
+    "ground_truth": "Sending you a big ((( internet hug ))) \u2665\ufe0f I hope the hormones balance out soon. You've got this. ",
+    "generated": "You\u2019re a good looking guy. I\u2019m sorry to hear about your rough week. I hope you\u2019ll feel better soon.",
+    "reddit_knowledge": "Hello from a fellow 81 baby! Best of luck in your new job!",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-65",
+    "ground_truth": "You're beautiful! I have no idea why people would be so rude telling others parts of their bodies are 'wrong' somehow. Your nose looks great to me personally, but it's your face as a whole that is really special. All together you have a great look, kind of vaguely reminds me of young Molly Ringwald in a way? Anyway you just ignore those insecure haters you are wonderful exactly as you are - and you wear makeup (or don't) for any reason you want :) ",
+    "generated": "You have a very pretty face, and your nose is very pretty. \n\nI think you are very pretty, and I love your hair. ",
+    "reddit_knowledge": "I think the people telling you that you're ugly are:\n\nA.) In need of corrective lenses \n\nand\n\nB.) The ones who are ugly in soul if not necessarily in visage. ",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-66",
+    "ground_truth": "And because no one else said it, you have lovely cleavage.",
+    "generated": "You\u2019re so cute! I\u2019m so sorry you\u2019ve had a rough couple of days. I hope things get better soon.",
+    "reddit_knowledge": "I'm sorry to hear you had such a bad day! Nothing serious happened I hope?",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-67",
+    "ground_truth": "What a cute! I'm loving them glasses and that shirt looks super comf. What a lovely smile you have. :) Thanks for brightening our day with your selfie.",
+    "generated": "You\u2019re so cute! I\u2019m sorry to hear about your loss. I hope you\u2019ll feel better soon.",
+    "reddit_knowledge": "The last few months have been pretty rough, I could really use a hug or two. ",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-68",
+    "ground_truth": "Man, it's totally normal to feel that way, but it's just a feeling we get sometimes - it doesn't mean people actually don't want to be around you!  Even if you get that vibe of someone, it's usually that they are having a rough day.  They probably just need a free compliment too!\n\nYour smile and especially your eyes are engaging. You give the impression of a great listener. That's someone people want to be around!  Go put yourself out there my friend!",
+    "generated": "You\u2019re very pretty, and I\u2019m sure you\u2019ll find someone who likes you.",
+    "reddit_knowledge": "u kinda look like grace from umbrella academy",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-69",
+    "ground_truth": "Dude that is really good!  I could totally see that being on the radio.  \n\nI LOVE that hollowish tone that goes throughout, like a bell maybe?  I don't know much about music lol.  But i really liked that!  The lyrics are amazing too.  All around it is very well done!  Good job!!",
+    "generated": "You\u2019re so cute! I\u2019m so sorry to hear that. I hope you\u2019ve had a great day!",
+    "reddit_knowledge": "Thank you for this. All these good music recommendations today in the queue! This is awesome!",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-70",
+    "ground_truth": "You've got a very nice smile, and warm, welcoming eyes to match. As for your \"oversized\" nose, I really just don't see it. Something about you is just so comforting and kind.",
+    "generated": "You\u2019re very pretty, and I\u2019m sure you\u2019ll find someone who appreciates your nose!",
+    "reddit_knowledge": "Super duper cute",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-71",
+    "ground_truth": "your jawline is defined as hell\ud83d\ude0d ",
+    "generated": "You\u2019ve got a great smile, and I\u2019m sure you\u2019ll feel better soon!",
+    "reddit_knowledge": "Holy shit you look great. I wish I could lose weight like this",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-72",
+    "ground_truth": "Good for you! Wishing you the best.",
+    "generated": "You\u2019re a young man and I\u2019m so proud of you for loving yourself and the man you are. ",
+    "reddit_knowledge": "I am a woman with ASD and ADHD and my hubby is a 53 yr old with Aspergers and ADHD. He has worked since he was 16. I worked untill I became a Stay at home mom at 33. You just need the right environment. You can do this. Contact your local Voc Rehab. You got this!!!!!",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-73",
+    "ground_truth": "Well you are adorable, you are very pretty, and your eyes are gorgeous.  Depression is shitty, and Im sorry you are loving with it, but life is full of changes and things will turn up soon!  I hope you feel better, you certainly have nothing to be insecure about :)",
+    "generated": "You\u2019re very pretty, and I\u2019m sure you\u2019ll find a way to improve your appearance. \n\nI\u2019ve been struggling with depression and anxiety for a while, and it\u2019s hard",
+    "reddit_knowledge": "I've been working on my posture for about two months and it's finally starting to pay dividends. I look confident and more tall and feel very good",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-74",
+    "ground_truth": "Just make sure to take care of yourself man, drugs can be fun but they are dangerous af too.  You seem like a chill dude though!  I would totally grab a beer with you",
+    "generated": "You\u2019re a good looking guy, and I\u2019m sure you\u2019ll feel better soon.",
+    "reddit_knowledge": "I've been battling depression for the past two years. I'm broke and I can't afford my meds. I got robbed and in the struggle my glasses were broken. I have no money to replace them and not having them makes doing anything at night difficult. I'm almost at my breaking point.",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-75",
+    "ground_truth": "Weight comes and goes and does not define you. You seem like a great guy and are still very handsome and I'm so sorry for anybody who made you feel bad because you don't deserve that.\n\nIf you ever do plan on losing the weight, r/loseit is a great and super supportive sub full of kind people. Whether you do or not, though, you still are just as deserving of love as everybody else!",
+    "generated": "You\u2019re very pretty, and I\u2019m sure you\u2019ll find someone who\u2019s not fat.",
+    "reddit_knowledge": "I feel so lonely, I feel like most of my friends have turned their backs on me for no reason.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-76",
+    "ground_truth": "I loved this! \"You're the bloke! You're him!\" That's a great feeling knowing you've been recognized. I startled my cat laughing at \"He forgot to rob me\" and I really appreciated the subtitles, as I'm a little hard of hearing. Thanks for the laugh!\n\n+\n\nEdit: I misunderstood the points system but idc, OP still made me smile",
+    "generated": "You look like you\u2019re putting a lot of effort and effort into this. \n\nYou\u2019ve got a very pretty face, and I\u2019m sure you have a great smile :)",
+    "reddit_knowledge": "i\u2019m sorry about your job:( i hope you find a new one soon, and i hope you take time to heal\u2764\ufe0f",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-77",
+    "ground_truth": "how YOU doin cutie <3 I know it's next to impossible to believe or feel when you're lonely or sad, but you've got some Anne Hathaway vibes going on, cute but also sexy. Your little smirk is everything, it even made me smirk a bit just looking. If it means anything, I'm a straight cis dude and I would gladly go out of my way to talk to or get to know you :)",
+    "generated": "You look like you\u2019ve got a lot of fun to do with your friends. ",
+    "reddit_knowledge": "I've been struggling with life a bit lately. Nothing to the point of hurting myself or anything, but life decisions that I've made and continue to make are just compounding on top of one another and I'm a bit depressed and lonely. Not trying to give a sob story or anything, but a compliment would be nice and greatly appreciated.... :)",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-78",
+    "ground_truth": "Fingers crossed the issue is figured out soon and the solution is a simple one. You look absolutely stunning, love your hair and your glasses are very cute (I hate it when people say that to me but it really does seem appropriate). Your figure looks absolutely wonderful as well. Hope your recovery is quick!",
+    "generated": "You\u2019re so cute! I\u2019m so sorry to hear about your health. I hope you feel better soon!",
+    "reddit_knowledge": "College feels like I prison and i can't take it anymore. Due to some constraints, I can't change colleges till May. Can someone tell me I can make it for another 5 months?",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-79",
+    "ground_truth": "what a shitty situation. Just remember that situations pass, and you'll come out stronger for them. keep a smile on and the world will smile back. ",
+    "generated": "You\u2019re a beautiful young lady. I\u2019m so sorry to hear about your car crash. I hope you\u2019ll be okay. ",
+    "reddit_knowledge": "Got in a car accident 2 and a half years ago.  Fractured my back and was prescribed some pretty serious painkillers.  They damn near ruined my life.  Been clean for almost 2 months, starting rehab next week.  The hardest part has been the depression",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-80",
+    "ground_truth": "It's a big challenge to get out there and confront your anxieties, but judging by the picture, you're doing awesome!",
+    "generated": "You look like you\u2019re a fun person to hang out with. ",
+    "reddit_knowledge": "Going through a midlife crisis right now and really doubting myself... trying to lose weight and learn to love myself.",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-81",
+    "ground_truth": "Good. I'm glad Tormund has a counterpart in real life. Excellent. You'll keep us safe from the White walkers for awhile. At least, that's what I want to believe. You look excellent bro. Have a nice day!",
+    "generated": "You\u2019ve got a great smile!",
+    "reddit_knowledge": "Well you're beautiful! ",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-82",
+    "ground_truth": "What's up man?\n\nYou look like you are a good friend to those around you. You try to help other people out and make them happy before yourself. Make sure to take care of yourself too, you are your own best friend and ya gotta love yourself.\n\nHope you have a better week brologna!",
+    "generated": "You\u2019re really good at it! I\u2019m really proud of you for trying so hard to stay happy!",
+    "reddit_knowledge": "I am so sorry. Would love to dm if you m\nNeed an ear to listen",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-83",
+    "ground_truth": "Um, that's really dumb and unprofessional of them. Forget them. And if it makes you feel better, I'm really jealous of the facial hair. \ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb",
+    "generated": "You\u2019re so cute! I\u2019m so sorry to hear about your hearing loss. I hope you feel better soon!",
+    "reddit_knowledge": "I am so sorry. Would love to dm if you m\nNeed an ear to listen",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-84",
+    "ground_truth": "I don't see a breakdown incoming. I see a smiling gentleman ready to take on the world. Don't believe me? Your passion is clear and your mind is set. Give yourself a chance to look. The stage is ready. The lights are on. You're dead center, willing to perform your best, to be your best. I see you. I see you want to succeed. So go fucking do it man.\n\nPerform your best. Be your best. Get yourself out on the adventure of 'trying'. You got this bro!",
+    "generated": "You, I'm sorry you're going through this. I'm sure you'll find someone who appreciates you. ",
+    "reddit_knowledge": "I got divorced about 3 years ago, after 13 years. Didn't want to - she left. Still, amicable and civil. It sucks for a while, but you will be OK.",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-85",
+    "ground_truth": "I'm really glad I found this too. For me, when I'm upset or down, making someone else smile or anything like that really helps me. ",
+    "generated": "You\u2019ve got a great smile!",
+    "reddit_knowledge": "I think you\u2019re cute ",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-86",
+    "ground_truth": "Listening.\n\nEdit: Wow. Yup, this is a song for the ages. So positive and hopeful.",
+    "generated": "I\u2019m sorry you\u2019re feeling down. You\u2019ll be found.",
+    "reddit_knowledge": "You have give off a huge Chris Pratt vibe! Please stay safe man and if you need anyone to talk to, I\u2019m here :)",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-87",
+    "ground_truth": "Fallout??? I've been playing it since Fallout 2 bro!!! Every achievement in FO3, New Vegas, and FO4. One left in FO: Shelter because...legendary dwellers are too hard to find.\n\nHAAAA HAAAAA! THERE YOU ARE!!! Oh Fawkes you damned awesome mutant. :D\n\nYou're awesome man. This brought a smile to my face. Glad to see another fan out there!",
+    "generated": "You look like you\u2019re a fan of Fallout.",
+    "reddit_knowledge": "Is there anything cooler than you on that skateboard? I don't think so. Also love your username. ",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-88",
+    "ground_truth": "All i could think of when i saw this was \"I wanna be her friend!\". You look like all the pure joy of the world wrapped up into one spectacular person. And i agree, school sucks lol",
+    "generated": "You have a great smile, and I love your hair!",
+    "reddit_knowledge": "Hey, you look cute! I hope you have a great day.",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-89",
+    "ground_truth": "I wouldn't take you to be someone who is super unlikable, You can judge a person a lot on the way they smile, and you have an incredibly friendly and approachable smile. Hope the rest of the year gets better for you!",
+    "generated": "You\u2019re very pretty, and I\u2019m sure you\u2019ll find someone who appreciates you.",
+    "reddit_knowledge": "You gotta stop hanging out with mentally blind people bro.... You look awesome \ud83d\ude0e\ud83d\udc4d",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-90",
+    "ground_truth": "Man, you're video's really great. Your quality and editing are top notch and you're a chill dude to listen to who sounds very natural.\nI know how cathartic making videos can be, especially when it's your passion to bring enjoyment to people. I used to make videos myself but aren't able to anymore for personal issues, which doesn't make things easier at it was one of my only joys in life. If you can keep making videos, and you love doing it, then for god sake, keep it up pal! :D",
+    "generated": "You\u2019re very pretty, and I\u2019m sure you\u2019ll find someone who appreciates your videos. \n\nI hope you have a great day!",
+    "reddit_knowledge": "I'm not too savvy with Steven Universe either. But I love the colors! The kind of uneven lines also give it a more natural look, less rigid if you will. It also kind of makes it look 8-bit which I adore. \n\nKeep drawing! ",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-91",
+    "ground_truth": "My friend, the best help anyone gave me when my self confidence was low was to do some good things just for you. Get a cool new hairstyle you've always wanted, do a little exercise for the endorphin boost, declutter your living space. Treasure yourself the way we treasure you :)",
+    "generated": "You\u2019re very pretty, and I\u2019m sure you\u2019ll find someone who appreciates you.",
+    "reddit_knowledge": "I've always had waves of depression along with waves of happiness, bouts of self-loathing then peaks of joy. I've been doing better the past couple months but now I feel so utterly useless and alone. Today I have friends who want to hang out but I'm assuming that they only feel sorry for me and they're doing this out of pity.",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-92",
+    "ground_truth": "Well if it helps your probably one of the most beautiful girls I've ever seen, your eyes are like emeralds and you hair like ambrosia. Ok I know that last one didn't make a lot of sense but I do really like the color of it. If you need someone to talk to or just to vent to I would be more then happy to listen. ",
+    "generated": "You\u2019re very pretty and I\u2019m sure you\u2019ll find someone who appreciates you. ",
+    "reddit_knowledge": "Thank you for making me cry again today, I needed that.  You are a good being.",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-93",
+    "ground_truth": "Thats sweet of you. Happy halloween to you too!",
+    "generated": "You\u2019re very pretty. I\u2019m sure you\u2019ll find someone who appreciates you",
+    "reddit_knowledge": "Thank you",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-94",
+    "ground_truth": "Nah, you're nowhere near ugly. Your eyes and lips are really good, it's a good face you got.\n\nRelationships are hard to start and maintain, you're not alone in that sense. \n\nBeing lonely is tough but being in a bad relationship is worse. Keep being kind and reach out, you'll find somebody worthwhile.",
+    "generated": "You\u2019ve got a good soul, and I\u2019m sure you\u2019ll find someone who appreciates you. ",
+    "reddit_knowledge": "I haven't been out with people in 6 months. I don't know if it's my personality that no one likes, or I'm some kind of an introvert who just wants be to be alone",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-95",
+    "ground_truth": "I am so proud of you for finishing school! What did you graduate in? I graduated this year for accounting. \nAny dream job you have? ",
+    "generated": "You\u2019re a good looking guy, and I\u2019m sure you\u2019ll find someone who appreciates you.",
+    "reddit_knowledge": "* damn *",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-96",
+    "ground_truth": "Treat yourself kindly, you deserve happiness too! Maybe it wasn't your fault but a combination of factors. Get some sunshine, take a walk, smile a lot, watch some TV, whatever makes you happy. Maybe some things happen for a reason, maybe not. Maybe in some way this might be better for her, for you, or for both of you? Be kind to yourself, hang out with friends, hopefully you'll start feeling better with time",
+    "generated": "You\u2019re so cute! I\u2019m so sorry you\u2019ve had to go through that. I hope you feel better soon!",
+    "reddit_knowledge": "I think everyone feels this way, I know I certainly did! So know that you're not alone. College is tough but you're even tougher! Just think about everything that you're learning and everything that you'll be able to do once you're graduated! I personally can't wait to see you post something you made in your 3D animation course!!",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-97",
+    "ground_truth": "Hey man I don't think there is such a thing as a sob story. It's most definitely not selfish to want to be happy. I'm so sorry that life has been such a downer that you would half ass attempt to end but that still is half a reason to go on. No matter what I surely would be upset if you weren't here. I would like to hear more of your story :) \n\nCompliments are hard on text posts but saying \n\nThanks reddit and that emoticon ohh top notch ",
+    "generated": "You\u2019ve got a very pretty face, and I\u2019m sure you\u2019ll find someone who appreciates you. ",
+    "reddit_knowledge": "I've always had waves of depression along with waves of happiness, bouts of self-loathing then peaks of joy. I've been doing better the past couple months but now I feel so utterly useless and alone. Today I have friends who want to hang out but I'm assuming that they only feel sorry for me and they're doing this out of pity.",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-98",
+    "ground_truth": "Cool gauges bro",
+    "generated": "You\u2019re 21, you\u2019ve got a lot to love about you. ",
+    "reddit_knowledge": "I'm 16 by the way, I checked the rules and they didn't say anything about underage people not being allowed, so sorry if it's against the rules anyway. ",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-99",
+    "ground_truth": "You are both beautiful people and it\u2019s so great that you have each other to get through tough times together. Please keep your chins up and give that puppy an extra hug for me!",
+    "generated": "You\u2019re so cute! I\u2019m so sorry to hear about your loss. I hope you feel better soon.",
+    "reddit_knowledge": "My ex boyfriend cheated on me, and I've had a really rough few weeks thinking I'm not worth anyone's time.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-100",
+    "ground_truth": "You have so many flags I actually started crying, god marching band was some of the best times I had in high school. \n\nSuperior job!",
+    "generated": "You, you're a great drummer! I'm so sorry to hear about your loss. I hope you feel better soon.",
+    "reddit_knowledge": "Love this band! Such a good song. Thank you for the reminder!",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-101",
+    "ground_truth": "You should call your Dr and tell them about how you feel. I'm in my 30s but in my late teens in college I was briefly prescribed Prozac and it was just awful. I failed out of first semester and wouldn't leave my room. I know how it feels to be prescribed something and it just make shit worse. Talk to a professional soon and if they advise you to keep taking it you can try another Dr. \nI hope it works out for you because you deserve the best. ",
+    "generated": "You'm sorry to hear about your anxiety. I'm sorry that you're going through this. I hope you feel better soon.",
+    "reddit_knowledge": "Ay, getting help is the first step to cure. :)\nYou look like a nice person that I coulf hang out the whole day and talk about everything. :)\nKeeg going. ;)\n\nEdit: grammar\n",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-102",
+    "ground_truth": "I absolutely LOVE your hair and lips!!",
+    "generated": "You\u2019re so cute! I\u2019m so sorry you\u2019ve been going through that. I hope you can feel better soon.",
+    "reddit_knowledge": "I read all that and I wish I knew what to say. I hope things work out for the best. I know it sounds hollow. I hope you both find a way to be happy. ",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-103",
+    "ground_truth": "Hey, look on the bright side, you won't have to worry about someone else's preferences when choosing a game to play!\n\nIn my group of friends we play a lot of board games.  But there are some who only like certain games (myself included).  Sometimes it's nice to just go and play.\n\nI hope you have a fun time!",
+    "generated": "You look like you\u2019ve got a great sense of style!",
+    "reddit_knowledge": "Hello, thank you for seeking professional help, it is absolutely the steps in the right direction.\n\nAlso, you look amazing, and I'm sure your personality is as amazing as your looks.\n\nBest of luck with your recovery OP. Take care!",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-104",
+    "ground_truth": "I'm sure you're a great person. Sometimes people have their own stuff to deal with, that doesn't detract from you or your value. Keep on living the life you want to live and do the things you enjoy. Sooner or later you'll meet someone who appreciates you for who you are.",
+    "generated": "You look like you\u2019ve got a lot of fun to be around. ",
+    "reddit_knowledge": "You should maybe stop dating blind girls. They're picky.",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-105",
+    "ground_truth": "As a woman, I\u2019m sure you can relate when I say, Do you know how *hard* it is to find a top that actually *fits* your upper body and chest? Your dress defies all odds. I fits like a supersuit that you were *born to wear*. It hugs you better than your closest friend and yet gives you enough room to do your thing. If i saw you in real life, your confidence would make it impossible for me not to notice how amazing you look.",
+    "generated": "You look great in it!",
+    "reddit_knowledge": "I think you look great even without makeup :) I hope you have fun!",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-106",
+    "ground_truth": "That's rough but remember, she fell for you when you were feeling low. You never know when love will strike again.\n\nI really like your eyes and hair. It's hard being around her but it will slowly get easier, hang tough!",
+    "generated": "You\u2019re a great person to hang out with. ",
+    "reddit_knowledge": "I got divorced about 3 years ago, after 13 years. Didn't want to - she left. Still, amicable and civil. It sucks for a while, but you will be OK.",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-107",
+    "ground_truth": "That beard is gorgeous! And you're a redhead! I've only seen a few redheads be able to grow a beard that full and awesome. You should be proud of it, friendo!\n\nI know that feeling of loneliness and it takes work to keep it away. There are people in the world who love you. Don't be afraid to open up to them so they can help you!",
+    "generated": "I\u2019m sorry you\u2019re feeling lonely. I hope you feel better soon. \n\nI hope you have a great day!",
+    "reddit_knowledge": "I feel so lonely, I feel like most of my friends have turned their backs on me for no reason.",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-108",
+    "ground_truth": "Sorry to hear about your unlucky streak. You look totally adorable, and I love your hair. If you want to chat and get some more detailed advice, feel free to PM me.",
+    "generated": "You\u2019ve got a great smile! I\u2019m glad you\u2019re feeling better!",
+    "reddit_knowledge": "I feel so lonely, I feel like most of my friends have turned their backs on me for no reason.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-109",
+    "ground_truth": "i am sure you can do better than all those people and get oscar someday for doing a role :) [ Do they have nominations for this stuff in oscars? \ud83e\udd14]",
+    "generated": "You\u2019re a great actor, and I\u2019m sure you\u2019ll find someone who\u2019s as good as you!",
+    "reddit_knowledge": "I\u2019ll be honest people on the internet are a bunch of cunts.....you\u2019re super pretty!!! Don\u2019t pay attention to the negative comments they just want to bring you down.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-110",
+    "ground_truth": "Yea I know that feel. It's a bummer. Fortunately you're a handsome guy. Which makes finding friends a little easier ;)\n\nGo out and get to talking. The world needs to see your manly bandana.\n\nOr, \"mandana,\" if you will",
+    "generated": "You\u2019ve got a great smile! I hope you\u2019re feeling better soon!",
+    "reddit_knowledge": "well.... this is lonely.",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-111",
+    "ground_truth": "So, I was expecting an ugly person. You, my friend, did not deliver. What am I to do now? Seriously, you look absolutely fine! Ain't nothing wrong with you. I can't even understand why others would agree with your description of yourself in the slightest. I hereby give my written and formal protest to those who use the word ugly to describe you. It has to stop immediately. I love your babyface! ",
+    "generated": "You\u2019re very pretty, and I\u2019m sure you\u2019ll find someone who appreciates you.",
+    "reddit_knowledge": "My goodness you are an attractive person! \ud83e\udd29\ud83e\udd29",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-112",
+    "ground_truth": "Everyone will get rejected at some point. Happened to me. Doesn't mean you're unlovable or unattractive; some things just go two ways. You look like the type of guy that could make people smile, and are a pleasure to be around. You totally rock those glasses!",
+    "generated": "I\u2019m sorry you\u2019re feeling rejected. You\u2019ve got great taste in music and comedy, and I\u2019d love to be your friend. ",
+    "reddit_knowledge": "You are very attractive! A sweet smile and your suit looks really nice on you. By the way, you kind of look like Nev Schulman from the show Catfish lol he's handsome like you.",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-113",
+    "ground_truth": "You\u2019ll be alright! Keep up the good work, man. ",
+    "generated": "You look like a fun guy to hang out with!",
+    "reddit_knowledge": "It looks good with that shirt. Maybe check your wardrobe to see what hair dye colours might go with your clothes? For example, I\u2019d try a purple top if you have one, as that could complement the red hair?",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-114",
+    "ground_truth": "She looks healthy and attractive and even not facing the camera it's obvious she has fun hair and amazing lips. \n\nIt's something people don't often realize about not-fat people... they hear about their body as much as fatter people do (\"eat something!\" \"You're so thin!\") and get just as insecure and body shamed. \n\nShe's beautiful and healthy and I'm glad you're working to help her feel that way. \n\n",
+    "generated": "You\u2019re very pretty, and I\u2019m sure you\u2019ll find someone who\u2019s like you.",
+    "reddit_knowledge": "im a no makeup streak too!! i wanna be your friend\ud83d\udc98",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-115",
+    "ground_truth": "Dude, I feel you. Two years ago my best friend killed himself and my gf at the time dumped me *via voicemail* DURING THE FUNERAL.\n\nBetter you found out now rather than later. Cunts be trippin'. \n\nHang in there my friend, I am so sorry for your loss. One foot in front of the other, it gets easier. A better life lies ahead. \n\n- a shitty 6'2 scrawny dude who don't wanna die anymore and met way better ladies",
+    "generated": "You\u2019re so sorry to hear about your loss. I\u2019m so sorry. \n\nI hope you feel better soon. ",
+    "reddit_knowledge": "I gotta respect you and this post just for saying rad in it honestly, haven't seen that in a while",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-116",
+    "ground_truth": "Dude, you honestly pull off that look really well.",
+    "generated": "You look great!",
+    "reddit_knowledge": "POW! That hair is dope! Let's be friends about it.",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-117",
+    "ground_truth": "I dig your outfit, man, you look like a cool guy. I have done a very simular thing before at a comicon and felt so much regret after. Try and remember how you feel now for next time, and just go for it! You'll be so proud :) ",
+    "generated": "You\u2019re so cute! I\u2019m so sorry to hear about your anxiety. I hope you\u2019ll feel better soon.",
+    "reddit_knowledge": "I gotta respect you and this post just for saying rad in it honestly, haven't seen that in a while",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-118",
+    "ground_truth": "I dont see why! Look at that smile!",
+    "generated": "You\u2019re a great looking guy. I\u2019m sure you\u2019ll find someone who appreciates you.",
+    "reddit_knowledge": "Trying not to get lost in those blue eyes ",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-119",
+    "ground_truth": "Man.... Fuck her. Cheaters suck. She'll get hers, you focus on getting *YOURS*. Block her on social media and her number, focus on your own goals and repairing your happiness. Your success and happiness will be the best revenge.",
+    "generated": "You\u2019re a good looking guy. ",
+    "reddit_knowledge": "Girlfriend and I just broke up because she doesn't want to raise kids with a man who isn't spiritual. Bye-bye 8 months! ",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-120",
+    "ground_truth": "Girl, your figure is goals for me. You look stunning. You have really nice legs. You've got great hair, and a great sense of style. ",
+    "generated": "You\u2019re very pretty and I\u2019m sure you\u2019ll find someone who appreciates you!",
+    "reddit_knowledge": "I think you're really cute and you have gorgeous eyes. I like your style too.\nBut I think you should smile more. You'd look much prettier when you smile I bet. Maybe you Should post another picture with a beautiful smile and I'm sure you'll get even more compliments :)",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-121",
+    "ground_truth": "I think from the comments, hopefully that helps with self confidence.  They are all spot on, you got great energy radiating from your eyes. You can\u2019t hide uniqueness or inner beauty, even if you can\u2019t see it in the mirror.  \n\nFrom there, whenever you feel lost, think back to the last decision you trusted and plot forward.  Don\u2019t be your own worst enemy or the one that holds you back. Fight through that. So many believe in you \ud83d\ude03",
+    "generated": "You\u2019ve got a great smile, and I\u2019m glad you\u2019re feeling better!",
+    "reddit_knowledge": "Ah that sucks... Hope you'll feel better soon. And looking great!",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-122",
+    "ground_truth": "First off, you're gonna do fine on the exam. just put in some study time and trust yourself. Exams always seem worse than they really are. Also, I'm so sorry about your dog. I'm sure he/she had a lovely life and loves you more than anything. If they do die, they'll be at peace. It's hard to accept the death of a loved one, especially  a dog. I wish you all the best, and I hope you have a wonderful future.",
+    "generated": "You\u2019re going to have a great day! ",
+    "reddit_knowledge": "I'm really  mad at my family right now, im having the worst day possible\n",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-123",
+    "ground_truth": "what?! you look so good!!! absolutely gorgeous!!!!! <3",
+    "generated": "You\u2019re very pretty and I\u2019m sure you\u2019ll feel better soon.",
+    "reddit_knowledge": "Looks great! Slimmer and younger :) hope things improve for you soon with your mental and physical health. ",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-124",
+    "ground_truth": "Princess I love you so much and I'm so excited to marry you. Just know you're absolutely perfect in every way",
+    "generated": "You\u2019re very pretty. I\u2019m sorry to hear about your loss. I hope you\u2019ll feel better soon. ",
+    "reddit_knowledge": "I'm 28. I live at home with my parents. I have nearly zero social life, no education past high school, or any prospects to gain one, and have a shitty part-time job. I haven't had a girlfriend in 5 years, and only one before that.\n\nI'm your classic loser.",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-125",
+    "ground_truth": "Looking sharp, bro. You\u2019ll get there, I know you will. It takes dedication to keep trying in the face of so much rejection, and clearly you\u2019ve got it since you\u2019ve been at it for a year. The past is the past so don\u2019t dwell on it. Keep it up! I believe in you!!",
+    "generated": "You\u2019re a great looking guy! I\u2019m so sorry to hear that. \n\nI hope your interview went well. ",
+    "reddit_knowledge": "Doing the sober life for over a year now. Not easy but rewards are worth it.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-126",
+    "ground_truth": "You're awesome for knowing you were heading the wrong way. Keep going, it will get easier. Don't let a failed relationship define you, but instead focus on the success of having one and how it made you be better for your next one. All the best!",
+    "generated": "You\u2019re a good looking guy, I\u2019m sure you\u2019ll find someone who appreciates you.",
+    "reddit_knowledge": "Got in a car accident 2 and a half years ago.  Fractured my back and was prescribed some pretty serious painkillers.  They damn near ruined my life.  Been clean for almost 2 months, starting rehab next week.  The hardest part has been the depression",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-127",
+    "ground_truth": "Reach out to people like you're doing here. You might be more about people than work or school. \n\nYou matter and you can find people that make you feel it. ",
+    "generated": "You\u2019re not insignificant, you\u2019ve got a very pretty face. \n\nI\u2019m sorry to hear about your loss, but I hope you feel better soon. ",
+    "reddit_knowledge": "Nice smile",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-128",
+    "ground_truth": "I\u2019m so sorry you\u2019re feeling this way, but please remember that life can change in an instant and things can and will always get better. \nIf there are things you want to change about your life or yourself, do what you can to change them. Do what you can to give yourself some sort of small happiness in anyway you can. \nDon\u2019t ever give up because it will get better. I promise. ",
+    "generated": "You\u2019re a good looking guy, and I\u2019m sure you\u2019ll find someone who appreciates you. ",
+    "reddit_knowledge": "I've been battling depression for the past two years. I'm broke and I can't afford my meds. I got robbed and in the struggle my glasses were broken. I have no money to replace them and not having them makes doing anything at night difficult. I'm almost at my breaking point.",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-129",
+    "ground_truth": "You have lovey eye lashes and wonderful eyes :)",
+    "generated": "You have a great smile! I hope you have a good week!",
+    "reddit_knowledge": "Sorry to read about this :( hope al is well!! Prayers and good wishes coming your way!!",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-130",
+    "ground_truth": "Yo man hope you had a great time! ",
+    "generated": "You have a very pretty face! I hope you have a great day!",
+    "reddit_knowledge": "Glad you're feeling good about yourself! Hope school's going well, keep being awesome :)",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-131",
+    "ground_truth": "Dude 35 pounds? Way to go! That takes some serious motivation and dedication! You look great, and you should feel great, too. I know I cant just tell you what to feel, but youve got to celebrate your victories! Keep smiling that charming smile and keep slaying the gym. Plus, you rock the beard. ",
+    "generated": "You\u2019re so pretty! I\u2019m so sorry you\u2019ve had to go through that. I hope you feel better soon!",
+    "reddit_knowledge": "Holy shit you look great. I wish I could lose weight like this",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-132",
+    "ground_truth": "That's absolutely amazing and some true \"want\" in the relationship. Kudos to you both! I only hope I can find something as strong eventually.\n\nKeep up the work and best of luck to you both!",
+    "generated": "You\u2019re so cute! I\u2019m so sorry you\u2019ve had to go through this. I hope you can get through it.",
+    "reddit_knowledge": "Congrats brother! That's a huge milestone",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-133",
+    "ground_truth": "loved your story man & i\u2019m glad you were brave enough to share it with us \nkeep doing the most with your life & i hope you had a good day",
+    "generated": "You\u2019re very pretty. I\u2019m sure you\u2019ll find someone who appreciates you.",
+    "reddit_knowledge": "I'm pretty sure I'm just stuck here doing the same thing day after day, without ever changing or having something new or exciting happen.",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-134",
+    "ground_truth": "It is not possible to be unlovable. No matter what you are like there are always people out there that will love you.",
+    "generated": "I\u2019m sorry you\u2019re going through this. I hope you feel better soon.",
+    "reddit_knowledge": "I really needed this OP! Been having a rough time with finals and depression coming back to bite me.",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-135",
+    "ground_truth": "In most cases parents are always wanting to reconnect. You shoud contact them and give it a try. Forget your past mistakes.",
+    "generated": "You\u2019re so cute! I\u2019m sorry to hear about your loss. I hope you\u2019ll feel better soon.",
+    "reddit_knowledge": "My mom told me about a week ago that she regretted having me because I didn't turn out the way she wanted me to. \n\nJust found out that my grandma has breast cancer. \n\nSince my mom hates me I can't see my brother or my father. \n\nI kinda wanna die a little bit. ",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-136",
+    "ground_truth": "Finding a passion, in your case making videos and such is a great step towards a happier life. Hobbies are very inportant to us. You finding that passion means that you do want to get better and it will.",
+    "generated": "You\u2019re a good looking guy, and I\u2019m sure you\u2019ll find someone who appreciates you.",
+    "reddit_knowledge": "Life has been kinda rough lately. I really don't like myself. Idk. I could use some nice words.",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-137",
+    "ground_truth": "hot dang!   is it warm in here?  it feels hot in here. ",
+    "generated": "You\u2019ve got a very pretty face, and I\u2019m sure you\u2019ll find someone who\u2019s just as pretty as you.",
+    "reddit_knowledge": "Honestly, looks fade away with time. They don\u2019t last. Someone\u2019s character, now that\u2019s forever.\n\nPlease don\u2019t feel inadequate. \n\nI know it can be a struggle to feel pretty when you got other women who have. Big assets. It can honestly make feel inadequate. \n\nYou\u2019re very pretty. Not lying here. You also seem like sweet and upbeat person. I will say you look more than feminine enough. \n\nYou have nothing to worry about.",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-138",
+    "ground_truth": "Cool beard.\n\nWhat happened to your eye and your leg? If you get an eye patch and a peg leg you'd rock a pirate costume for Halloween with that beard =)",
+    "generated": "You have a great smile! I hope you have a wonderful day!",
+    "reddit_knowledge": "Thanks man, I dont feel good lately, but it will pass, it just takes time",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-139",
+    "ground_truth": "You are one of those women who are so beautiful that I would have a real difficult time approaching. Oh, if only you could see your beauty through others\u2019 eyes...  I hope you are soon relieved of your sickness. ",
+    "generated": "You\u2019re very pretty, and I\u2019m sure you\u2019ll find someone who appreciates you.",
+    "reddit_knowledge": "I think you're really cute and you have gorgeous eyes. I like your style too.\nBut I think you should smile more. You'd look much prettier when you smile I bet. Maybe you Should post another picture with a beautiful smile and I'm sure you'll get even more compliments :)",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-140",
+    "ground_truth": "Plenty of opportunities ahead my man. What you feel right now is temporary, you certainly have many successes ahead of you so try to take solace in that. There will also be other moments when you\u2019ll feel down but that\u2019s how life works ya know? Things always change, and when you get that good thing, hold onto it! \n\nDig the eye brow bar too ",
+    "generated": "You have a very kind and gentle face. I hope you have a great day!",
+    "reddit_knowledge": "I gotta respect you and this post just for saying rad in it honestly, haven't seen that in a while",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-141",
+    "ground_truth": "Everything will be alright in the end, and if everything is not alright then it's not the end. You got this buddy.",
+    "generated": "You\u2019re very pretty, and I\u2019m sure you\u2019ll find someone who appreciates you",
+    "reddit_knowledge": "Definitely dig your fashion sense!",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-142",
+    "ground_truth": "But those butt gains. Bonus points for treating it as a life style with that attuide you'll go far",
+    "generated": "You\u2019re a great looking guy! I\u2019m glad you\u2019ve made the change!",
+    "reddit_knowledge": "Dude that is awesome! Progress! Impressive! 40 pounds is a HUGE difference! I am glad that you are seeing results and keeping photos to compare and keep you motivated! Keep at it man! Reach your goal and don't stop!  ",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-143",
+    "ground_truth": "Wow. You look amazing! Well done!\n",
+    "generated": "You\u2019re very pretty, and I love your hair!",
+    "reddit_knowledge": "I think you\u2019re cute ",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-144",
+    "ground_truth": "I don't check this subreddit often enough, so I'm sorry I have to wish you a belated birthday. I don't know why you are feeling sad, but all I can hope is you find a way to be happy. You deserve that.'\n\nP.S. Love the haircut. Frames your face perfectly.",
+    "generated": "You birthday girl! I hope you have a great day!",
+    "reddit_knowledge": "I feel so lonely, I feel like most of my friends have turned their backs on me for no reason.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-145",
+    "ground_truth": "So the first day of anything is always stressful, right? I'm sure you'll quickly transition to \"I got this\" mode. ",
+    "generated": "You have a very kind and gentle face. I hope you have a great day!",
+    "reddit_knowledge": "Sounds like your confidence needs a jumpstart ",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-146",
+    "ground_truth": "You remind me of Ash from teh evil dead series.\n\nThe grey in your hair suits you so well. aging into a silver fox. I like the care you have taken with your facial hari. It suits you well.",
+    "generated": "You look like you\u2019re really good at selfies. ",
+    "reddit_knowledge": "Definitely post to your ig. You are really goddamn cute!\n\nUsername checks out",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-147",
+    "ground_truth": "You are cute af! \n\nYou're pulling off the smolder. Are you actually flynn ryder?",
+    "generated": "You\u2019re very pretty, and I\u2019m sure you\u2019ll find someone who appreciates you!",
+    "reddit_knowledge": "Thanks all, I just think I am maybe too unattractive to be likeable? lol I know that's such silly thought.  ",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-148",
+    "ground_truth": "Hey, you are having fun and not harming your body (You look pretty great) that's not bad right",
+    "generated": "You have a very pretty face, and I love your hair! I hope you have a great day!",
+    "reddit_knowledge": "Love the glasses, Man. Don't worry, we all feel like crap sometimes. Hope you feel better soon, Dude. ",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-149",
+    "ground_truth": "Wow! You're gorgeous! Your gorgeous eyes in combination with the freckles are just mesmerising.. \ud83e\udd29",
+    "generated": "You\u2019re very pretty, and I\u2019m sure you\u2019ll find someone who appreciates you.",
+    "reddit_knowledge": "Thanks for the post. Everyone here is amazing and you've all done a lot for me the past couple days!! ",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-150",
+    "ground_truth": "You look like a young Russel Crowe now. Feel better.",
+    "generated": "You, you look like a fun person to hang out with. ",
+    "reddit_knowledge": "I've been sitting here trying to figure out which feature to single out and compliment (gorgeous eyes, impeccable cheekbones, cute smile, tartan dress, how well strawberry blonde suits you, etc.) but in reality everything in this pic just adds up to \"stunning.\" I hope you have the best day.",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-151",
+    "ground_truth": "So cute smile! And lovely eyes! \ud83d\udc95",
+    "generated": "You\u2019ve got a great smile!",
+    "reddit_knowledge": "I\u2019ll be happy to hug you\u2026\u2026a long time",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-152",
+    "ground_truth": "They're,....adorable. They suit you so much oh my !! your whole look is just so aesthetically pleasing why do I never see guys like you around ",
+    "generated": "You look great!",
+    "reddit_knowledge": "Your hair always looks so nice!",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-153",
+    "ground_truth": "It\u2019s looking good! You\u2019ve got a solid bicep going there and your pecs are on point! ",
+    "generated": "You\u2019re very pretty!",
+    "reddit_knowledge": "You look amazing. But how do you *feel*?\nYou should consider also posting this to r/fitness with an explanation of how you shed all those pounds.",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-154",
+    "ground_truth": "Nothing wrong  with that! You got a clean cut, glasses that match you, and a good clean fit",
+    "generated": "You have a great smile!",
+    "reddit_knowledge": "Nah! Looking good hun! Whoever said you're ugly meds an eye exam!",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-155",
+    "ground_truth": "Thank you for the kind reminder, internet friend. I wish you all the best for the upcoming year.",
+    "generated": "You\u2019re very pretty, and I\u2019m sure you\u2019ll find someone who appreciates you!",
+    "reddit_knowledge": "I hope you have a good day too!",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-156",
+    "ground_truth": "You have a nice genuine smile and look fun to hang out with",
+    "generated": "You have a very pretty face, and I love your hair!",
+    "reddit_knowledge": "Really hope you have a better day and cheer up.  It definitely is sad and scary all the crazy shit going on in the world.. so kinda just gotta say fuck em and one foot in front of the other.  Have a wonderful day. Oh and by the way.... you be lookin finnnnnnnne as hell\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-157",
+    "ground_truth": "Sounds like a tough time buddy. But remember someday you'll have a first kiss with someone new and feel all the great things that come with it. Goodluck with the coming year!",
+    "generated": "You\u2019re a good looking guy, and I\u2019m sure you\u2019ll find someone who appreciates you. ",
+    "reddit_knowledge": "My fianc\u00e9 died last month, this is my first holiday without her. Hurts like hell and I\u2019ll never be the same but I am thankful that no one I know has ever been through this emotional hell that has wrecked havoc on my mind and spirit. Hope everyone has a happy thanksgiving. ",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-158",
+    "ground_truth": "I'm 16 by the way, I checked the rules and they didn't say anything about underage people not being allowed, so sorry if it's against the rules anyway. ",
+    "generated": "Youude, you look like a fun person to hang out with. ",
+    "reddit_knowledge": "Your motivation is admirable, keep it up! You look great in those photos and cool vibes :)",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-159",
+    "ground_truth": "So happy to hear you're doing much better! You have gorgeous eyes and a very sweet smile :)",
+    "generated": "You\u2019re so cute! I\u2019m so sorry you\u2019ve had to go through that. \n\nI hope you feel better soon!",
+    "reddit_knowledge": "Happy New Year to ya... all the best to you and your family.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-160",
+    "ground_truth": "Looking fit, handsome, confident... and maybe ready to go super saiyan, ha. ",
+    "generated": "You\u2019re rocking Goku for the first time!",
+    "reddit_knowledge": "I hope your excitement bout keeps going and your fine ass keeps the good times rolling!",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-161",
+    "ground_truth": "Good luck with your speech tomorrow!! The first one in a class is always the hardest. I'm sure you've done what you can to prepare. Your professor and your classmates will be forgiving of any little mistakes you make. \n\nIt's also okay if you don't do very well on the first one; you can learn from what went wrong and do better on the later speeches! Everybody goes through those classes, and everyone improves at least a little by the end of it. \n\nYou've got this!!!",
+    "generated": "You\u2019ve got a great smile!",
+    "reddit_knowledge": "Very cute!  Hope you start feeling better soon!",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-162",
+    "ground_truth": "At 15 there's only a few (if any) from your social circle that you'll want to stay friends with later in life. People grow up and change. Also my friend is completely bald, he was at 22, and he has an amazing girlfriend. Its not the end of anything, you can thrive.",
+    "generated": "You look like you\u2019re a fun person to hang out with. ",
+    "reddit_knowledge": "Please be bi :P\n\nEyes are sultry and hair is beautiful. \n\n PS. Saw your age, you look 6 years younger.",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-163",
+    "ground_truth": "That's a LOT of classes, it's probably taking a lot out of you. \n\nI doubt all your friends started hating you at once, that's probably some insecurity and depression talking. \n\nIt's good to take responsibility but don't beat yourself up. ",
+    "generated": "You\u2019re so cute! I\u2019m so sorry to hear about your loss. I hope you feel better soon.",
+    "reddit_knowledge": "I think you\u2019re cute ",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-164",
+    "ground_truth": "This is your year. Claim it. Own it. Do it. \n\nFuck'em up, Buttercup; you got this. ",
+    "generated": "You\u2019re a great looking guy! I\u2019m so sorry to hear about your loss. I hope you feel better soon!",
+    "reddit_knowledge": "Been bummed lately about my ex, she made me feel worthless and hopeless. Someone say something to make me feel better...",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-165",
+    "ground_truth": "Welcome to the Blue Days Cafe and BnB. We welcome many a weary traveller and always offer our most miserable service. Just don't outstay your welcome, and be back soon! \n\nNot sure what to say, man. I'm going through tough shite too. This isn't easy, it's not fun... I always laugh when I watch Bill Burr - Let it Go on YouTube. Try that? And maybe some exercise! Get the blood flowing. ",
+    "generated": "You birthday girl! I hope you have a great day!",
+    "reddit_knowledge": "That sucks! Watch some movies and have a great night anyway",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-166",
+    "ground_truth": "So cute I almost can't stand it... congrats to you both!",
+    "generated": "You\u2019re so cute! I\u2019m so sorry you got stood up on your first date. ",
+    "reddit_knowledge": "Not only you look great, you are better than me. You are so pretty, your boyfriend is a really lucky guy!",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-167",
+    "ground_truth": "Wow! Beautiful smile and bright eyes! I bet you light up every room you enter ",
+    "generated": "You\u2019re a good looking guy, and I\u2019m sure you\u2019ve got a lot to like about you. ",
+    "reddit_knowledge": "I've been having problems with school because of anxiety and it it helps you're not alone, but life can only improve I like to think so good luck and just always work on improving.",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-168",
+    "ground_truth": "You're 13. You know who's terrified of public stuff? Every 13 year old. You have more guts and moxie even auditioning for a choir solo than most high school kids. You're gonna kill it, destroy the rest of high school and rock your life like a boss. You got this!",
+    "generated": "You\u2019re so cute! I\u2019m so sorry to hear about your anxiety. I hope you feel better soon.",
+    "reddit_knowledge": "i hope you have good weekend too",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-169",
+    "ground_truth": "You are going through a lot for someone your age and yet, you\u2019re still here fighting it. That\u2019s very impressive. I wish you the best, may the future be kind to you. ",
+    "generated": "You\u2019re a 17 year old girl and I\u2019m not sure what\u2019s going on with your life. \n\nI\u2019d like to say that you\u2019ve got a great sense of style and",
+    "reddit_knowledge": "I love that everyone that posts on this sub is a fucking supermodel.",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-170",
+    "ground_truth": "You may hate your job but for you to stick with it and pay off those bills says a lot about your character.  You sound independent and strong willed.  I know this isn't the last test but you're on the right path already.  Be strong stranger.  ",
+    "generated": "You\u2019re very pretty. I\u2019m sorry to hear about your loss. I hope you\u2019ll feel better soon. ",
+    "reddit_knowledge": "Poor mf *still* doing Xmas deliveries!",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-171",
+    "ground_truth": "I didn't see your original post but I'm happy for ya! Especially as a fellow musician!",
+    "generated": "You\u2019re really good at it, and I\u2019m really proud of you for doing it!",
+    "reddit_knowledge": "That\u2019s awesome\u2014solid work there",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-172",
+    "ground_truth": "Hey, so personally as a girl I think you\u2019re super cute :) you seem like a super nice person and someone I would definitely become friends with and or speak to you. Try to love yourself as you are, I know it\u2019s hard but once you do that it\u2019s much easier to see the good things around you. ",
+    "generated": "You look like you\u2019re having a great day!",
+    "reddit_knowledge": "Very nice photo! I hope both you and the kitty get lots of head rubs :)",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-173",
+    "ground_truth": "Im so sorry for what you have to go though right now! This random stranger on the internet is rooting for you! Stay strong! You can make it through this with your positivity!",
+    "generated": "I\u2019m sorry you\u2019re having a tough week. I\u2019ve got a lot of great news for you. \n\nI hope you feel better soon. ",
+    "reddit_knowledge": "Thanks for the hard work!",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-174",
+    "ground_truth": "Sorry I'm late but good luck to you on you exam and starting a new chapter in life with your husband! Let us know how it goes! Sending good vibes your way \u2764\ufe0f",
+    "generated": "You have a very pretty face, and I love your hair!",
+    "reddit_knowledge": "Happy new year and good vibes to you too!",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-175",
+    "ground_truth": "I\u2019ve also been fired before. It sucks. But the thing i learned the most about it is that the place didnt respect me at all.\nAnd the bar you worked at didnt seem to respect you at all. Staying at a place like that would be horrible - espescially with anxiety. \n\nTake a few days of rest. Clear your mind. With your dedication (12h shifts sounds brutal!) you deserve a place that can at least respect your dedication.\n\nGood luck and keep your head high, you\u2019ll get through this.",
+    "generated": "You, you're not worthless. You're a good person and I'm proud of you for being able to stand up for yourself. \n\nI'm sorry you're feeling that way. ",
+    "reddit_knowledge": "I feel so lonely, I feel like most of my friends have turned their backs on me for no reason.",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-176",
+    "ground_truth": "The previous redditor was right. Practice liking anything. I listen to Margaret Paul on youtube. And Eckhart Tolle. And do breathwork. And do EMDR. Short videos of Jordan Peterson are also good sometimes. With age it gets better too.",
+    "generated": "You\u2019re so cute! I\u2019m so sorry you\u2019ve been going through this. I hope you feel better soon.",
+    "reddit_knowledge": "Aww this is such a neat idea. I'm pretty severely depressed in every definition, no motivation, no drive, no sense of self worth. But I have hope! I feel like soon my life might get better, but not due to anything on my part",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-177",
+    "ground_truth": "The first step is to acknowledge there is light at the end of the tunnel. A positive attitude can sometimes make or break a difficult time in your life. I'm not going to pretend that all you need is a positive attitude. You still need to work incredibly hard, of course. You know that already. I think you can do this. I think you have the capacity to succeed. You're on the right track asking for help, as well.",
+    "generated": "You\u2019re a great person to hang out with. ",
+    "reddit_knowledge": "That's a massive accomplishment man! Seriously, you have achieved something not many unfortunately have the strength to do. If you can do that, what's stopping you from achieving any of your goals?",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-178",
+    "ground_truth": "Your are going to accomplish your dreams never give up and dont look back",
+    "generated": "You\u2019re very pretty, and I\u2019m sure you\u2019ll find someone who appreciates you.",
+    "reddit_knowledge": "I think you\u2019re cute ",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-179",
+    "ground_truth": "Firstly I say just concentrate on being true to yourself. I can guarantee you are going to find your SO. When that will be I cannot say. You look like you would have a beautiful smile, so keep smiling OP.\nIt\u2019s tough out there but don\u2019t let it get you down. You\u2019re going to be the winner in the end. Hugs from Australia",
+    "generated": "I\u2019m sorry you\u2019re going on dates with someone that\u2019s not looking for you. \n\nYou\u2019ve got a very pretty face, and your hair is really nice. ",
+    "reddit_knowledge": "Very handsome dude hope your week gets better",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-180",
+    "ground_truth": "There\u2019s no way someone who takes such beautiful pictures can be ugly. Quite the talent you have!",
+    "generated": "You\u2019re not ugly, but you\u2019ve got a very pretty face. \n\nI\u2019m sorry that\u2019s happened to you. ",
+    "reddit_knowledge": "No way you are ugly! Look at the beautiful hair and those eyes. ",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-181",
+    "ground_truth": "You are prettier than some models \ud83d\udc4d",
+    "generated": "You\u2019re so cute! I\u2019m so sorry you\u2019ve been going through this. I hope you feel better soon!",
+    "reddit_knowledge": "Sorry it's a rough night. This night will pass and you will still be very cute and hopefully whatever made it rough one will note recur!!!!",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-182",
+    "ground_truth": "Your sister looks like the kind of person I would want to hang out with, and I never hang out with people. She seems to be a genuine and caring person ! She is also pretty.\n\n  \nThings will get better for her I am sure !",
+    "generated": "You\u2019re so cute! I\u2019m so sorry to hear about your sister. I hope you feel better soon.",
+    "reddit_knowledge": "Hey, congratulations on taking a big step towards making your life better! I know it's not exactly a happy occasion, but it's true that there are just some people you're better off without. I'm glad you have other family members that can support you and with whom you have a better relationship. I'll be thinking about you and hoping that your future is kind to you.",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-183",
+    "ground_truth": "Nice voice I\u2019ll definitely subscribe",
+    "generated": "You\u2019re a small person, but you\u2019ve got great taste in music. I\u2019m sure you have a great sense of style, and I hope you find a way to share with others. ",
+    "reddit_knowledge": "I'm a loner because I can't seem to hold onto friends because I think they will think I'm weird when they get to know me.\n",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-184",
+    "ground_truth": "Your hair is so cute and if I saw you on the street I\u2019d refer to you by she/her bc you look very feminine",
+    "generated": "I\u2019m sorry you\u2019re going through this. I\u2019ve been on HRT for almost 2 years and I can\u2019t imagine how long it\u2019s been since I saw her. \n\nI",
+    "reddit_knowledge": "I totally get the feeling with school creeping up on me as well. I'm 23 and STILL working on my dang AA, but I'm not a quitter! I don't have any advice for dealing with that, as I can't handle my stuff very well, but I wish you all the motivation to get your work done! That's always the biggest thing for me\n",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-185",
+    "ground_truth": "Just been looking at your posts. I see an intelligent and interesting person with a keen eye for style and aesthetics, you have very bright and entrapping eyes that draw me towards you. I bet you are a really down to earth person. For what it's worth I'd love to spend time with you. \n\nP.S The hardest love of all is to learn to love yourself!",
+    "generated": "You\u2019re very pretty. ",
+    "reddit_knowledge": "I don't know how you don't feel pretty, I think you are extremely beautiful \ud83d\ude0d \u2665",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-186",
+    "ground_truth": "Whoa dude Nice hair and really beautiful eyes. \nIm Sorry for hearing that people still bullying others.\nIm sure you gonna find New friends (and good ones this time) \nDont know why people avoid you.\nYou look like a really Nice guy.",
+    "generated": "You\u2019re so cute! I\u2019m so sorry you\u2019ve had to go through that. I hope you find someone who appreciates you.",
+    "reddit_knowledge": "I struggle with that a lot too.  I used to be so reclusive i would go to the store just to see people.  It hurts my heart to know someone else is going through that.  You can always DM me or even talking to a counselor helps, even if you just chat about your day \ud83d\udc4d",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-187",
+    "ground_truth": "Don\u2019t try to earn your blessings, just try to be grateful and express your gratitude in good deeds wherever you can. \n\nLife is hard, but you\u2019re doing great! I hope the floating feeling passes soon and you find something solid, friend",
+    "generated": "You\u2019ve got a lot to be thankful for. I\u2019m glad you\u2019re feeling that way. ",
+    "reddit_knowledge": "Thanks man, I dont feel good lately, but it will pass, it just takes time",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-188",
+    "ground_truth": "You are NOT ugly! I'm sorry about your breakup, and even more so that it was done in such a horrible way. You don't deserve to just be ghosted. That is a reflection of your exes character, not yours.",
+    "generated": "I\u2019m sorry you\u2019re feeling that way. You\u2019ve got a lot to love about you and I hope you find someone who appreciates you. ",
+    "reddit_knowledge": "I hate me. I hate how I look, I hate who've I've become. I have friends, but I don't feel connected to them, especially after my acid trip. Fuck it all... [Here's me cause I'm an internet attention whore](https://imgur.com/xEIv5up)",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-189",
+    "ground_truth": "This is sweet (:",
+    "generated": "You\u2019ve got a great smile. I hope you\u2019re feeling better soon.",
+    "reddit_knowledge": "Don't bother keeping close with people that brings you negativity. It's good to be alone rather than being along negative people who just love to bring you down. Better yet, surround yourself with people that find you interesting. \n\nRemember : judging is acting on a limited knowledge, the people who judge you usually are not the ones you're close with.",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-190",
+    "ground_truth": "I'm sorry yesterday was bad.  Just know your fellow Redditors have your back.  I'm thankful you are taking yourself to get checked out, self-care and self-awareness are key.  \n\nWhatever is happening right now will pass, you will get through this, you will have a better understanding of things and you will cultivate better coping skills.  I have faith in you and I am thinking about you.",
+    "generated": "I\u2019m sorry you\u2019re going through this. I hope you feel better soon. ",
+    "reddit_knowledge": "Thanks for being you friend!",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-191",
+    "ground_truth": "You should be super proud of yourself, that's a massive achievement, you look very healthy here and have a really sweet adorable smile. I love seeing people succeed at challenges like this. Keep up all the hard work and you'll continue to feel healther for many years to come! You're kicking butt girl!",
+    "generated": "I\u2019m sorry you\u2019re feeling down, but I\u2019ve got a feeling that\u2019s a good thing. \n\nI hope you feel better soon. ",
+    "reddit_knowledge": "Dude, you have some awesome hair. It totally suits you. Also, nice complexion! ",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-192",
+    "ground_truth": "Haha what a cool pet! I'm jealous. Don't worry about r/roastme, they obviously don't give an accurate depiction of you. And anyone who says stuff like they do obviously isn't worth your time.",
+    "generated": "You have a very pretty face! I hope you have a great day!",
+    "reddit_knowledge": "I'm glad nothing happened to you man, even if it doesn't always feel like it, at least one person is glad and grateful that you're still around. I hope that you're not worried too much about the single thing - even though it sucks, it's better than being in a relationship that's unhealthy! Best of luck to you, man",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-193",
+    "ground_truth": "Look man, i normally don't comment here because i don't think that giving compliments that are untruthful is more helpful than just accepting the truth.\n\n\n\n\nYou're a good looking guy. When you get a bit older you'll grow some facial hair and your skin problems will calm down a bit, but even if that doesn't happen you're still a good looking dude. not a compliment. Just an observation. Have a good day.",
+    "generated": "You look like you\u2019ve got a really nice nose and jawline!",
+    "reddit_knowledge": "Ugly? Why?? You look really rad and I love your hair and beard, they suit you well! You also look very kind. Not a single ugly thing about you, my dude!",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-194",
+    "ground_truth": "you\u2019ve got some great hair my dude",
+    "generated": "I\u2019m sorry you\u2019re feeling that way. I\u2019ve been there and I know it\u2019s hard to get over it, but I know that you are strong, and I hope that you can get through",
+    "reddit_knowledge": "Well, I'm not.  And that's fine. ",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-195",
+    "ground_truth": "Sorry the picture is rotated it was my first selfie. I\u2019m a cat.",
+    "generated": "You\u2019re very pretty and I\u2019m sure you\u2019ll find someone who appreciates you. ",
+    "reddit_knowledge": "I got in a car accident about two weeks ago that totaled my car but thankfully I walked away with only bruises and scratches. I'm sorry that happened. Get better soon buddy. You can do this. If you need help or just someone to talk to, feel free and welcome to chat with me. ",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-196",
+    "ground_truth": "You have some beautiful hair!",
+    "generated": "You\u2019ve got a great smile!",
+    "reddit_knowledge": "I see nothing wrong. I\u2019m just happy you didnt do a duck face!!",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-197",
+    "ground_truth": "Well done, you should be proud of yourself!\n\nYou speak to yourself more than you speak to anyone else, hence it's a good idea to say nice things. As someone with depression, I can fully appreciate the fight you have gone through as it's far easier said than done.\n\nAs for a compliment, I envy your facial hair!",
+    "generated": "You\u2019re so pretty! I\u2019m so proud of you for being able to look past your insecurities and look forward to the future!",
+    "reddit_knowledge": "I \ud83d\udc95\ud83d\udc95\ud83d\udc95\ud83d\udc95\ud83d\udc95 your post!! Damn Lady, you kicking ass in your recovery.  Keep up the great work! Btw love the pic \ud83e\udd19\ud83e\udd19\ud83e\udd19",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-198",
+    "ground_truth": "That's great. It really shows, you have a brighter smile. Keep doing what you're doing.",
+    "generated": "You look like you\u2019re a fun person to hang out with!",
+    "reddit_knowledge": "Looking good! I wish you all the best in 2019 and beyond!",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-199",
+    "ground_truth": "Understand.  Hold your head high for the path to winning in life  has two steps back and a lot of curves.  You can do this!",
+    "generated": "You\u2019re a great looking guy, and I\u2019m sure you\u2019ll find someone who appreciates you.",
+    "reddit_knowledge": "I flunked out of high school & I don't regret it. I'm now going to college and am happier then ever. \n\nI'm proud of you, OP, HS sucks.",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-200",
+    "ground_truth": "u def pull off a brow piercing! looking good \ud83d\ude4c\ud83c\udffb",
+    "generated": "You\u2019ve lost a lot of weight, and I\u2019m proud of you for doing it!",
+    "reddit_knowledge": "Wow - shaving your head made you look so much younger!  And it really shows off your eyes!\n\nWell done on over 700 days sober!  That's a huge accomplishment!!",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-201",
+    "ground_truth": "Lovin\u2019 the makeup, mate! Be who you are. No one else controls your life but you. If ya wanna wear makeup than do it - as long as you\u2019re happy with it. Also, ya got yourself some astonishing eyes. I\u2019m jealous, to be honest. Have a good one!",
+    "generated": "You look great! I love your hair!",
+    "reddit_knowledge": "It sucks having a poor self image. But even as a straight guy I can tell you still look good",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-202",
+    "ground_truth": "One bite at a time.",
+    "generated": "You\u2019re doing great! I\u2019m so proud of you for being able to overcome your eating disorder. I hope you feel better soon!",
+    "reddit_knowledge": "Sorry to hear that you're struggling. I hope you're able to take some for yourself in this difficult time. I'm wishing you the best in getting through this!",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-203",
+    "ground_truth": "Your a superhero!  Rock that!",
+    "generated": "You\u2019re so cute! I\u2019m so sorry to hear about your stretchy skin. I hope you feel better soon :)",
+    "reddit_knowledge": "Aw so sorry that happen but you look beautiful \ud83e\udd8b\u2728\ud83e\udd8b\n\nAlso those tattoos look awesome! \ud83d\udc40\ud83d\udcaf",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-204",
+    "ground_truth": "Looking ready to take on the world! Happy new year!",
+    "generated": "You have a very pretty face, and I love your hair!",
+    "reddit_knowledge": "Yer...this picture here needs to be hung in a gallery..just wow",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-205",
+    "ground_truth": "Girl - What happened to make you EVER question yourself. You're absolutely smoking hot and beautiful. Please be gentle with yourself. You're a complete KNOCK OUT!",
+    "generated": "You\u2019re so pretty! I\u2019m so sorry you\u2019ve been having a bad day. I hope you can get through this!",
+    "reddit_knowledge": "I love that skirt on you and your hair looks amazing! Hope you can see all the beauty you possess very soon!",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-206",
+    "ground_truth": "Probably because if you keep taking them your phone will overheat because u are FIRE",
+    "generated": "You\u2019re very pretty! I\u2019m sorry to hear about this, but I hope you feel better soon :)",
+    "reddit_knowledge": "If you think that then maybe you posted the wrong pictures because the girl in those picture is very cute! :D Got those poses down pat.",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-207",
+    "ground_truth": "You got this my friend! Fight the good fight!",
+    "generated": "You\u2019re killing it! You\u2019ve got this!",
+    "reddit_knowledge": "Going through a midlife crisis right now and really doubting myself... trying to lose weight and learn to love myself.",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-208",
+    "ground_truth": "What a beautiful man you are, oft! Good luck on the training course though, I'm sure you'll be fine and fit right in! Your dream career sounds awesome, wish you the best of luck.",
+    "generated": "You\u2019re a good looking guy, I\u2019m sure you\u2019ll fit in well with the other guys.",
+    "reddit_knowledge": "Guess what everyone is anxious about university. You\u2019re gonna do great man. Take a load off and enjoy the journey that is life",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-209",
+    "ground_truth": "It's odd that anyone would go to a sub called \"FreeCompliments\" just to be rude to strangers. You have the whole of Reddit to do that. But I suppose, some people can't help being toxic.",
+    "generated": "You\u2019re so cute! I\u2019m so sorry you\u2019ve had to go through that. ",
+    "reddit_knowledge": "I\u2019d approach for her number for sure",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-210",
+    "ground_truth": "In my opinion you look great, you have nice shiny hair that compliments your face shape really nicely, especially with the beard. I am a genuine fan. Plus your eyes/expression make you look extremely approachable and interesting, they're very deep set and dark. 10/10 inside and out, as far as first impressions go :) I wouldn't spend the time typing this if I didn't mean it",
+    "generated": "You\u2019ve got a really pretty face, and I\u2019m sure you\u2019ll find someone who appreciates you.",
+    "reddit_knowledge": "Thanks all, I just think I am maybe too unattractive to be likeable? lol I know that's such silly thought.  ",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-211",
+    "ground_truth": "Daaamn you\u2019re so hot \ud83d\ude0d hml",
+    "generated": "You look like you\u2019re in a good mood.",
+    "reddit_knowledge": "How can I help!",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-212",
+    "ground_truth": "I respect the drip.",
+    "generated": "You\u2019re beautiful!",
+    "reddit_knowledge": "[removed]",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-213",
+    "ground_truth": "You are beautiful! There is no need for a messed up view about yourself - as long as you enjoy yourself!",
+    "generated": "I\u2019m sorry you\u2019re feeling that way. It\u2019s okay to feel that way about yourself. You\u2019ve got a beautiful smile, and I hope you find a way to love yourself.",
+    "reddit_knowledge": "That sucks. You don't suck though! You're a beautiful courageous woman who's got strength and heart! Don't let shit people and shit things ruin the beauty that is you.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-214",
+    "ground_truth": "You already have more confidence than most posting here, guy. And confidence is always attractive. You still look pretty good. Maybe just grow your hair a bit.",
+    "generated": "You\u2019re very pretty and I\u2019m sure you\u2019ll find someone who appreciates you!",
+    "reddit_knowledge": "I wasn't around when you originally posted but I'm here now to say that for all the wonderful people that did help you, they're badass. I hope you're doing well as a result and hope you have a nice day!",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-215",
+    "ground_truth": "Genuinely, you look fantastic and it all started from you loving yourself.",
+    "generated": "You\u2019re so cute! I\u2019m so sorry to hear about your loss, I hope you feel better soon!",
+    "reddit_knowledge": "Dude... this is epic!! Please post more of your work! It's truly badass.",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-216",
+    "ground_truth": "Bear hugs. \n\n.you look amazing.  Go out and play the field. Try and enjoy being single tho it's hard. In time tho the right love you both will find. Just hold your head high.",
+    "generated": "I\u2019m sorry you\u2019re going through this. You\u2019ve got a lot to be thankful for. \n\nI hope you feel better soon. ",
+    "reddit_knowledge": "My ex boyfriend cheated on me, and I've had a really rough few weeks thinking I'm not worth anyone's time.",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-217",
+    "ground_truth": "You\u2019re fucking adorable! Holy crap!",
+    "generated": "You\u2019re so cute!",
+    "reddit_knowledge": "U looking great keep smiling pretty smile",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-218",
+    "ground_truth": "dude it looks soooooo good. the color really compliments your skin tone and your eyes (which are really pretty too btw), and it's just all around a really nice look.\n\n\nPS: love the piercings!",
+    "generated": "You\u2019re really cute! I love your hair!",
+    "reddit_knowledge": "OMG that glorious hair though!!",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-219",
+    "ground_truth": "Shiny slime bars. You rock!!\ud83d\ude4c",
+    "generated": "I\u2019m sorry you\u2019re feeling down. I\u2019ve been making art for a while and it\u2019s been really hard to get it right. I hope you can get through this!",
+    "reddit_knowledge": "Wow this is lovely! I want to learn it from you. Seriously! I'm so excited and happy!",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-220",
+    "ground_truth": "Your shirt goes great with you jeans.",
+    "generated": "You's a cute animal crossing character :)",
+    "reddit_knowledge": "Thanks everyone for the sweet comments :) I really didn't expect to get so many!\n\nIf anyone's interested I can post another one or you can just ask me anything :) \nThanks again I'm pretty much shocked",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-221",
+    "ground_truth": "The time right before leaving always sucks for me.  Given what is going on right now in the world it is probably even tougher.\n\nYou have a great face and I love your pure gold beard.\n\nCould you please tell me what a 2 month hitch is?",
+    "generated": "You\u2019re so cute! I\u2019m so sorry you\u2019ve had to go through that. \n\nI hope you feel better soon.",
+    "reddit_knowledge": "That sucks! Watch some movies and have a great night anyway",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-222",
+    "ground_truth": "I'm really sorry to hear about your bad run. Please try to stay positive and strong through it all. I absolutely adore your hair and you are so pretty! You've got a friend to lean on here whenever you like. \ud83d\ude18\u2698\ud83d\ude0a",
+    "generated": "You\u2019ve got a very pretty face, and I\u2019m sure you\u2019ll find someone who appreciates you.",
+    "reddit_knowledge": "I got in a car accident about two weeks ago that totaled my car but thankfully I walked away with only bruises and scratches. I'm sorry that happened. Get better soon buddy. You can do this. If you need help or just someone to talk to, feel free and welcome to chat with me. ",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-223",
+    "ground_truth": "Ah that sucks... Hope you'll feel better soon. And looking great!",
+    "generated": "You look like you\u2019ve got a lot of fun to be around!",
+    "reddit_knowledge": "I totally get the feeling with school creeping up on me as well. I'm 23 and STILL working on my dang AA, but I'm not a quitter! I don't have any advice for dealing with that, as I can't handle my stuff very well, but I wish you all the motivation to get your work done! That's always the biggest thing for me\n",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-224",
+    "ground_truth": "Looks like you're doing just fine with it! I'd love to be able to work outside right now. In the last two days, we got rain and wind, then hail, then I woke up to snow this morning!",
+    "generated": "You have a great smile, and I love your hair!",
+    "reddit_knowledge": "That looks dope as hell ",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-225",
+    "ground_truth": "Also if anybody wants to add me on snap or follow me on insta pm me \ud83e\udd7a\ud83d\udc9e I need friends",
+    "generated": "You\u2019re really pretty \ud83d\ude0d",
+    "reddit_knowledge": "Fuck that asshole! I think you\u2019re adorable. \ud83d\udc4d",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-226",
+    "ground_truth": "i honestly really like it, you should work a bit on the shadows, great work tho!",
+    "generated": "You have a great smile!",
+    "reddit_knowledge": "I'm so happy you're inspired to work on your art and express yourself!! I'd love to see some of your drawings when you finish some <3 ",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-227",
+    "ground_truth": "   \nI'm doubting my straightness",
+    "generated": "I\u2019m sorry you\u2019re having to go through this. I\u2019ve been in a similar situation myself and I can\u2019t tell if it\u2019s a good thing or a bad thing, but I\ufffd",
+    "reddit_knowledge": "Nice specs man! They suit you well:)",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-228",
+    "ground_truth": "That\u2019s ridiculous. I think you look really pretty. I like your style a lot. You look naturally gorgeous and confident as hell. That in and of itself is hot as hell.",
+    "generated": "You\u2019re very pretty, and I\u2019m sure you\u2019ll find someone who\u2019s like you.",
+    "reddit_knowledge": "\"Kinda\" lol\n\nI don't hand out compliments.  \n\nShe's amazing though, right?!  Supremely.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-229",
+    "ground_truth": "That's a lot to be going through.\n\nAnd you were still able to post a cogent and coherently here where people who care can read it.\n\nGood thinking.\n\nGood actions.\n\nDouble bonus points for you.",
+    "generated": "You have a great smile, and I love your hair!",
+    "reddit_knowledge": "Im sure it went very well!  You are looking super cute by the way!  Have a good day!",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-230",
+    "ground_truth": "I think you're really cute and your smile is really heart warming :)",
+    "generated": "You\u2019ve got a great smile!",
+    "reddit_knowledge": "Hey man. You look like a really cool guy. Have a great day!",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-231",
+    "ground_truth": "don\u2019t worry dude you\u2019ll grow more. Even if you don\u2019t you\u2019ll still meet the one someday. The ones who ghosted you definitely weren\u2019t meant for you that\u2019s their loss",
+    "generated": "You have a very pretty face, and I love your hair! I hope you feel better soon!",
+    "reddit_knowledge": "\"Kinda\" lol\n\nI don't hand out compliments.  \n\nShe's amazing though, right?!  Supremely.",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-232",
+    "ground_truth": "i love your style and your hair looks great!",
+    "generated": "You\u2019re very pretty. I\u2019m sure you\u2019ve got a lot to like about your hair.",
+    "reddit_knowledge": "Thanks for being you friend!",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-233",
+    "ground_truth": "And she was right \ud83d\ude0d",
+    "generated": "I\u2019m sorry to hear about your loss. You\u2019re beautiful and I hope you\u2019ll feel better soon.",
+    "reddit_knowledge": "Thanks so much sweetie \ud83d\udc9c!\nRight back at ya!\ud83d\ude09",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-234",
+    "ground_truth": "Beautiful words from a beautiful woman :) thank you and I wish you the best :)",
+    "generated": "I\u2019m sorry you\u2019re feeling like that. You\u2019ll get through this. \n\nI hope you have a great day!",
+    "reddit_knowledge": "Sorry you had a rough day. But I can tell by your beautiful smile that your not going to let it ruin your mood. Stay positive and keep doing everything you can to make tomorrow a great day!\ud83d\udc97",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-235",
+    "ground_truth": "You have captivating eyes, great hair, and an attractive figure - whatever you are feeling now, just let it go, and just know, that it is a moment in time and that things will get better.",
+    "generated": "You\u2019re really cute. I\u2019m sorry you feel bad about your looks. I hope you\u2019ll feel better soon.",
+    "reddit_knowledge": "actually you're a really nice looking guy",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-236",
+    "ground_truth": "What do you mean with 34?",
+    "generated": "You look like you\u2019ve got a lot of fun to do!",
+    "reddit_knowledge": "Bloody brilliant! I love it! ",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-237",
+    "ground_truth": "thank you! and love the color of your hair, looks great!",
+    "generated": "You have a great day!",
+    "reddit_knowledge": "Happy birthday \ud83e\udd73 \nHope you have a fantastic day \u263a\ufe0f",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-238",
+    "ground_truth": "Hi back at ya",
+    "generated": "You\u2019re new to this sub, but I\u2019m sure you\u2019ll be able to do it!",
+    "reddit_knowledge": "Hey man, lots of comments here already, but if you happen to see mine I just wanted to let you know I think your new look is a super awesome change, and you should feel good about it :)",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-239",
+    "ground_truth": "You\u2019ve got really strong facial features and your hair looks really thick and soft",
+    "generated": "You\u2019re very pretty, and I\u2019m sure you\u2019ll find someone who appreciates you.",
+    "reddit_knowledge": "Well said it doesn\u2019t cost anything to be nice",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-240",
+    "ground_truth": "Looking fresh",
+    "generated": "You\u2019re so pretty! I\u2019m so sorry to hear about your beard, but I hope you feel better soon!",
+    "reddit_knowledge": "Thanks for being you friend!",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-241",
+    "ground_truth": "I think everything about you is beautiful \ud83d\ude0d.",
+    "generated": "You\u2019re beautiful, and I\u2019m sure you\u2019ll find someone who\u2019s just as beautiful as you.",
+    "reddit_knowledge": "Cute freckles ",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-242",
+    "ground_truth": "You look great! You remind me of Bruce McGill in \"Animal House.\"",
+    "generated": "You\u2019ve got a great smile!",
+    "reddit_knowledge": "You look great! Sending good energy your way!",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-243",
+    "ground_truth": "Beautiful eyes.",
+    "generated": "You have a great smile!",
+    "reddit_knowledge": "looks awesome! good facial hair too :)",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-244",
+    "ground_truth": "Happy early birthday! I wish you nothing but the best, you will figure something out and the stress will be over! For the record I agree with you, you\u2019re very cute. ( those eyes though )",
+    "generated": "You birthday girl! I hope you have a great day!",
+    "reddit_knowledge": "Sleep is GREAT but anything like me too much of it and I will like sh!t.\n\nLooking good though buddy!",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-245",
+    "ground_truth": "Not much else to say other than your skin is incredible. Hopefully is more exciting today knowing that you are the envy of so many others. Seriously. Your skin is so smooth. Going to look like you are 22 when you are 60. So jealous.",
+    "generated": "I\u2019m so sorry you\u2019re having a bad day!",
+    "reddit_knowledge": "Nope!!! Your super cute!!! \u2764\ufe0f",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-246",
+    "ground_truth": "You have the sweetest smile ever!",
+    "generated": "You\u2019re so cute! I\u2019m so sorry you had to go through that. I hope you feel better soon!",
+    "reddit_knowledge": "Thanks for the hard work!",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-247",
+    "ground_truth": "Don\u2019t worry what others think of you, you look fine, and don\u2019t forget that most women on here are caked in makeup, at least you are brave enough to let people see exactly how you look, if most of the others did that you\u2019d think it were a different person. Also some people get there kicks out of putting others down, so don\u2019t let them beat you \u263a\ufe0f",
+    "generated": "You look like you\u2019re in a really good mood. ",
+    "reddit_knowledge": "Thanks all, I just think I am maybe too unattractive to be likeable? lol I know that's such silly thought.  ",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-248",
+    "ground_truth": "Interesting how u say sun cream.  In America. We say sunscreen.",
+    "generated": "I\u2019m so sorry you\u2019re having to go through this. I hope you feel better soon!",
+    "reddit_knowledge": "Red is your colour! \ud83d\udcaf",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-249",
+    "ground_truth": "Your bangs are absolutely banging! \ud83d\ude0d",
+    "generated": "You have a very pretty face, and I love your hair! I hope you feel better soon!",
+    "reddit_knowledge": "It has been a pretty rough week. I appreciate this thread :)",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-250",
+    "ground_truth": "You are very thin and seem to be in great shape. That person was either hating or just knew they had no shot and wanted to belittle you so they could feel better. You look great! :) even if these look like they were taken with a game boy camera",
+    "generated": "I\u2019m sorry you got called fat. You\u2019re very pretty and I hope you\u2019ll feel better soon.",
+    "reddit_knowledge": "I gained 15 pounds in a month and I'm bald and short and have a fat neck. ",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-251",
+    "ground_truth": "I\u2019m not gonna comment on your face buddy because it took some shit to post this, you deserve to be happy and you can always count me as a +1 on your side, theres gonna be bad days and even worse days than that. But theres gonna be good ones that are worth 10,000 times that. And those ones are the ones worth sticking out for. Godspeed my young friend.",
+    "generated": "You\u2019re so cute! I\u2019m sorry to hear about your OCD. I hope you feel better soon.",
+    "reddit_knowledge": "PM me if you'd like a link to the document to post around your town!",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-252",
+    "ground_truth": "Well cheese and rice I would go trick or treating with you.",
+    "generated": "You have a very pretty face, and I love your hair!",
+    "reddit_knowledge": "Black dress \ud83e\udd75\ud83d\udda4",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-253",
+    "ground_truth": "You are not ugly-at all! And you look incredibly kind and fun to be around-you\u2019re probably always complimenting your friends and cheering them up when they need it!",
+    "generated": "You\u2019re very pretty, I\u2019m sorry to hear about that. I hope you feel better soon.",
+    "reddit_knowledge": "Someone with perfect shiny hair and a diamond shaped face is ugly? I don't think so. \n\nEdit: it's like diamond-heart shaped. Jealous.",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-254",
+    "ground_truth": "Welcome to the sub, you look very sharp in your suit. Your hair is gorgeous and looks very healthy, plus the sculpting of your beard frames your features perfectly\ud83d\udc4c You are very handsome sir, hope you have a great day/night\ud83d\ude04",
+    "generated": "You have a very pretty face, and I love your hair!",
+    "reddit_knowledge": "Hello from a fellow 81 baby! Best of luck in your new job!",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-255",
+    "ground_truth": "As long as you try! Stay beautiful!",
+    "generated": "You\u2019re so cute!",
+    "reddit_knowledge": "Husbands an idiot \u2763\ufe0f",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-256",
+    "ground_truth": "Good! Embrace that confidence!  Nose to the grind stone! Do work!",
+    "generated": "I\u2019m so sorry you\u2019re feeling down. I hope you feel better soon!",
+    "reddit_knowledge": "Like your tattoo, you\u2019ll fly high! Keep going with the fitness lifestyle. It is a fun one. Amazing back gains too!!!",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-257",
+    "ground_truth": "Looking good, but you mind if I ask what DBT theory is ?",
+    "generated": "You\u2019re so cute!",
+    "reddit_knowledge": "I needed this today, tbh. Thanks for the encouragement \u2764\ufe0f",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-258",
+    "ground_truth": "Your are absolutely beautiful",
+    "generated": "You\u2019re very pretty!",
+    "reddit_knowledge": "I\u2019m feeling your lemon shirt too tbh",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-259",
+    "ground_truth": "Girly you look like a beautiful fairy! I love the dress! Congrats!",
+    "generated": "You look great!",
+    "reddit_knowledge": "me! also i love this outfit :)",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-260",
+    "ground_truth": "Nah you\u2019re a complete babe \ud83e\udd70",
+    "generated": "You look like a child playing dress up!",
+    "reddit_knowledge": "You are fitness goals \ud83d\ude0d! I literally am gonna go workout now lol \ud83d\ude02",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-261",
+    "ground_truth": "Hey. What\u2019s up?",
+    "generated": "You\u2019re so pretty!",
+    "reddit_knowledge": "Hello Redditor\ud83d\udc4b\ud83c\udffd",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-262",
+    "ground_truth": "That girl from the addams family",
+    "generated": "You look like a cool dude!",
+    "reddit_knowledge": "Happy Halloween handsome, good luck at your new job!",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-263",
+    "ground_truth": "How lovely",
+    "generated": "You\u2019re so cute! I love your hair!",
+    "reddit_knowledge": "Thank you so much for this lovely message! I hope you have a great day \ud83d\udc96",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-264",
+    "ground_truth": "I like it! It works well. Your hair is awesome! I love it the colors. Your skin looks beautiful! So clear. And those shoes are dope.",
+    "generated": "You\u2019re beautiful!",
+    "reddit_knowledge": "[removed]",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-265",
+    "ground_truth": "You look like one of the prettiest too.",
+    "generated": "You birthday girl! Happy birthday!",
+    "reddit_knowledge": "Happy Birthday!!! \ud83c\udf81 sending you a PM so I can send you a gift!",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-266",
+    "ground_truth": "r/demeyesdoe\n\nAlso glasses are a big plus",
+    "generated": "You\u2019re so cute!",
+    "reddit_knowledge": "I think you look great even without makeup :) I hope you have fun!",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-267",
+    "ground_truth": "Nurse puppy",
+    "generated": "You\u2019re so cute! I\u2019m so sorry to hear about your migraine. I\u2018m sorry you\u2019ve been having a bad day. \n\nI hope you feel better soon.",
+    "reddit_knowledge": "Had a really bad day yesterday but today was much better. Hopefully tomorrow is much better for you \ud83d\ude0a",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-268",
+    "ground_truth": "You\u2019re beautiful. If u want/ need to talk, I\u2019m here",
+    "generated": "You\u2019re very pretty and I love your hair!",
+    "reddit_knowledge": "Aw so sorry that happen but you look beautiful \ud83e\udd8b\u2728\ud83e\udd8b\n\nAlso those tattoos look awesome! \ud83d\udc40\ud83d\udcaf",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-269",
+    "ground_truth": "Dude your hair is my fucking dream, I love it",
+    "generated": "You\u2019re very pretty, and I\u2019m sure you\u2019ll have a great day :)",
+    "reddit_knowledge": "Thankyou :) hope you are doing well!",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-270",
+    "ground_truth": "I actually quiet like both",
+    "generated": "You look great! I love your hair!",
+    "reddit_knowledge": "I really like the bangs! You have really cool hair in general",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-271",
+    "ground_truth": "You\u2019re so stunning omg, that photo is amazing !! I hope you feel better soon lovely x",
+    "generated": "You\u2019re a good looking guy, and I\u2019m sure you\u2019ll find someone who appreciates you.",
+    "reddit_knowledge": "My mom told me about a week ago that she regretted having me because I didn't turn out the way she wanted me to. \n\nJust found out that my grandma has breast cancer. \n\nSince my mom hates me I can't see my brother or my father. \n\nI kinda wanna die a little bit. ",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-272",
+    "ground_truth": "pretty! happy new year! I hope you have a great 2021!",
+    "generated": "You New Years Eve!",
+    "reddit_knowledge": "Happy new year!!\ud83e\udd70",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-273",
+    "ground_truth": "Um, wow, you are so beautiful! I can't even.",
+    "generated": "You\u2019re so cute! I\u2019m so sorry you\u2019ve had to go through that \ud83d\udc95\ud83d\udc95",
+    "reddit_knowledge": "I miss you! Don't feel down though. You are a sweet, caring, and funny person! I'm sorry you are having a bad day but just remember where you are today from where you were even just a year back! \u2764\ufe0f\u2764\ufe0f",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-274",
+    "ground_truth": "Dude, you have awesome hair! \n\nMy friend is streaming a New Year's rock and metal club night on Twitch. If you want to be distracted, DM me for the link - not trying to spam, it has been helping me to climb the walls abut less during lockdown.",
+    "generated": "You\u2019re a beautiful young lady",
+    "reddit_knowledge": "[removed]",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-275",
+    "ground_truth": "Bangs inspo \ud83d\udc95\ud83d\udc95",
+    "generated": "You bangs are really cool! I love your bangs!",
+    "reddit_knowledge": "Might be the hair situation?",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-276",
+    "ground_truth": "You got literally the best build I've ever seen bro",
+    "generated": "You\u2019ve got a great smile! I hope you feel better soon!",
+    "reddit_knowledge": "maybe chill out on all this candy you stole",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-277",
+    "ground_truth": "So cute \ud83d\ude0a",
+    "generated": "You look like a sweetie. ",
+    "reddit_knowledge": "Very nice photo! I hope both you and the kitty get lots of head rubs :)",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-278",
+    "ground_truth": "Cute",
+    "generated": "You\u2019re very pretty, and I\u2019m sure you\u2019ve got a lot to love about you.",
+    "reddit_knowledge": "ngl lookin cute as fuck",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-279",
+    "ground_truth": "You look amazing",
+    "generated": "You\u2019re so pretty!",
+    "reddit_knowledge": "Cute! Love the flannel in first pic \ud83d\ude0d",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-280",
+    "ground_truth": "Oh wow, you\u2019re gorgeous! I hope these comments on here have made you feel as good as you look",
+    "generated": "You\u2019re so cute! I\u2019m so sorry you feel down. I hope you\u2019ll feel better soon.",
+    "reddit_knowledge": "You know a good haircut really can make a world of difference it helped me too. I\u2019m glad that you found some positive vibes.",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-281",
+    "ground_truth": "That\u2019s great to hear, you\u2019re hair is such an amazing colour of blue.",
+    "generated": "You eyeshadow pallet!",
+    "reddit_knowledge": "Handsome, fright night poster and pokemon cards? You are awesome",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-282",
+    "ground_truth": "My mans looking cleannnnn",
+    "generated": "You\u2019re a beautiful young lady",
+    "reddit_knowledge": "[removed]",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-283",
+    "ground_truth": "That is a great picture cutie! :) \n\nHope tomorrow treats you better.",
+    "generated": "You\u2019re so cute! I\u2019m so sorry you had to go through that. I hope you\u2019ll feel better soon!",
+    "reddit_knowledge": "I am sorry that happened to you. You are very pretty, I love your beautiful eyes\ud83d\ude18",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-284",
+    "ground_truth": "Can you pass as 40? I thought you were early 30s late 20s",
+    "generated": "You\u2019re really cute!",
+    "reddit_knowledge": "You look amazing! Congrats on 40, and on becoming your true self!",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-285",
+    "ground_truth": "Nothing that you put that much time and attention and care into amounts to ... ehh...  you are brilliant and the sparkle in your eye shows it \ud83d\ude01",
+    "generated": "You look like you\u2019ve got a lot of fun to do!",
+    "reddit_knowledge": "This is pretty sick I like it alot",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-286",
+    "ground_truth": "You look amazing !!",
+    "generated": "You hair looks great!",
+    "reddit_knowledge": "I'm 26 and you look younger than me dude! Also, beautiful beard!",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-287",
+    "ground_truth": "Who was the rapper?",
+    "generated": "You, you're a great person to hang out with. I hope you feel better soon.",
+    "reddit_knowledge": "Thanks for posting this. The words you wrote about value are hitting me rather hard, but I think that's because I need to hear it and work on it. Great post. ",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-288",
+    "ground_truth": "Looks fine to me",
+    "generated": "You look like you\u2019re having a great time!",
+    "reddit_knowledge": "You\u2019re fucking adorable! Holy crap!",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-289",
+    "ground_truth": "your pictures have the energy of someone who's sweet and empathetic :)",
+    "generated": "You\u2019re very pretty, and I\u2019m sure you\u2019ve got a lot of great hair!",
+    "reddit_knowledge": "Okay yeah you\u2019re really good at doing this drawing thing",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-290",
+    "ground_truth": "Super cute \ud83d\ude0d\ud83d\ude0d",
+    "generated": "You look like a fun person to hang out with. ",
+    "reddit_knowledge": "Pleasure to meet you. Have a wonderful night.",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-291",
+    "ground_truth": "Hi you are so cute \ud83e\udd70",
+    "generated": "You\u2019re very pretty! I\u2019m sure you\u2019ve got a lot of fun to talk about!",
+    "reddit_knowledge": "Hi!!!!!",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-292",
+    "ground_truth": "\ud83d\ude01",
+    "generated": "You\u2019re so cute! I\u2019m so sorry to hear about your loss. I hope you feel better soon!",
+    "reddit_knowledge": ">Having a rough time dealing with PTSD. Feeling pretty ~~low~~. \n\nFTFY :)\n\nWish you a nice day!",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-293",
+    "ground_truth": "I hope your doing better man! Good luck with the other interviews and try not to stress too much :)",
+    "generated": "You have a great smile, and I love your hair!",
+    "reddit_knowledge": "Sorry to hear that :/ how was your weekend?",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-294",
+    "ground_truth": "Comparing yourself to others is a insult to yourself. I don\u2019t see a thing wrong with you not to be a creep or anything",
+    "generated": "You have a very pretty face, and I love your hair!",
+    "reddit_knowledge": "I hope you have a good day too!",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-295",
+    "ground_truth": "Awesome hair! You rock it well!",
+    "generated": "You\u2019re so cute! I\u2019m so sorry to hear about your loss. I hope you feel better soon.",
+    "reddit_knowledge": "Wow!! \ud83d\ude0a\u2764\ufe0f",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-296",
+    "ground_truth": "Cant feel down when you look like a million bucks!",
+    "generated": "You look like you\u2019ve got a great sense of style!",
+    "reddit_knowledge": "I'm sorry to hear that you have so much to deal with in life right now. I hope things turn around soon. Praying for you... \u2764\ufe0f",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-297",
+    "ground_truth": "You have the kind of face that would be considered very attractive hundreds of years ago and today. I feel like I'd see you on an oil painting in an art museum.",
+    "generated": "You\u2019re very pretty!",
+    "reddit_knowledge": "[removed]",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-298",
+    "ground_truth": "That's great, you look very happy too, it suits you \ud83d\ude0a You are also absolutely gorgeous \ud83d\ude0d",
+    "generated": "You\u2019re very pretty!",
+    "reddit_knowledge": "[removed]",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-299",
+    "ground_truth": "You look super pretty",
+    "generated": "You\u2019re very pretty, and I\u2019m sure you\u2019ll find someone who\u2019s like you.",
+    "reddit_knowledge": "Super cute! You are gorgeous! Nice smile too",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-300",
+    "ground_truth": "Well my dude your skin looks healthy, your hair is full, and your beard is Viking. So nothing but congrats \ud83c\udf7e.",
+    "generated": "You\u2019re very pretty, and I\u2019m sure you\u2019ll find someone who\u2019s just as cute as you!",
+    "reddit_knowledge": "I really hope you'll gather the courage for a filterless post :) let me know, okay? because I'm pretty sure that in a few hours you'll have thousands of upvotes and compliments :) oh and also, don't worry.. if you hate being alone, you'll soon find someone who hates being alone too :)",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-301",
+    "ground_truth": "Pssshhhh you're beautiful. Look at that hair! And those eyes? And I'll bet your smile shines. Nevermind that social media you're beautiful. Psshh",
+    "generated": "You\u2019re very pretty!",
+    "reddit_knowledge": "[removed]",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-302",
+    "ground_truth": "Comparison is the thief of joy. You should enjoy being a charming and beautiful girl in your own right!",
+    "generated": "I\u2019m sorry you feel that way. You\u2019re very pretty and I hope you\u2019ll feel better soon.",
+    "reddit_knowledge": "Well I feel insecure looking at you! You are gorgeous. \ud83e\udd29",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-303",
+    "ground_truth": "I love it!",
+    "generated": "You look like a fun person to hang out with!",
+    "reddit_knowledge": "I\u2019m so sorry you are having a rough week!! Things will get better And this bump in the road will pass! You look like such a kind and lovely person and just know good things will be on your horizon! Take some time for yourself and remember you\u2019ve got this!! Have a fantastic evening and I hope everything gets better \u263a\ufe0f",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-304",
+    "ground_truth": "sure by all means, feel free to come save me anytime. \"accidently\" falls off a building...",
+    "generated": "You\u2019re a super cool supergirl!",
+    "reddit_knowledge": "You\u2019re fucking adorable! Holy crap!",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-305",
+    "ground_truth": "You are so beautiful, I wish I could dress up with you as your SO",
+    "generated": "You\u2019re beautiful!",
+    "reddit_knowledge": "[removed]",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-306",
+    "ground_truth": "There's too much editing to give a proper rating. But r/rateme is better suited anyways",
+    "generated": "You\u2019re very pretty, and I\u2019m sure you\u2019ll find someone who appreciates you.",
+    "reddit_knowledge": "Damn you take a good selfie though",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-307",
+    "ground_truth": "Girl! Your lips are the kind of lips that people will go to clinics to achieve. I mean, you're gorgeous and people are literally paying to have your features.",
+    "generated": "You\u2019re so pretty!",
+    "reddit_knowledge": "You\u2019re so kind! Thank you \ud83d\udc9b You\u2019re awesome!",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-308",
+    "ground_truth": "Well, you\u2019re stunningly beautiful.",
+    "generated": "You\u2019re very pretty, and I\u2019m sure you\u2019ll find someone who appreciates you.",
+    "reddit_knowledge": "Thank you. My day has been ok, though kind of stressful due to exams coming up. But I'm excited for the future. How was your day?",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-309",
+    "ground_truth": "Happy New Year!  \nYou have a beautiful smile! \nAnd that shirt is super cute.",
+    "generated": "You new year! Hope you have a great one!",
+    "reddit_knowledge": "Wishing you a great day \u2764\ufe0f\u2764\ufe0f",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-310",
+    "ground_truth": "GSHAGSHSGAHSGSG ISSA BUUDOWG",
+    "generated": "You New Year to you!",
+    "reddit_knowledge": "Happy new year!!\ud83e\udd70",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-311",
+    "ground_truth": "Simply gorgeous",
+    "generated": "You\u2019re beautiful!",
+    "reddit_knowledge": "[removed]",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-312",
+    "ground_truth": "Lookin sharp man! \ud83d\udd25",
+    "generated": "You\u2019re beautiful!",
+    "reddit_knowledge": "[removed]",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-313",
+    "ground_truth": "I love your hair colour! It looks beautiful on you",
+    "generated": "You\u2019re a beautiful young lady",
+    "reddit_knowledge": "[removed]",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-314",
+    "ground_truth": "Lookin\u2019 good, good lookin\u2019",
+    "generated": "You\u2019re very pretty. I\u2019m not sure if you\u2019ve ever felt confident in yourself before, but I think it\u2019s important to remember that you are not alone in your own skin. \n\n",
+    "reddit_knowledge": "Wow, that's awesome! Congratulations, I wish you the best at your new job! (:",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-315",
+    "ground_truth": "Apparently this wasn\u2019t an appropriate title, so I\u2019m going to say it in the comments. Yes, my lips are real, no, you can\u2019t see what they can do. Anyways, enjoy! \ud83d\ude01",
+    "generated": "You\u2019re so cute! I\u2019m so sorry you\u2019ve had to go through this. I hope you feel better soon.",
+    "reddit_knowledge": "Hey, you look cute! I hope you have a great day.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-316",
+    "ground_truth": "You\u2019re one handsome fella \ud83d\ude3a",
+    "generated": "You\u2019ve got a great smile. I\u2019m sure you\u2019ll find someone who appreciates you.",
+    "reddit_knowledge": "Your smile beautiful \u2764\ufe0f",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-317",
+    "ground_truth": "You have some beautiful eyes",
+    "generated": "You\u2019re a great looking guy!",
+    "reddit_knowledge": "   \nI'm doubting my straightness",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-318",
+    "ground_truth": "I like your face",
+    "generated": "You look like you\u2019re having a great day!",
+    "reddit_knowledge": "But do you send dms \ud83d\udc40\ud83d\udc40",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-319",
+    "ground_truth": "I think you look great!",
+    "generated": "You\u2019re so cute! I\u2019m so sorry you\u2019ve been feeling down lately. I hope you feel better soon!",
+    "reddit_knowledge": "It gets easier my friend you just have to keep trying and improving. But that's the hard part, you gotta do it everyday. But it does get better i promise",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-320",
+    "ground_truth": "You look stunning!",
+    "generated": "You\u2019re a beautiful young lady",
+    "reddit_knowledge": "[removed]",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-321",
+    "ground_truth": "I wouldn\u2019t mind going to the bank just to flirt with you",
+    "generated": "You\u2019ve got a great smile, and I\u2019m glad you\u2019re feeling better!",
+    "reddit_knowledge": "That sucks dude im sorry.  Shits gonna get better though.  You are looking good!  Im guessing highschool?  Its a rough time for sure but it gets over pretty quick, don't worry too much my man.",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-322",
+    "ground_truth": "Ah! That smile! That beautiful hair!! Just gorgeous!!!",
+    "generated": "You\u2019re so cute! I\u2019m so sorry to hear about your loss. I hope you feel better soon :)",
+    "reddit_knowledge": "I felt the same way with this subreddit, I follow it just to show support in likes... it's just nice to see people say kind things. If I had seen yours empty I definitely would have said something!\n\n:-) either way happy holidays!",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-323",
+    "ground_truth": "Ohhhhhhhhhh lort... what a crown you wear upon your glorious brow!",
+    "generated": "You\u2019re a beautiful young lady",
+    "reddit_knowledge": "[removed]",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-324",
+    "ground_truth": "Love the makeup and the hair! Looks marvelous!",
+    "generated": "You\u2019re so cute! I\u2019m so sorry you\u2019ve had to go through this. ",
+    "reddit_knowledge": "Mind if I save your pic? I'd love to draw you for a character (no guarantee my stuff will see the light of day, I just wanna draw you \ud83d\ude0a)",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-325",
+    "ground_truth": "Looks incredible on you",
+    "generated": "You look great in saree!",
+    "reddit_knowledge": "I think you look great!",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-326",
+    "ground_truth": "True happiness comes from within",
+    "generated": "You\u2019re so cute! I\u2019m so sorry you\u2019ve had to go through this. I hope you can get through this!",
+    "reddit_knowledge": "BEAUTIFUL!! love your eyes \ud83d\udda4\ud83d\udda4",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-327",
+    "ground_truth": "Sorry you are bored, I love your ink.",
+    "generated": "You\u2019re so cute!",
+    "reddit_knowledge": "Hella cute",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-328",
+    "ground_truth": "Yes ma'am",
+    "generated": "You\u2019re a beautiful young lady",
+    "reddit_knowledge": "[removed]",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-329",
+    "ground_truth": "Love the hair! Love the nose kocka (ring).   Shine bright!! \u26a1\ufe0f\u26a1\ufe0f\ud83c\udf15",
+    "generated": "You\u2019re a beautiful young lady",
+    "reddit_knowledge": "[removed]",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-330",
+    "ground_truth": "You look stunning!! Absolutely love it!! \ud83d\udc9a\ud83d\udc9a",
+    "generated": "You have a very pretty face, and I love your hair!",
+    "reddit_knowledge": "Your piercings are really really pretty! They compliment you really well!",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-331",
+    "ground_truth": "You are cute as a button",
+    "generated": "You\u2019re a great mom of 2! I\u2019m so sorry to hear about your illness. I hope you feel better soon.",
+    "reddit_knowledge": "dope ass guy. i love you more\u2764\ufe0f",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-332",
+    "ground_truth": "Go to sleep ! Sleep is far better than anything else in the world\u2026 except maybe cats",
+    "generated": "You look like you\u2019ve got a lot of fun to do!",
+    "reddit_knowledge": "\"please turn your radio down, so that I can get some sleep...\" Haha",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-333",
+    "ground_truth": "You too mate!",
+    "generated": "You have a very pretty face and I love your hair!",
+    "reddit_knowledge": "After battling multiple addictions throughout my life I know how few have truly gone through your struggles. It is so so hard and you're doing it! You are incredibly strong and beautiful at that. Have a great day. ",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-334",
+    "ground_truth": "You're freaking beautiful.",
+    "generated": "You have a very pretty face and I love your hair!",
+    "reddit_knowledge": "Aw so sorry that happen but you look beautiful \ud83e\udd8b\u2728\ud83e\udd8b\n\nAlso those tattoos look awesome! \ud83d\udc40\ud83d\udcaf",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-335",
+    "ground_truth": "I think I prefer curly more. But both are beautiful",
+    "generated": "You\u2019re very pretty, and I love your curly hair!",
+    "reddit_knowledge": "your so pretty!!! i love your hair omg \ud83d\udc69\u200d\u2764\ufe0f\u200d\ud83d\udc8b\u200d\ud83d\udc69",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-336",
+    "ground_truth": "Right now it feels like this will take over you\u2019re entire life and you\u2019ll never be able to let it go, but I promise it will get better. You\u2019re so young and you have so much life left to live. I\u2019m sorry it feels so hard and overwhelming right now but I promise you\u2019ve got this.",
+    "generated": "You\u2019re really cute! I\u2019m sorry to hear about your breakup. I hope you\u2019ll feel better soon.",
+    "reddit_knowledge": "Thank you for giving me courage to talk about depression!",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-337",
+    "ground_truth": "You remind me of Lori Loughlin, when she was young, and hot, and you know... Not a felon. Haha",
+    "generated": "I\u2019m sorry you\u2019re having a rude awakening. You\u2019ve got a great smile, and I hope you feel better soon.",
+    "reddit_knowledge": "I could use a pick me up.. shitty year so far",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-338",
+    "ground_truth": "You\u2019re adorable. Love your hair",
+    "generated": "You\u2019re so pretty!",
+    "reddit_knowledge": "\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+    "reddit_index": 3
+  }
+]
