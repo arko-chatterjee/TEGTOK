@@ -60,7 +60,7 @@ def createDatasetFor(dataArr, fileName):
             textArrR.append(redditComments[index])
             titleArrR.append("")
             scoreArrR.append(distance)
-        output.append({"post": post, "response": "DEMO ONLY", 
+        output.append({"dialog-id": "test-"+str(i), "post": post, "response": "DEMO ONLY", 
             "wiki_knowledge": textArrW, "wiki_knowledge_title": titleArrW, "wiki_knowledge_score": scoreArrW,
             "reddit_knowledge": textArrR, "reddit_knowledge_title": titleArrR, "reddit_knowledge_score": scoreArrR,
         })

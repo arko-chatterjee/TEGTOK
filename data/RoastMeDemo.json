@@ -1,5 +1,6 @@
 [
     {
+        "dialog-id": "test-1",
         "post": "Elon Musk: And we just hit another all-time high in Twitter usage lol",
         "response": "DEMO ONLY",
         "wiki_knowledge": [
@@ -46,6 +47,7 @@
         ]
     },
     {
+        "dialog-id": "test-2",
         "post": "Elon Musk: Thanksgiving cuisine is such a delightful symphony of flavor!",
         "response": "DEMO ONLY",
         "wiki_knowledge": [
@@ -92,6 +94,7 @@
         ]
     },
     {
+        "dialog-id": "test-3",
         "post": "Elon Musk: Going forward, accounts engaged in parody must include \"parody\" in their name, not just in bio",
         "response": "DEMO ONLY",
         "wiki_knowledge": [
@@ -138,6 +141,7 @@
         ]
     },
     {
+        "dialog-id": "test-4",
         "post": "Elon Musk: Btw, I'd like to apologize for Twitter being super slow in many countries. App is doing >1000 poorly batched RPCs just to render a home timeline!",
         "response": "DEMO ONLY",
         "wiki_knowledge": [
@@ -184,6 +188,7 @@
         ]
     },
     {
+        "dialog-id": "test-5",
         "post": "Elon Musk: My commitment to free speech extends even to not banning the account following my plane, even though that is a direct personal safety risk",
         "response": "DEMO ONLY",
         "wiki_knowledge": [
@@ -230,6 +235,7 @@
         ]
     },
     {
+        "dialog-id": "test-6",
         "post": "Thinking of dropping out and beomcing an a\u00e7a\u00ed bowl promoter",
         "response": "DEMO ONLY",
         "wiki_knowledge": [
