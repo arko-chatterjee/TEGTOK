@@ -1,0 +1,44 @@
+[
+  {
+    "dialog_id": "test-1",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re so cute! I\u2019m so sorry you\u2019ve had to go through this. ",
+    "reddit_knowledge": "Omg please share your skin care regimen with us! You are glowing! ",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-2",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You have a wonderful smile!",
+    "reddit_knowledge": "That is awesome!  I love it! You Etsy store looks great! ",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-3",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re so cute! I\u2019m so sorry you\u2019ve had to go through this. \n\nI hope you can find a way to make it better for yourself. ",
+    "reddit_knowledge": "Commenters on amifat are those awful redditors who call gorgeous people 6.5's and say healthy people are fat.\n\n\nWhat they say is biased and wrong. Disregard what they would say. \n\n\n\nKeep up the great work!!",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-4",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like a cool dude. ",
+    "reddit_knowledge": "Omg please share your skin care regimen with us! You are glowing! ",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-5",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re a great person to hang out with. ",
+    "reddit_knowledge": "You look awesome!!! If I were single, I'd feel lucky to be having a conversation with you :)",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-6",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re so cute! I\u2019m so sorry you\u2019ve had to go through that. I hope you feel better soon.",
+    "reddit_knowledge": "i hope you have good weekend too",
+    "reddit_index": 2
+  }
+]

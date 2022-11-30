@@ -1,7 +1,12 @@
 [
     {
+<<<<<<< HEAD
         "dialog-id": "test-1",
         "post": "oh am sure all those people in fph are only there because they are really worried about the fat peoples health ! they 're all there to bully them into being healthier right ?",
+=======
+        "dialog_id": "test-1",
+        "post": "Elon Musk: And we just hit another all-time high in Twitter usage lol",
+>>>>>>> 735816a7bec412a58077757e5f361687b99813d2
         "response": "DEMO ONLY",
         "wiki_knowledge": [
             "plan to fix this problem. The next time they are seen, at school, Bebe walks in wearing a box over her chest, which causes all the boys to suddenly break out of their trance; Stan shares his father's advice not to let breasts control their lives, and the boys all agree that it is for the best. Consequently, when Wendy shows up with her new breast implants, she is ridiculed rather than praised. Butters goes up and pokes them, saying that they are all \"hard and oogy,\" to which Cartman replies \"What a stupid bitch!\" In the DVD commentary, Parker",
@@ -18,11 +23,113 @@
             "What's So Bad About Feeling Good?"
         ],
         "wiki_knowledge_score": [
+<<<<<<< HEAD
             76.75,
             76.5,
             76.6,
             76.65,
             76.22
+=======
+            93.13848114013672,
+            87.06976318359375,
+            85.21080780029297,
+            85.13128662109375,
+            84.17849731445312
+        ],
+        "reddit_knowledge": [
+            "And you're contributing to it by posting this - so clearly you're awesome!",
+            "Omg please share your skin care regimen with us! You are glowing! ",
+            "Omg you are the perfect combination of edgy and glam. I love it!! Gorgeous. Congratulations!! ",
+            "This is my first comment in this sub. I think you are awesome!",
+            "And you are my new favorite person on the Internet!"
+        ],
+        "reddit_knowledge_title": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "reddit_knowledge_score": [
+            108.52159118652344,
+            107.68605041503906,
+            106.68727111816406,
+            106.49480438232422,
+            106.48143768310547
+        ]
+    },
+    {
+        "dialog_id": "test-2",
+        "post": "Elon Musk: Thanksgiving cuisine is such a delightful symphony of flavor!",
+        "response": "DEMO ONLY",
+        "wiki_knowledge": [
+            "Chile, and other ports; he served on different departmental committees, notably that of 1894\u201396 on the Mercantile Marine Fund. Monkhouse was twice married: first, to Laura, daughter of James Keymer of Dartford; and, secondly, to Leonora Eliza, daughter of Commander Blount, R.N. Cosmo Monkhouse was one of those who not only have a vocation, but an avocation. Cosmo's first bias was to poetry, and in 1865 he issued \"A Dream of Idleness and Other Poems,\" a collection strongly coloured by his admiration for Wordsworth and Tennyson. It was marked by exceptional maturity, and scarcely received the recognition it deserved. Perhaps",
+            "while only 9% reported an unfavorable view. Even two months later, in early October 2004, FDU's poll release entitled \"Richard Who?\" found that, despite that Codey would soon take over as governor from McGreevey, the name \"Richard Codey\" remained unknown to 59% of New Jersey voters. However, voters who knew him held distinctly more favorable than unfavorable views by a two to one ratio, (23%\u201310%). By early January 2005, when PublicMind again conducted a statewide study in which voters were asked: \"Have you heard of Richard Codey?,\" the numbers showed that 35% of New Jersey voters still did not recognize",
+            "was published in 1970 to wide critical acclaim. Between 1970 and his death, he published nearly a dozen additional books, including four novels. He held visiting lectureships, fellowships and professorships at several institutions, including the Columbia University Graduate School of Journalism (1968), Colgate University (1970; 1973; 1982), the University of Massachusetts Boston (1971), the University of Missouri (1972), Emory University (1978), Drew University (1983) and Washington and Lee University (1993). From 1981 to 1983, he was an adjunct associate professor of writing at Barnard College. In 1976, he received the prestigious ASCAP-Deems Taylor Award for his music criticism. He also",
+            "visited the Ming capital Nanjing in 1408 and died there; his tomb was rediscovered in the 20th century, and is now a protected monument. The greater part of the official historical record for early Brunei until the arrival of Pigafetta is based on legends and assumptions. The historical account \u2013 lacking any real evidence \u2013 has been constructed in such a way that around 1370, Zhu Yuan Zhang sent representatives to Brunei via Indonesia, and Brunei paid tribute to the Ming Chinese. This signified the strong influence of the Ming Dynasty, and accounts for the combination of Ong Sum Ping's",
+            "successful 11-day mission at 9:54 am. The five stars on the left and nine stars on the right of the insignia symbolize the flight's numerical designation in the Space Transportation System's mission sequence. STS-59 STS-59 Shuttle mission was a Space Shuttle program mission that took place in 1994. The launch was chronicled by the 1994 Discovery Channel special about the Space Shuttle Program. \"Endeavour\" began its sixth mission on the morning of 9 April 1994 with an on-time launch at 7:05 am Eastern time. Soon after, the six astronauts began activating the sensitive radar equipment in the payload bay that"
+        ],
+        "wiki_knowledge_title": [
+            "\"William Cosmo Monkhouse\"",
+            "\"Richard Codey\"",
+            "\"Albert Murray (writer)\"",
+            "\"History of Brunei\"",
+            "STS-59"
+        ],
+        "wiki_knowledge_score": [
+            98.49165344238281,
+            95.91219329833984,
+            89.95928192138672,
+            86.97560119628906,
+            84.5249252319336
+        ],
+        "reddit_knowledge": [
+            "Mmmm I love me some cookies and they look incredible",
+            "Your pumpkin is sweet! I haven\u2019t dressed up in yeaaars. The last time I did I was a pumpkin to!",
+            "Super cute! Floral is timeless<3",
+            "That is awesome!  I love it! You Etsy store looks great! ",
+            "Sorry I\u2019m so late to the party, but as someone who loves to snuggle up to my loving furry sweet Frenchie (French Bulldog) when I\u2019m in need of a little sunshine and hopefulness again (everyday all day it seems like lately!) I LOVE that you have such an awesome totally unique, equally loving (I\u2019m sure!) little creature to cheer you up, too! Sending you both snuggly and, equally chill, scaly uplifting thoughts from myself and the little furry face right next to me!  "
+        ],
+        "reddit_knowledge_title": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "reddit_knowledge_score": [
+            113.24898529052734,
+            109.22885131835938,
+            108.90440368652344,
+            106.97264099121094,
+            106.97039794921875
+        ]
+    },
+    {
+        "dialog_id": "test-3",
+        "post": "Elon Musk: Going forward, accounts engaged in parody must include \"parody\" in their name, not just in bio",
+        "response": "DEMO ONLY",
+        "wiki_knowledge": [
+            "washed away, and the water tower was knocked down. A report by the State indicated that roughly 285 people in Mexico Beach had declined to evacuate the area, although some of those may have left before the peak of the storm. The death toll had not be determined as of October 12, but Brock Long of FEMA was not optimistic: \"Very few people live to tell what it's like to experience storm surge, and unfortunately in this country we seem to not learn the lesson\". At that time, Mayor Al Cathey told residents it might be months before electricity, water,",
+            "Contour line A contour line (also isoline, isopleth, or isarithm) of a function of two variables is a curve along which the function has a constant value, so that the curve joins points of equal value. It is a plane section of the three-dimensional graph of the function \"f\"(\"x\", \"y\") parallel to the \"x\", \"y\" plane. In cartography, a contour line (often just called a \"contour\") joins points of equal elevation (height) above a given level, such as mean sea level. A contour map is a map illustrated with contour lines, for example a topographic map, which thus shows valleys",
+            "is a marginal distribution. Suppose that the goal is to estimate P(E) for E on the tail of P(E). Formally, P(E) can be written as and, thus, estimating P(E) can be accomplished by estimating the expected value of the indicator function formula_82, which is 1 when formula_83 and zero otherwise. Because E is on the tail of P(E), the probability to draw a state x with E(x) on the tail of P(E) is proportional to P(E), which is small by definition. Metropolis-Hastings can be used here to sample (rare) states more likely and thus increase the number of samples used",
+            "divorced in May 1996. Yates later moved in with Hutchence, and had a daughter with him. Hutchence committed suicide in a hotel room on 22 November 1997. After Hutchence's death, Geldof and Yates each gave police statements on the phone calls they exchanged with Hutchence that morning but did not volunteer their phone records. Yates' statement on 26 November included \"He was frightened and couldn't stand a minute more without his baby ... [he] was terribly upset and he said, 'I don't know how I'll live without seeing Tiger.'\" Yates contended that Geldof had repeatedly said, \"Don't forget, I am",
+            "2.44 and the average family size was 2.93. In the CDP, the population was spread out with 27.4% under the age of 18, 4.2% from 18 to 24, 32.6% from 25 to 44, 22.1% from 45 to 64, and 13.7% who were 65 years of age or older. The median age was 38 years. For every 100 females, there were 111.1 males. For every 100 females age 18 and over, there were 97.1 males. The median income for a household in the CDP was $48,654, and the median income for a family was $48,654. Males had a median income of"
+        ],
+        "wiki_knowledge_title": [
+            "\"Mexico Beach, Florida\"",
+            "\"Contour line\"",
+            "\"Metropolis\u2013Hastings algorithm\"",
+            "\"Bob Geldof\"",
+            "\"Cundiyo, New Mexico\""
+        ],
+        "wiki_knowledge_score": [
+            98.62767028808594,
+            94.38645935058594,
+            94.36480712890625,
+            91.97604370117188,
+            91.736328125
+>>>>>>> 735816a7bec412a58077757e5f361687b99813d2
         ],
         "reddit_knowledge": [
             "I mean, the roast me subreddit is supposed to be a fun, comedic thing. If you actually feel a certain kind of way about yourself don't post there.\n\nThey literally look for anything to roast you because that's the point of the sub. I wouldn't take those roasts seriously, because it's often exaggerated for humor.",
@@ -141,8 +248,13 @@
         ]
     },
     {
+<<<<<<< HEAD
         "dialog-id": "test-4",
         "post": "the same applies to alcohol , tell someone you drink every day and you 'll get the same look",
+=======
+        "dialog_id": "test-4",
+        "post": "Elon Musk: Btw, I'd like to apologize for Twitter being super slow in many countries. App is doing >1000 poorly batched RPCs just to render a home timeline!",
+>>>>>>> 735816a7bec412a58077757e5f361687b99813d2
         "response": "DEMO ONLY",
         "wiki_knowledge": [
             "Timeline Followback Method Assessment (Alcohol) The Alcohol Timeline Followback Method (TLFB) is a tool developed in 1970 by Linda Carter Sobell and Mark B. Sobell used to assess an individual\u2019s alcohol intake. It evaluates an individual\u2019s daily drinking and then provides a report of an individual\u2019s drinking pattern. Along with this, it looks at the magnitude and variability of drinking. With the timeline summary, it provides a relatively accurate portrayal of one\u2019s drinking. This assessment has been evaluated across several populations (e.g., adolescents, adults, alcohol abusers of varying severity, college students, male and female normal drinkers in the general population).",
@@ -188,8 +300,13 @@
         ]
     },
     {
+<<<<<<< HEAD
         "dialog-id": "test-5",
         "post": "i 've been reading everywhere that a different studio are doing both pc and last gen . i could be wrong and be reading the wrong info . but i did n't see anything that said the opposite .",
+=======
+        "dialog_id": "test-5",
+        "post": "Elon Musk: My commitment to free speech extends even to not banning the account following my plane, even though that is a direct personal safety risk",
+>>>>>>> 735816a7bec412a58077757e5f361687b99813d2
         "response": "DEMO ONLY",
         "wiki_knowledge": [
             "Typographical error A typographical error (often shortened to typo), also called misprint, is a mistake made in the typing process (such as a spelling mistake) of printed material. Historically, this referred to mistakes in manual type-setting (typography). The term includes errors due to mechanical failure or slips of the hand or finger, but excludes errors of ignorance, such as spelling errors, or the flip-flopping of words such as \"than\" and \"then\". Before the arrival of printing, the \"copyist's mistake\" or \"scribal error\" was the equivalent for manuscripts. Most typos involve simple duplication, omission, transposition, or substitution of a small number",
@@ -235,8 +352,13 @@
         ]
     },
     {
+<<<<<<< HEAD
         "dialog-id": "test-6",
         "post": "i think you just like using that word . are you native american ? is this offensive to you ?",
+=======
+        "dialog_id": "test-6",
+        "post": "Thinking of dropping out and beomcing an a\u00e7a\u00ed bowl promoter",
+>>>>>>> 735816a7bec412a58077757e5f361687b99813d2
         "response": "DEMO ONLY",
         "wiki_knowledge": [
             "Nigger In the English language, the word nigger is a racial slur typically directed at black people. The word originated in the 18th century as an adaptation of the Spanish negro, a descendant of the Latin adjective \"niger\" which means black. It was used derogatorily, and by the mid-twentieth century, particularly in the United States, its usage became unambiguously pejorative, a racist insult. Accordingly, it began to disappear from popular culture, and its continued inclusion in classic works of literature has sparked controversy. Because the term is considered extremely offensive, it is often referred to by the euphemism \"N-word\". The",

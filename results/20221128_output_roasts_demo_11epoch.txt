@@ -1,0 +1,44 @@
+[
+  {
+    "dialog_id": "test-1",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": ">\tExtremely boy crazy\n\nHer blowjobs looks like they feel how stale crackers taste.",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-2",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "Me: Can we get Zendaya please?!\n\nMom: We have Zendaya at home.\n\nZendaya at home.",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-3",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "You look like Conan OBRIEN if his career blew up in a meth lab instead of comedy",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-4",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "If I QR scanned the confusing array of blemishes you call your face, would it send me to a dungeons and dragons forum",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-5",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you spend a lot of time in the shower.",
+    "reddit_knowledge": "You look like you are Kim Jong Un's official ice cream taster",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-6",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would drop out of high school if he had a girlfriend.",
+    "reddit_knowledge": "I bet he's a great teacher. ",
+    "reddit_index": 2
+  }
+]
