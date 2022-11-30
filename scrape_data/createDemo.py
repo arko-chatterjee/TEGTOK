@@ -39,7 +39,8 @@ def createDatasetFor(dataArr, fileName):
     print("CREATING DATASET")
     i = 0
     output = []
-    for post in dataArr:
+    for pst in dataArr:
+        post = pst['post']
         if (i % 100 == 0):
             measure()
         i += 1
@@ -61,7 +62,7 @@ def createDatasetFor(dataArr, fileName):
             titleArrR.append("")
             scoreArrR.append(distance)
         output.append({"dialog-id": "test-"+str(i), "post": post, "response": "DEMO ONLY", 
-            "wiki_knowledge": textArrW, "wiki_knowledge_title": titleArrW, "wiki_knowledge_score": scoreArrW,
+            "wiki_knowledge": pst['wiki_knowledge'], "wiki_knowledge_title": pst['wiki_knowledge_title'], "wiki_knowledge_score": pst['wiki_knowledge_score'],
             "reddit_knowledge": textArrR, "reddit_knowledge_title": titleArrR, "reddit_knowledge_score": scoreArrR,
         })
 
@@ -81,14 +82,9 @@ def encode_question(q):
 
 if __name__ == '__main__':
     print('ENCODING DATA')
-    dataArr = [
-        "Elon Musk: And we just hit another all-time high in Twitter usage lol",
-        "Elon Musk: Thanksgiving cuisine is such a delightful symphony of flavor!",
-        "Elon Musk: Going forward, accounts engaged in parody must include \"parody\" in their name, not just in bio",
-        "Elon Musk: Btw, I'd like to apologize for Twitter being super slow in many countries. App is doing >1000 poorly batched RPCs just to render a home timeline!",
-        "Elon Musk: My commitment to free speech extends even to not banning the account following my plane, even though that is a direct personal safety risk",
-        "Thinking of dropping out and beomcing an açaí bowl promoter",
-    ]
+    commentFile = open('../../../../../Downloads/reddit/test.json')
+    redditComments = json.load(commentFile)
+    dataArr = redditComments[0:200]
     createDatasetFor(dataArr, 'RoastMe')
     createDatasetFor(dataArr, 'FreeCompliments')
     
