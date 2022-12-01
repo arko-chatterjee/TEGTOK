@@ -1,0 +1,1402 @@
+[
+  {
+    "dialog_id": "test-1",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": ">yes i was the weird kid in middle school\n\nYou're the weird kid now.",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-2",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would walk into a bowling alley and scream \"I can't find you!\"",
+    "reddit_knowledge": "\u201cIf I\u2019m going to roast others...\u201d\n\n\n-I love the smell of napalm in the morning.",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-3",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "You look like if a pug became a person",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-4",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would drink a lot of water if he had a girlfriend.",
+    "reddit_knowledge": "Don't you know plaque can lead to oral issues?  Or maybe it's something else on you teeth. ",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-5",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "This looks like a really bad photoshop.",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-6",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "Shouldn\u2019t you be somewhere like trying to invade Ukraine or something",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-7",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would walk into a bowling alley and scream at the top of his lungs.",
+    "reddit_knowledge": "Shit they'll probably end up sealing the deal with each other.",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-8",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would never let himself go.",
+    "reddit_knowledge": "You know the air Force doesn't allow people who listen to death grips right",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-9",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like a middle aged man who has a mustache. ",
+    "reddit_knowledge": "Couldn\u2019t think of anything better to do after you graduated? Should\u2019ve tried drugs earlier? Making daddy proud? Well at least you\u2019ll take solace in knowing Reddit will never be able to hit you harder than your future police officer husband.",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-10",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "You might want to delete this seeing your screen is displaying stuff you might not wanna show.\nOtherwise, you might not have a workplace to be bored at.",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-11",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would kill himself if he tried to kill himself.",
+    "reddit_knowledge": "Does she want us to call 911? It looks like she\u2019s being held captive",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-12",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you're trying to hide your face in a pile of trash.",
+    "reddit_knowledge": "You might want to delete this seeing your screen is displaying stuff you might not wanna show.\nOtherwise, you might not have a workplace to be bored at.",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-13",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "It\u2019s a shame you\u2019re not attractive because you look really slutty",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-14",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "You might want to delete this seeing your screen is displaying stuff you might not wanna show.\nOtherwise, you might not have a workplace to be bored at.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-15",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would walk into a bowling alley and scream \"I can't find you\" at the same time.",
+    "reddit_knowledge": "Uh oh looks like the Rick Sanchez cosplay didn't work out",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-16",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "Are you Michael from Microsoft tech support?",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-17",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would never let himself go.",
+    "reddit_knowledge": "I\u2019ve never seen someone so ugly yet so beautiful, so masculine yet so feminine, it\u2019s hard to imagine that this is even a real person walking the earth and not a glitched deep fake\nI want to look away but I just can\u2019t. It\u2019s like a one in a million sight like two wolf corpses fucking each-other in broad daylight. \n\nyou Are truly a disturbing sight to behold and I feel incredibly sorry for any who has done so in person.",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-18",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "I've never seen someone try so hard to give roastable material. Cancer is a slow painful death, so I can understand why you're desperately trying to lose the will to live to speed up the process. ",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-19",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you've been drinking a lot of Budweiser.",
+    "reddit_knowledge": "You look a bit like my secondary school PE teacher. \n\nHe\u2019s on the sex offenders register.",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-20",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you spend a lot of time in the shower.",
+    "reddit_knowledge": "\"self-described\" pretty boy...\n\n...this perfectly illustrates why you *never* believe self descriptions.",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-21",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "What an insult to Sid.",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-22",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would kill himself if he could just get away with it.",
+    "reddit_knowledge": "Must be weird teaching a class you failed as a student",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-23",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would walk into a bowling alley and scream \"I can't find you!\"",
+    "reddit_knowledge": "Why does this look like a dark web Baskin Robbins commercial?",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-24",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "Did your parents have to do a gender reveal party every time your grandma came to town?",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-25",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "Me: Can we get Zendaya please?!\n\nMom: We have Zendaya at home.\n\nZendaya at home.",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-26",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would never let himself go to a gay bar. ",
+    "reddit_knowledge": "Weird choice to post a pic while taking a shit in your garden, but ok.",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-27",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley",
+    "reddit_knowledge": "It's almost a guarantee when some chick posts here if you go through their post history there was a recent breakup. Here's a tip, nothing here will faze you because you think you are pretty, and the jokes will be low-brow and just serve to reinforce your belief that you are too good for him. Nobody here points out that having a boyfriend means someone was initially attracted to your looks. Time with you and getting to know your personality is the reason he left.",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-28",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "You look like your in the mood to get glazed at the local glory hole.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-29",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley",
+    "reddit_knowledge": "I\u2019ve never seen someone so ugly yet so beautiful, so masculine yet so feminine, it\u2019s hard to imagine that this is even a real person walking the earth and not a glitched deep fake\nI want to look away but I just can\u2019t. It\u2019s like a one in a million sight like two wolf corpses fucking each-other in broad daylight. \n\nyou Are truly a disturbing sight to behold and I feel incredibly sorry for any who has done so in person.",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-30",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would walk into a middle school cafeteria and ask for money.",
+    "reddit_knowledge": ">\tExtremely boy crazy\n\nHer blowjobs looks like they feel how stale crackers taste.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-31",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley. ",
+    "reddit_knowledge": "She looks like she gets make up advice from the cadavers",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-32",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you spend a lot of time in the shower.",
+    "reddit_knowledge": "Looks like someone who'd do anything for 20 bucks.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-33",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you spend a lot of time in the shower.",
+    "reddit_knowledge": "You own a van with Free Candy written on the side don't you.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-34",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of person who would walk around with a bag of weed in her mouth. ",
+    "reddit_knowledge": "This is your response, being Ukrainian, to everything going on over there? You're a horrible garbage person that's just trying to farm karma. Fuck outta here!",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-35",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley",
+    "reddit_knowledge": ">\tExtremely boy crazy\n\nHer blowjobs looks like they feel how stale crackers taste.",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-36",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": ">yes i was the weird kid in middle school\n\nYou're the weird kid now.",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-37",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would never let himself go to college.",
+    "reddit_knowledge": "You're such a poser, you could pass through a metal detector and it wouldnt even make a sound.",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-38",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": ">\tExtremely boy crazy\n\nHer blowjobs looks like they feel how stale crackers taste.",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-39",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would walk into a bowling alley and scream \"I can't find you\" at the same time.",
+    "reddit_knowledge": "It\u2019s nice to see that companies employ the mentally disabled.",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-40",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would kill himself if he had a girlfriend.",
+    "reddit_knowledge": "I\u2019m still Jenny from the blob.",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-41",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "Dont worry big dawg, Jody already on his way to do it for you.",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-42",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "nice vibrator collection you have in the back",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-43",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "You might want to delete this seeing your screen is displaying stuff you might not wanna show.\nOtherwise, you might not have a workplace to be bored at.",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-44",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would walk into a bowling alley and scream \"I'm gay\" at the top of his lungs",
+    "reddit_knowledge": ">yes i was the weird kid in middle school\n\nYou're the weird kid now.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-45",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "Why do I feel tired just from looking at this picture?",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-46",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would never let himself go.",
+    "reddit_knowledge": "Nice weeaboo cosplay for a 40 yr old dude",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-47",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley. ",
+    "reddit_knowledge": "You might not be able to get employment in your field, but at least when you're sharing around your tuna canoe in exchange for a place to sleep you're bound to find some sweet drum circles. ",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-48",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": ">\tExtremely boy crazy\n\nHer blowjobs looks like they feel how stale crackers taste.",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-49",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "Surfer dude, secretly they,\nPilots drones, to show he\u2019s not gay.\nTrophy shelf, for only him self,\nOnly desire, to fuck as an elf.\nFake ears are too queer, \nCept once a year.\nHalloween is their time,\nTo mask their fear.\nFamily has shunned,\nAnd rightfully so,\nYou\u2019ll never fit in\nYou\u2019re \u201ctoo cool bro\u201d.",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-50",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley. ",
+    "reddit_knowledge": "You\u2019ve slept with so many guys you\u2019re starting to look like one boom roasted",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-51",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would kill himself if he had a girlfriend.",
+    "reddit_knowledge": "I've never seen someone try so hard to give roastable material. Cancer is a slow painful death, so I can understand why you're desperately trying to lose the will to live to speed up the process. ",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-52",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like a pedophile. ",
+    "reddit_knowledge": "Shit they'll probably end up sealing the deal with each other.",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-53",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley. ",
+    "reddit_knowledge": "Used the yeast from your infection for the dough again I bet.",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-54",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would spend a lot of time in the hospital if he had a stroke.",
+    "reddit_knowledge": "\"14-D\" on his hand\nThis engineer can't remember his apartment number, yet he's gonna design our shit\nWe're fucked",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-55",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would walk into a bowling alley and scream \"I can't find you\" over and over again.",
+    "reddit_knowledge": "\u201cWow your show is so inspiring to my kids! You\u2019re really going somewhere!\u201d",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-56",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "Weird choice to post a pic while taking a shit in your garden, but ok.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-57",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "Being a foot taller doesn't count as a long distance relationship. She's right fucking next to you.",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-58",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would walk into a bowling alley and scream \"I'm gay\" at the top of his lungs.",
+    "reddit_knowledge": "Your brother looks very professional here. Definitely used to getting facials in HD.",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-59",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "If I QR scanned the confusing array of blemishes you call your face, would it send me to a dungeons and dragons forum",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-60",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "So it\u2019s true then?\n\nThe stereotype about black people...\n\nLights go out, all you can see is the teeth.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-61",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would walk into a bowling alley and scream \"I can't find you\" at the same time.",
+    "reddit_knowledge": "I\u2019ve never seen someone so ugly yet so beautiful, so masculine yet so feminine, it\u2019s hard to imagine that this is even a real person walking the earth and not a glitched deep fake\nI want to look away but I just can\u2019t. It\u2019s like a one in a million sight like two wolf corpses fucking each-other in broad daylight. \n\nyou Are truly a disturbing sight to behold and I feel incredibly sorry for any who has done so in person.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-62",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "Well you certainly stand out like a dick on a fish my confused little friend. ",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-63",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you've never seen a face like that before.",
+    "reddit_knowledge": "You look like youd rather have a real pussy in your face",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-64",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "What was the bet, that she\u2019s smashed more women than you? It was easy for her to beat 1.",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-65",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would walk into a bowling alley and scream \"I'm gay\" at the top of his lungs.",
+    "reddit_knowledge": "Probably not the first positive test you'll get for a virus.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-66",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you spend a lot of time in the shower.",
+    "reddit_knowledge": "So it\u2019s true then?\n\nThe stereotype about black people...\n\nLights go out, all you can see is the teeth.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-67",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "Just think, she won't have to fuck you anymore... and isn't her happiness all that really matters here?",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-68",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like a middle aged man who has a mustache.",
+    "reddit_knowledge": "That\u2019s gonna take a while.",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-69",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would never let himself go.",
+    "reddit_knowledge": "This Reddit post is probably the most interesting thing you've ever done",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-70",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "When the ladyboy business is good, you can afford a new phone.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-71",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would walk into a bowling alley and be kicked out of the bowling alley.",
+    "reddit_knowledge": "What was the bet, that she\u2019s smashed more women than you? It was easy for her to beat 1.",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-72",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "Thought that was a mole at first. \n\nInteresting place to put a dick tickler",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-73",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like a middle aged man who has a mustache.",
+    "reddit_knowledge": "Look at the bright side, at least the cops didn't shoot you",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-74",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley",
+    "reddit_knowledge": "So this guy is so boring and bland that you need to ask the internet for things to say in your speech?",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-75",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would spend $20,000 on a pair of shoes and then spend $50,000 to buy a new pair of socks.",
+    "reddit_knowledge": "If I QR scanned the confusing array of blemishes you call your face, would it send me to a dungeons and dragons forum",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-76",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you've been sitting on a pile of garbage for a week.",
+    "reddit_knowledge": "TIL that lettuce is way more complex than originally thought. They have a psyche, form laws and grasp the need for advanced medicine. ",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-77",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would walk into a bowling alley and scream \"I'm gay\" at the top of his lungs.",
+    "reddit_knowledge": "This is Jake. He has a hairstyle best known as 'Furry 70s Scrotum'.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-78",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would kill himself if he had a girlfriend.",
+    "reddit_knowledge": "I once had a turd that came out pretty similar to that thing on your forehead",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-79",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would walk into a bowling alley and scream at the top of his lungs.",
+    "reddit_knowledge": "That\u2019s gonna take a while.",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-80",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "Sending women on dating apps unwanted videos of you jerking it doesn't make you a \"porn actor.\"",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-81",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "Wow this chick looks like someone that used to make Nail polish tutorials ",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-82",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would walk into a bowling alley and scream \"I can't find you\" over and over again.",
+    "reddit_knowledge": "Here ya go girl. r/awfuleyebrows\n\nYou\u2019ll get way more attention over there.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-83",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "You might want to delete this seeing your screen is displaying stuff you might not wanna show.\nOtherwise, you might not have a workplace to be bored at.",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-84",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley",
+    "reddit_knowledge": "Probably not the first positive test you'll get for a virus.",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-85",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like a middle aged man who has a mustache. ",
+    "reddit_knowledge": "What's a Marine doing in a middle school cafeteria?",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-86",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "You might want to delete this seeing your screen is displaying stuff you might not wanna show.\nOtherwise, you might not have a workplace to be bored at.",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-87",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley. ",
+    "reddit_knowledge": "Me: Can we get Zendaya please?!\n\nMom: We have Zendaya at home.\n\nZendaya at home.",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-88",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would never let himself go.",
+    "reddit_knowledge": "Youve already been hit by every branch on the ugly tree. It was a long fall down too.",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-89",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "I\u2019d give you some food for thought but you\u2019ll probably throw that up too.",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-90",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would spend $20,000 on a bar ",
+    "reddit_knowledge": "> **roast me without mentioning massage salon or nail parlour** \n\nShouldn't you be doing my homework for me?",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-91",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of girl who would cry if she had to go to the bathroom.",
+    "reddit_knowledge": "Looks like you made a tribute pic of yourself.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-92",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of person who would spend a lot of time in the shower.",
+    "reddit_knowledge": "It's almost a guarantee when some chick posts here if you go through their post history there was a recent breakup. Here's a tip, nothing here will faze you because you think you are pretty, and the jokes will be low-brow and just serve to reinforce your belief that you are too good for him. Nobody here points out that having a boyfriend means someone was initially attracted to your looks. Time with you and getting to know your personality is the reason he left.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-93",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of person who would walk into a bowling alley and scream at the top of her lungs.",
+    "reddit_knowledge": "I\u2019d give you some food for thought but you\u2019ll probably throw that up too.",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-94",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "That\u2019s gonna take a while.",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-95",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "https://imgur.com/gallery/2AtyLQJ\n\nYou look like you're trying to hang on to your youth/impress young women by saying you browse reddit",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-96",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would kill himself if he tried to kill himself.",
+    "reddit_knowledge": "Must be weird teaching a class you failed as a student",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-97",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would never let himself go. ",
+    "reddit_knowledge": "If I QR scanned the confusing array of blemishes you call your face, would it send me to a dungeons and dragons forum",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-98",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "Who helped you write all that in the description? Cuz I know your neanderthal looking ass didn't do it!",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-99",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "Your post history makes me fucking furious. Please find people in your life that treat you well.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-100",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would walk into a bowling alley and scream \"I'm gay\" at the top of his lungs.",
+    "reddit_knowledge": "Why do you look like the one that\u2019s been doing all the meth?",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-101",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "After two-ish bottles of wine im sure this seemed like a good idea...it wasnt",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-102",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would fuck you if you tried to fuck him.",
+    "reddit_knowledge": "https://imgur.com/gallery/2AtyLQJ\n\nYou look like you're trying to hang on to your youth/impress young women by saying you browse reddit",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-103",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would never let himself go.",
+    "reddit_knowledge": "Look at the bright side, at least the cops didn't shoot you",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-104",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of person who would walk into a bowling alley and scream at the top of her lungs.",
+    "reddit_knowledge": "Dressing up in women's clothes does make you look like any more of a giant pussy. ",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-105",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of person who would scream at the top of her lungs if she tried to scream at someone.",
+    "reddit_knowledge": "A word of advice, when you inevitably run out of tuition money and have to resort to Only Fans you should be one of those girls who always has her face out of the shot.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-106",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "Found the office gal that remembers everyone's bday so there's an excuse to eat cake",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-107",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley. ",
+    "reddit_knowledge": "If I QR scanned the confusing array of blemishes you call your face, would it send me to a dungeons and dragons forum",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-108",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like a pedophile who tried to blow his load in the shower.",
+    "reddit_knowledge": "I\u2019d bang you but just because I know you\u2019ll let me try some new shit out I\u2019m not sure I\u2019m into yet",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-109",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you have a tattoo on your forehead.",
+    "reddit_knowledge": "It's almost a guarantee when some chick posts here if you go through their post history there was a recent breakup. Here's a tip, nothing here will faze you because you think you are pretty, and the jokes will be low-brow and just serve to reinforce your belief that you are too good for him. Nobody here points out that having a boyfriend means someone was initially attracted to your looks. Time with you and getting to know your personality is the reason he left.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-110",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would walk into a bowling alley and be kicked out of there.",
+    "reddit_knowledge": "You spent 18 years on earth with a face like that and you still have self esteem left to shatter? I call bullshit.",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-111",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would walk into a bowling alley and scream at the top of his lungs.",
+    "reddit_knowledge": ">yes i was the weird kid in middle school\n\nYou're the weird kid now.",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-112",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would walk into a bowling alley and blow his load on the bar. ",
+    "reddit_knowledge": "It's almost a guarantee when some chick posts here if you go through their post history there was a recent breakup. Here's a tip, nothing here will faze you because you think you are pretty, and the jokes will be low-brow and just serve to reinforce your belief that you are too good for him. Nobody here points out that having a boyfriend means someone was initially attracted to your looks. Time with you and getting to know your personality is the reason he left.",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-113",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "This peon thinks immigration won't catch him just because he is dressed like white trash",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-114",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "Hi my name is Vincent and I\u2019m with Microsoft technical support how may I assist you today. ",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-115",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would never let himself go on a date.",
+    "reddit_knowledge": ">yes i was the weird kid in middle school\n\nYou're the weird kid now.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-116",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would never let himself go on a date.",
+    "reddit_knowledge": "Dont worry about the erectile disfigurement bud, with a face like that itll never be an issue.",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-117",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "A word of advice, when you inevitably run out of tuition money and have to resort to Only Fans you should be one of those girls who always has her face out of the shot.",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-118",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would walk into a bowling alley and blow his load on the wall.",
+    "reddit_knowledge": "You\u2019ve slept with so many guys you\u2019re starting to look like one boom roasted",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-119",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would never let himself go on a date.",
+    "reddit_knowledge": "\u201cIf I\u2019m going to roast others...\u201d\n\n\n-I love the smell of napalm in the morning.",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-120",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would walk into a bowling alley and scream at the top of his lungs.",
+    "reddit_knowledge": "\u201cI am McLonely\u201d",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-121",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you've been through a lot of shit.",
+    "reddit_knowledge": "It's almost a guarantee when some chick posts here if you go through their post history there was a recent breakup. Here's a tip, nothing here will faze you because you think you are pretty, and the jokes will be low-brow and just serve to reinforce your belief that you are too good for him. Nobody here points out that having a boyfriend means someone was initially attracted to your looks. Time with you and getting to know your personality is the reason he left.",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-122",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you spend a lot of time in the shower.",
+    "reddit_knowledge": "How many girls did your parents throw in the garbage before they had you?",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-123",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "You look a bit like my secondary school PE teacher. \n\nHe\u2019s on the sex offenders register.",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-124",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "Fuck off Toby",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-125",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who drinks Budweiser because he can't get enough of it.",
+    "reddit_knowledge": "Is your ex an old raccoon carcass?",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-126",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "You look like you have a bunch of abstract tattoos that you have some sort of really deep meaning behind that you love to talk about with girls at bars in an attempt to take them home",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-127",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "We need free healthcare for the third degree burns being dealt in this sub!",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-128",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would walk into a bar and scream \"I'm gay\" at the top of his lungs.",
+    "reddit_knowledge": "This guy looks more boring than a soccer game",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-129",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like a middle aged man who has a mustache.",
+    "reddit_knowledge": "\u201cIf I\u2019m going to roast others...\u201d\n\n\n-I love the smell of napalm in the morning.",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-130",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would walk into a bowling alley and scream \"I can't find you!\"",
+    "reddit_knowledge": "Why\u2019d you cover up your only redeemable asset with the paper?",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-131",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of person who would never let herself go. ",
+    "reddit_knowledge": "If I QR scanned the confusing array of blemishes you call your face, would it send me to a dungeons and dragons forum",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-132",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would walk into a middle school cafeteria and ask for money to pay for his lunch.",
+    "reddit_knowledge": "I didnt know they did casting couch interviews in a library..",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-133",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would break into your house and smash your computer in the middle of the night.",
+    "reddit_knowledge": "Just fucking do it?\n\nI bet that's what your dad said to your mom at the abortion clinic.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-134",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would spend a lot of time in prison if he had to go to prison.",
+    "reddit_knowledge": "Why\u2019d you cover up your only redeemable asset with the paper?",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-135",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "Must be weird teaching a class you failed as a student",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-136",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley. ",
+    "reddit_knowledge": "Probably not the first positive test you'll get for a virus.",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-137",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would walk into a bowling alley and scream \"I can't find you\" at the same time.",
+    "reddit_knowledge": "Must be weird teaching a class you failed as a student",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-138",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would walk into a bowling alley and scream \"I'm gay\" at the top of his lungs.",
+    "reddit_knowledge": "I bet he's a great teacher. ",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-139",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "\u201cSure, I\u2019d love to go out with you sometime\u201d",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-140",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "Have you heard anything about your linebacker shoulders yet?",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-141",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would spend $50,000 on a pair of earrings.",
+    "reddit_knowledge": "Can you send pics of your bfs ex please. She sounds amazing",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-142",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would walk into a bowling alley and scream \"I can\u2019t find you\" at the same time.",
+    "reddit_knowledge": "What was the bet, that she\u2019s smashed more women than you? It was easy for her to beat 1.",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-143",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "Dude don\u2019t get down there\u2019s always convenience stores",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-144",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley",
+    "reddit_knowledge": "Yo really nice of that hotel to give the homeless a free room for the night. How wholesome.",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-145",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you've been drinking a lot of Budweiser.",
+    "reddit_knowledge": "I didn't know you could be hardcore Republican AND an ugly transgender.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-146",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would walk into a bowling alley and scream at the top of his lungs.",
+    "reddit_knowledge": "It's almost a guarantee when some chick posts here if you go through their post history there was a recent breakup. Here's a tip, nothing here will faze you because you think you are pretty, and the jokes will be low-brow and just serve to reinforce your belief that you are too good for him. Nobody here points out that having a boyfriend means someone was initially attracted to your looks. Time with you and getting to know your personality is the reason he left.",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-147",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would never let himself go on a date.",
+    "reddit_knowledge": "It's almost a guarantee when some chick posts here if you go through their post history there was a recent breakup. Here's a tip, nothing here will faze you because you think you are pretty, and the jokes will be low-brow and just serve to reinforce your belief that you are too good for him. Nobody here points out that having a boyfriend means someone was initially attracted to your looks. Time with you and getting to know your personality is the reason he left.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-148",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you've been kicked out of a bowling alley.",
+    "reddit_knowledge": "You might not be able to get employment in your field, but at least when you're sharing around your tuna canoe in exchange for a place to sleep you're bound to find some sweet drum circles. ",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-149",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you spend a lot of time in the shower.",
+    "reddit_knowledge": "It's ok that you arent very attractive. You are too busy being fucked by life to worry about trying to be fucked by men. ",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-150",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you've been through a lot of shit.",
+    "reddit_knowledge": ">\tExtremely boy crazy\n\nHer blowjobs looks like they feel how stale crackers taste.",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-151",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would walk into a bar and say \"I'm a barista\" and then walk away. ",
+    "reddit_knowledge": "You might not be able to get employment in your field, but at least when you're sharing around your tuna canoe in exchange for a place to sleep you're bound to find some sweet drum circles. ",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-152",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "\u201cIf I\u2019m going to roast others...\u201d\n\n\n-I love the smell of napalm in the morning.",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-153",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would walk into a middle school cafeteria and ask for money. ",
+    "reddit_knowledge": "So it\u2019s true then?\n\nThe stereotype about black people...\n\nLights go out, all you can see is the teeth.",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-154",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "You dont need to try to work it out anymore: its obviously you like penis in your mouth.",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-155",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would never let himself go.",
+    "reddit_knowledge": "21 dog years or what? Thats the hardest fuckin 21 years a human has ever seen....Like you did 2 decades in the Gulag...",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-156",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "Why\u2019d you cover up your only redeemable asset with the paper?",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-157",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would walk into a bowling alley and scream at the top of his lungs.",
+    "reddit_knowledge": "If I QR scanned the confusing array of blemishes you call your face, would it send me to a dungeons and dragons forum",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-158",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley. ",
+    "reddit_knowledge": "You look like you make a shitty Michelada",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-159",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "You might want to delete this seeing your screen is displaying stuff you might not wanna show.\nOtherwise, you might not have a workplace to be bored at.",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-160",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "\"Donk like gym\"",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-161",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would walk into a bar and scream \"I'm gay\" at the top of his lungs.",
+    "reddit_knowledge": "Just fucking do it?\n\nI bet that's what your dad said to your mom at the abortion clinic.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-162",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would never let himself go to college.",
+    "reddit_knowledge": "Yeah post history makes me sad. Making fun of you wouldn\u2019t be right. I wish you well. \n\nI would say only fans but well I don\u2019t think they take people that are in the transition faze \n\nSorry couldn\u2019t help it seriously though good luck!!!",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-163",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "Get used to wearing that headgear and taking orders! You\u2019ll be doing those same things again someday in your next career working the drive thru at McDonalds. ",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-164",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you spend a lot of time in the shower.",
+    "reddit_knowledge": "If I QR scanned the confusing array of blemishes you call your face, would it send me to a dungeons and dragons forum",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-165",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you've never been to a gay bar",
+    "reddit_knowledge": "You play the piano, but do not like music?  Wow!  That's a real nut punch that you hate your own hobby.",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-166",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would never let himself go.",
+    "reddit_knowledge": "Congratulations on your wedding guys",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-167",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "It's almost a guarantee when some chick posts here if you go through their post history there was a recent breakup. Here's a tip, nothing here will faze you because you think you are pretty, and the jokes will be low-brow and just serve to reinforce your belief that you are too good for him. Nobody here points out that having a boyfriend means someone was initially attracted to your looks. Time with you and getting to know your personality is the reason he left.",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-168",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would shoot himself in the face if he tried to shoot himself.",
+    "reddit_knowledge": "You look pretty good considering you probably just pulled a double shift at the Waffle House.",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-169",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would walk into a bowling alley and scream \"I'm gay\" at the top of his lungs",
+    "reddit_knowledge": "Yeah nice tits",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-170",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would walk into a bowling alley and scream at the top of his lungs.",
+    "reddit_knowledge": "For your own safety i'm refusing to roast you.\n\nOut of fear you'd eat yourself.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-171",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would never let himself go on a date.",
+    "reddit_knowledge": "The poster children for peaking in high school",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-172",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like a middle aged man who has a broken nose.",
+    "reddit_knowledge": "You probably taste like the bottom of a tackle box",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-173",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would steal a bottle of Budweiser from a vending machine.",
+    "reddit_knowledge": "\u201cI like the gym\u201d\n\nDo you like going to watch young gals in tights? Sure ain\u2019t goin to lift weights.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-174",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you spend a lot of time in the shower. ",
+    "reddit_knowledge": ">\tExtremely boy crazy\n\nHer blowjobs looks like they feel how stale crackers taste.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-175",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you spend a lot of time in the shower.",
+    "reddit_knowledge": "A word of advice, when you inevitably run out of tuition money and have to resort to Only Fans you should be one of those girls who always has her face out of the shot.",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-176",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley",
+    "reddit_knowledge": "Worst Doctor Teeth cosplay ever...\n\nLooks like you skinned a tickle-me Elmo to make your vest...",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-177",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would walk into a bowling alley and scream \"I'm gay\" at the top of his lungs",
+    "reddit_knowledge": "You play the piano, but do not like music?  Wow!  That's a real nut punch that you hate your own hobby.",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-178",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "Hope you have a thing for cat fishing neckbeards",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-179",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley",
+    "reddit_knowledge": "I feel like you are  the  reason there will be a sequel song to pumped up kicks.",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-180",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "Look at the bright side, at least the cops didn't shoot you",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-181",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "Shit they'll probably end up sealing the deal with each other.",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-182",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the type of person who would walk into a room with no clothes on and no shoes on.",
+    "reddit_knowledge": "What a time to be alive, even our alternatives are fucking normies. Do the thousands of you with nose rings like that greet each other when you meet eachother in the streets?",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-183",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "Sounds like you\u2019ve done all the legwork for us.",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-184",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you've been through a lot of shit.",
+    "reddit_knowledge": "Yeah post history makes me sad. Making fun of you wouldn\u2019t be right. I wish you well. \n\nI would say only fans but well I don\u2019t think they take people that are in the transition faze \n\nSorry couldn\u2019t help it seriously though good luck!!!",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-185",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "\u201cIf I\u2019m going to roast others...\u201d\n\n\n-I love the smell of napalm in the morning.",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-186",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "This nigga look like stu pickles from the rugrats if he got ahold of some angel dust ",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-187",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would never let himself go.",
+    "reddit_knowledge": "You might want to delete this seeing your screen is displaying stuff you might not wanna show.\nOtherwise, you might not have a workplace to be bored at.",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-188",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "Sending women on dating apps unwanted videos of you jerking it doesn't make you a \"porn actor.\"",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-189",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would walk into a bowling alley and scream \"I'm gay\" at the top of his lungs.",
+    "reddit_knowledge": "You love gym for life, but he doesn't love you back.",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-190",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "Who got the nose when your eye\u2019s decided to split up?",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-191",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley. ",
+    "reddit_knowledge": "Why would I say anything mean, OP? You're a 7/10!\n\nBy the way, who's the smirking autist standing next to you in the second pic?",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-192",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of person who would spend a lot of time on the toilet if she had to wash her hands.",
+    "reddit_knowledge": "Yeah post history makes me sad. Making fun of you wouldn\u2019t be right. I wish you well. \n\nI would say only fans but well I don\u2019t think they take people that are in the transition faze \n\nSorry couldn\u2019t help it seriously though good luck!!!",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-193",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "it isn't too late. You can change your name to Justin and become the next big Microsoft Antivirus employee.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-194",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would walk into a bowling alley and scream at the top of his lungs.",
+    "reddit_knowledge": "I bet you started an Anime club at your school but not even the weird kids wanted to join because they knew you were involved.",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-195",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "You're going to OD on poppers while blowing the arcade keep for more tokens.",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-196",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": ">yes i was the weird kid in middle school\n\nYou're the weird kid now.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-197",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would blow his load in the middle of a bowling alley.",
+    "reddit_knowledge": "You might not be able to get employment in your field, but at least when you're sharing around your tuna canoe in exchange for a place to sleep you're bound to find some sweet drum circles. ",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-198",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would roast himself if he had a girlfriend.",
+    "reddit_knowledge": ">make it extra crispy\n\nIm sure that your usual order. Maybe try a salad",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-199",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of guy who would walk into a bowling alley and scream at the top of his lungs.",
+    "reddit_knowledge": ">\tExtremely boy crazy\n\nHer blowjobs looks like they feel how stale crackers taste.",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-200",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of person who would walk into a middle school cafeteria and ask for money.",
+    "reddit_knowledge": "I don't see the canvas bag with some \"edgy\" band logo. You can't even pull off the casual misandrist look properly.",
+    "reddit_index": 2
+  }
+]

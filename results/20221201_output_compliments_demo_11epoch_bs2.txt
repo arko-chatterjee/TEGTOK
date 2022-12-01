@@ -1,0 +1,1402 @@
+[
+  {
+    "dialog_id": "test-1",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you\u2019ve got a great sense of style. ",
+    "reddit_knowledge": "Bro who tf has been telling you that you\u2019re ugly your whole life. Seriously man fuck them, you\u2019re not ugly.",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-2",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re so pretty! I\u2019m sure you\u2019ll find someone who\u2019s like you.",
+    "reddit_knowledge": "haha me too",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-3",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like a great person to hang out with!",
+    "reddit_knowledge": "Hot damn so sharp TSA gotta pat you down",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-4",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019ll get the same look you\u2019re used to!",
+    "reddit_knowledge": "Nice glasses, the style suits you.\n\nLPT: Don't ask people to punch you in the face.",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-5",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you\u2019re doing a great job!",
+    "reddit_knowledge": "I gotta respect you and this post just for saying rad in it honestly, haven't seen that in a while",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-6",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re a native american and I\u2019m sorry to hear about that.  \n\nI think you\u2019ve got a great sense of style. ",
+    "reddit_knowledge": "This is such a weird comment, but you have very cute ears.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-7",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you\u2019ve got a great sense of style. ",
+    "reddit_knowledge": "Reminds me of the 70s! Cool vibe :)",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-8",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you\u2019ve got a great sense of style and style. ",
+    "reddit_knowledge": "But do you send dms \ud83d\udc40\ud83d\udc40",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-9",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re a good looking guy. I\u2019m sure you\u2019ll find someone who\u2019s as good looking as you.",
+    "reddit_knowledge": "Sometimes shit's gonna fall into a thousand pieces, that's the only way you can build it up a thousand times better. Except if someone died, in that case you can't go left, you can't go right, you got to go straight through the fucking wall. Stay strong brother",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-10",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re a good looking guy. ",
+    "reddit_knowledge": "Dude you are awesome. You went though a lot and are still going and progressing. Would love to grab a drink with you and hear about what interests you.",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-11",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re a good looking guy!",
+    "reddit_knowledge": "Why does everyone here look like models?!",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-12",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you\u2019ve got a great sense of style and style. ",
+    "reddit_knowledge": "Your glasses are so cute. They really frame your face well!",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-13",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re very pretty, and I\u2019m sure you\u2019ll find someone who appreciates you.",
+    "reddit_knowledge": "Definitely a keeper!! \nThanks for sharing \ud83e\udd17",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-14",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019ve got a great smile, and I\u2019m sure you\u2019ll find a way to smile too.",
+    "reddit_knowledge": "Haircuts are tricky but you succeeded!!",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-15",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you\u2019ve got a great sense of style.",
+    "reddit_knowledge": "That's awesome! Thanks for the update.",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-16",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You have a very pretty face, and I love your hair!",
+    "reddit_knowledge": "That\u2019s fantastic! Thanks for sharing \ud83d\ude0a",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-17",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like a very pretty young lady.",
+    "reddit_knowledge": "Your piercings are really really pretty! They compliment you really well!",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-18",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You is a good company and I hope you can find someone who appreciates you.",
+    "reddit_knowledge": "Wh-why are there always beautiful women in this subreddit?!",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-19",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You have a great sense of style!",
+    "reddit_knowledge": "Good luck! Sleep tight! Don't let the supervisor bugs bite!",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-20",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you\u2019ve got a great sense of style. ",
+    "reddit_knowledge": "Doing good even when it's hard or awkward is a good sign for your character, good on you!",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-21",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re very pretty. I\u2019m sorry to hear about that. I hope you\u2019ll feel better soon.",
+    "reddit_knowledge": "Aren\u2019t you just a stunner!  Great look sister!",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-22",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re very pretty. I\u2019m sure you\u2019ll find someone who\u2019s just as beautiful as you.",
+    "reddit_knowledge": "Surely You save a lot of people",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-23",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like a hottie!",
+    "reddit_knowledge": "Wow \ud83d\ude0a that\u2019s all I can say haha",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-24",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you\u2019re having a great day!",
+    "reddit_knowledge": "Why does everyone here look like models?!",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-25",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re so cute! I\u2019m so sorry to hear that. I hope you\u2019ll feel better soon.",
+    "reddit_knowledge": "I just made a grilled cheese sandwich for my best friend who came home from work. ",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-26",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019ve got a great smile, and I\u2019m glad you\u2019re feeling better.",
+    "reddit_knowledge": "I hope you have a blast playing Red Dead online",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-27",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You's a great rule! ",
+    "reddit_knowledge": "\"Kinda\" lol\n\nI don't hand out compliments.  \n\nShe's amazing though, right?!  Supremely.",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-28",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019ve got a great smile!",
+    "reddit_knowledge": "Not sure how old you are but you're a damn good lookin older guy.",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-29",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re so sorry to hear about your brother. I\u2019m sorry you have to go through this. I hope you\u2019ll feel better soon. ",
+    "reddit_knowledge": "Someone important to me is going to die soon. Also I feel like a loser.",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-30",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you\u2019ve got a great sense of style and style. I\u2019m sorry to hear about your loss, but I hope you feel better soon.",
+    "reddit_knowledge": "Dude, 3d animation is so fucking cool, I'm so jealous! Your education is great. You already have a job, which makes getting a better job a lot easier.\n\nThe social stuff, sorry, that sucks. Work on the job thing first. With a better job, maybe you will meet a better grade of people. ",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-31",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like a lady of the night.",
+    "reddit_knowledge": "You have some beautiful eyes about you",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-32",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like a fun guy to hang out with!",
+    "reddit_knowledge": "thanks homie! you too! happy trucking!",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-33",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re a great looking guy!",
+    "reddit_knowledge": "This sounds super stressful.\n\nKudos for coming here to get it off your chest and get some support.  You must be a decent person to have several coworkers be so supportive of you.\n\nHow long before you hear if you are terminated?",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-34",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re a decent person. I\u2019m sorry to hear about that. I hope you\u2019ll be a better person. ",
+    "reddit_knowledge": "I love that everyone that posts on this sub is a fucking supermodel.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-35",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re so cute! I\u2019m so sorry to hear about that. I hope you\u2019ve got a great day!",
+    "reddit_knowledge": "Any Zelda fan is automatically awesome in my book, I fucking love LoZ.",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-36",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re very pretty. I\u2019m sure you\u2019ll find someone who appreciates you.",
+    "reddit_knowledge": "If I knew you in school I would definitely have sat by you at lunch and formed a lifelong friendship. ",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-37",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re learning to read music! You\u2019ve got a lot to learn! I\u2019m sure you\u2019ll be able to do it!",
+    "reddit_knowledge": "There is someone out there for you. It takes some rejection but you'll find someone who adores you. And don't lose faith in yourself! If you have any way to take classes for music or maybe try some jokes on your friends and family? I think practicing skills often increase confidence. ",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-38",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re a great looking guy. I\u2019m sure you\u2019ll find someone who appreciates you.",
+    "reddit_knowledge": "I seriously dont see how you could have confidence issues  with the way you look.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-39",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like a great guy. ",
+    "reddit_knowledge": "That's awesome! Thanks for the update.",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-40",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re a handsome young man. I\u2019m sure you\u2019ll find someone who appreciates you. ",
+    "reddit_knowledge": "Poor mf *still* doing Xmas deliveries!",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-41",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re so cute! I\u2019m so sorry you\u2019ve had to go through that. \n\nI hope you can learn how to ride a bike. ",
+    "reddit_knowledge": "I seriously dont see how you could have confidence issues  with the way you look.",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-42",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like a cool guy. I love the way your hair looks!",
+    "reddit_knowledge": "I hope you have a blast playing Red Dead online",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-43",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you\u2019ve got a lot of fun to do!",
+    "reddit_knowledge": "So what do you do for a living, Topple entire mafia groups just by using your killer good looks?",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-44",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You have a very pretty face, and I love your hair!",
+    "reddit_knowledge": "Damn girl you got that classic beautiful vibe",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-45",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019ve got a great smile!",
+    "reddit_knowledge": "What a complete cutie!",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-46",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re so cute!",
+    "reddit_knowledge": "Wowee wow wow ",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-47",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re a beautiful duck. I\u2019m sure you\u2019ve got a lot to love about you.",
+    "reddit_knowledge": "I think you are absolutely beautiful and have a wonderful, positive smile.  Plus you clearly love animals which makes you even more awesome.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-48",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you\u2019ve got a lot of fun to do with your hair! I\u2019m sure you have a great smile :)",
+    "reddit_knowledge": "That sucks! Watch some movies and have a great night anyway",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-49",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you\u2019ve got a lot of fun to do!",
+    "reddit_knowledge": "Damn dude your tattoos are bad ass!!!",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-50",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re a good looking guy, and I\u2019m sure you\u2019ll find someone who appreciates you",
+    "reddit_knowledge": "The shirt is cool but OML your tattoos are hella cool",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-51",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019ve got this! You\u2019re young and you\u2019ll get there!",
+    "reddit_knowledge": "Hang in there Bro. It\u2019ll pass. Just know it\u2019s just chemicals right? They\u2019ll balance out. It gets better. ",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-52",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like a great person to hang out with. ",
+    "reddit_knowledge": "I don\u2019t think you post too much.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-53",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you\u2019ve got a lot of fun to do!",
+    "reddit_knowledge": "I don\u2019t think you post too much.",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-54",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like a fun guy to hang out with!",
+    "reddit_knowledge": "Yeah pkg handling is crazy too how many trucks do you load",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-55",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019ve got a great smile!",
+    "reddit_knowledge": "This is awesome!",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-56",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re very pretty. I\u2019m sure you\u2019ve got a lot to like about your hair.",
+    "reddit_knowledge": "Good luck! You can do it",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-57",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re very pretty. I\u2019m sure you\u2019ll find someone who\u2019s as cute as you!",
+    "reddit_knowledge": "Eyes/brows and lips are on point and you look comfy as hell.",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-58",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you\u2019re a very good looking guy!",
+    "reddit_knowledge": "Hell yeah brother!!! bout to be a new Aqua Man round these parts!",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-59",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You have a great smile, and I hope you feel better soon.",
+    "reddit_knowledge": "I gotta respect you and this post just for saying rad in it honestly, haven't seen that in a while",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-60",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re so cute!",
+    "reddit_knowledge": "There's also /r/normalnudes for just this type of situation. You might want to check that out too. ",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-61",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re so cute!",
+    "reddit_knowledge": "dude, your eyes are gorgeous! ",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-62",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You have a very pretty face, and I love your hair!",
+    "reddit_knowledge": "Okay yeah you\u2019re really good at doing this drawing thing",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-63",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re a good looking guy, and I\u2019m sure you\u2019ll find someone who\u2019s not cheating on you. ",
+    "reddit_knowledge": "Who tf called you ugly? You look amazing!",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-64",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you\u2019ve got a lot of fun to be around!",
+    "reddit_knowledge": ">It's only a mind game\n\nQuite litterally lmao. I'm glad you're better, bro. Stay strong! ",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-65",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019ve got this! You\u2019re beautiful!",
+    "reddit_knowledge": "Keep advocating for yourself! Good luck",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-66",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you\u2019ve got a great sense of style!",
+    "reddit_knowledge": "I hope you feel better soon!! That color is pretty...it suits you!!",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-67",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re so cute! I\u2019m so sorry to hear about your loss. I hope you feel better soon.",
+    "reddit_knowledge": "Lol. You want free compliments, free pizza and steal snacks? \n\nMaybe you wouldn't feel so bad if you weren't a thief. ",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-68",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You have a very pretty face and your hair looks great!",
+    "reddit_knowledge": "Might be the hair situation?",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-69",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You have a very pretty face, and I love your hair!",
+    "reddit_knowledge": "I really like the vibe coming from this photo",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-70",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019ve got a great smile, and you\u2019re very pretty.",
+    "reddit_knowledge": "Omg you should post this on r/streetwear they would love it!!",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-71",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re so cute! I\u2019m so sorry to hear about your loss. I hope you feel better soon.",
+    "reddit_knowledge": "Whats ur setup? U seem smart enough to have a good one. ",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-72",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You have a very pretty face, and I love your hair!",
+    "reddit_knowledge": "I gotta respect you and this post just for saying rad in it honestly, haven't seen that in a while",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-73",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re a great looking guy!",
+    "reddit_knowledge": "Staying safe you're setting a good example! Keep being sensible :)",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-74",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re really cute!",
+    "reddit_knowledge": "Why does everyone here look like models?!",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-75",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019ve got a great smile!",
+    "reddit_knowledge": "Try being a Niners Fan!!!  But seriously I just remind myself and others who seem to take it way too seriously that its just a game :) Enjoy it!   If they win its great if they don't guess what its not the end of the world and you can ALWAYS cheer them on whenever!",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-76",
+    "ground_truth": "DEMO ONLY",
+    "generated": "I\u2019m so sorry you\u2019re feeling down. I hope you feel better soon.",
+    "reddit_knowledge": "I got a tree in the backyard that needs felling...",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-77",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re still playing! I\u2019m sure you\u2019ll find a way to play!",
+    "reddit_knowledge": "I wanna hang out with you and your cats and eat pizza...",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-78",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re a good looking guy, and I\u2019m sure you\u2019ll find someone who appreciates you.",
+    "reddit_knowledge": "I recently had to say goodbye to a likewise beautiful canine friend....It's hard. \n\nNo matter how long it lasts, every great friendship is worth the hurt. I'm sorry for her pain but happy they got to spend a great life together and made each other better. ",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-79",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019ve got a great smile!",
+    "reddit_knowledge": "Thanks for being you friend!",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-80",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like a great person to hang out with!",
+    "reddit_knowledge": "I watched a video featuring you that said \"Psychology tricks that actually work\".\nPretty decent tricks, they were.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-81",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re so cute!",
+    "reddit_knowledge": "Let me know how you\u2019re doing ok?",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-82",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re so cute! I\u2019m sure you\u2019ll have a great day!",
+    "reddit_knowledge": "Cat barely moved!\n\nCongrats on your progress, you look fantastic. ",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-83",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like a fun person to hang out with. ",
+    "reddit_knowledge": "Oh no lol good luck with the pain, i had mine for about 4 years and wow they hurt but I got used to it really quick.",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-84",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You have a very pretty face, and I love your hair!",
+    "reddit_knowledge": "I really like the vibe coming from this photo",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-85",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re so cute! I\u2019m so sorry to hear about your loss. I hope you feel better soon.",
+    "reddit_knowledge": "Poor mf *still* doing Xmas deliveries!",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-86",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You's a good looking guy, and I'm sure you'll have a great time!",
+    "reddit_knowledge": "You look absolutely amazing. Keep trying and reach out to help if you need to. Good luck, you can do this.",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-87",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You are so beautiful! I hope you have a great day!",
+    "reddit_knowledge": "Mmmm I love me some cookies and they look incredible",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-88",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019ve got a great smile, and I\u2019m glad you\u2019re able to do it!",
+    "reddit_knowledge": "That's a LOT of classes, it's probably taking a lot out of you. \n\nI doubt all your friends started hating you at once, that's probably some insecurity and depression talking. \n\nIt's good to take responsibility but don't beat yourself up. ",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-89",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you\u2019ve got a great sense of style!",
+    "reddit_knowledge": "That's awesome! Thanks for the update.",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-90",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re a great looking guy! I\u2019m sure you\u2019ll find a job that suits you well!",
+    "reddit_knowledge": "College feels like I prison and i can't take it anymore. Due to some constraints, I can't change colleges till May. Can someone tell me I can make it for another 5 months?",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-91",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You're a good looking guy, and I'm glad you're feeling better.",
+    "reddit_knowledge": "Good job for taking care of yourself!",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-92",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re a very talented person, and I\u2019m sure you\u2019ll find someone who\u2019s as talented as you!",
+    "reddit_knowledge": "You are amazing just like your name says. It's so scary to change career paths or even jobs. Follow your passion and live the dream. ",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-93",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re so cute! I\u2019m so sorry you\u2019ve had to go through that. \n\nI hope you can get through this. ",
+    "reddit_knowledge": "i hope you have good weekend too",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-94",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019ve got this! You\u2019re a great looking guy!",
+    "reddit_knowledge": "Good for you! Easier said than done!",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-95",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you\u2019ll be fine!",
+    "reddit_knowledge": "Ever think about posting to r/forearmporn?\n\nBesides that, you look passionate and charming as hell. Would love to hear you play!",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-96",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re a great looking guy!",
+    "reddit_knowledge": "Honestly if it wasn't for the title I wouldn't have known",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-97",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like a great person to hang out with.",
+    "reddit_knowledge": ">Having a rough time dealing with PTSD. Feeling pretty ~~low~~. \n\nFTFY :)\n\nWish you a nice day!",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-98",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re so cute! I\u2019m so sorry to hear about that. I hope you\u2019ll figure it out soon.",
+    "reddit_knowledge": "Leave some ladies for the rest of us bro damn",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-99",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re so cute! I\u2019m so sorry you\u2019ve had to go through this. ",
+    "reddit_knowledge": "This is the stuff I love to see on this sub. Thank you for your kind words c:",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-100",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re so cute!",
+    "reddit_knowledge": "I hope you get rescued soon! ",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-101",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re very handsome and I\u2019m sure you\u2019ll find someone who appreciates you.",
+    "reddit_knowledge": "You're looking like a beast man, good job! Never think taking such good care of yourself isnt worth it, im proud of you!",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-102",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You have a great smile, and I love your hair!",
+    "reddit_knowledge": "Oh fuck yeah, great taste in music. Also screw those guys you dont bail on friends. If you're in the LA area hmu I'll buy you a beer ",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-103",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re a 71 yr old man and I\u2019m sure you\u2019ve got a lot to be proud of. ",
+    "reddit_knowledge": "I fucked up uni for the same reasons. Believe me, in 10 years time it won't matter even a little bit.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-104",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re very pretty. I\u2019m sure you\u2019ve got a lot to like about her.",
+    "reddit_knowledge": "How can't she not feel pretty she's not bad looking",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-105",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re very pretty, and I\u2019m sure you\u2019ll find someone who appreciates you.",
+    "reddit_knowledge": "Good for you! Always stand up for yourself and against creeps and bullies.",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-106",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re very pretty, and I\u2019m sure you\u2019ll find someone who appreciates you.",
+    "reddit_knowledge": "Looks like you never left, gotta say I'm jealous",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-107",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re so cute!",
+    "reddit_knowledge": "Thanks everyone for the sweet comments :) I really didn't expect to get so many!\n\nIf anyone's interested I can post another one or you can just ask me anything :) \nThanks again I'm pretty much shocked",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-108",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re so cute! I\u2019m so sorry to hear about that. I hope you\u2019ve got a great day!",
+    "reddit_knowledge": "Idk if the mods are gonna allow me to say what I wanna say but wow \ud83d\ude0d",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-109",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You have a very pretty face and a tattoo on your face. \n\nI think you are very pretty. ",
+    "reddit_knowledge": "Firstly, that shirt you have... keep it. It really accentuates your shoulders and gives you a really good look. Never be afraid to show off what you have. \nSecondly, those glasses are well chosen, they frame your face well but don't draw the eye too much.\nFinally, never lose the kindness you have about you, it will take you far.",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-110",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re very pretty and I\u2019m sure you\u2019ll find someone who\u2019s as pretty as you. ",
+    "reddit_knowledge": "OMG i love ur nose piercings. they flatter ur face so perfectly!",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-111",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You have a great sense of style, and I love the way your hair looks!",
+    "reddit_knowledge": "I think you look super cute :) definitely work for you.",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-112",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you\u2019ve got a lot of fun to be around!",
+    "reddit_knowledge": "Whoa dude Nice hair and really beautiful eyes. \nIm Sorry for hearing that people still bullying others.\nIm sure you gonna find New friends (and good ones this time) \nDont know why people avoid you.\nYou look like a really Nice guy.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-113",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re so beautiful! I\u2019m so sorry to hear about your loss. I hope you feel better soon. ",
+    "reddit_knowledge": "I think the people telling you that you're ugly are:\n\nA.) In need of corrective lenses \n\nand\n\nB.) The ones who are ugly in soul if not necessarily in visage. ",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-114",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like a very kind person. I hope you find another job soon.",
+    "reddit_knowledge": "UPDATE Sorry that the picture might be really blurry I had to crop some friends out :/",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-115",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re a great person to hang out with!",
+    "reddit_knowledge": "Im team stud (biased because I also have a stud)",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-116",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re so cute! I\u2019m so sorry to hear about your loss. I hope you\u2019ll find someone who appreciates you.",
+    "reddit_knowledge": "I mean, the roast me subreddit is supposed to be a fun, comedic thing. If you actually feel a certain kind of way about yourself don't post there.\n\nThey literally look for anything to roast you because that's the point of the sub. I wouldn't take those roasts seriously, because it's often exaggerated for humor.",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-117",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you\u2019ve got a great smile!",
+    "reddit_knowledge": "No problem beautiful..... thanks for posting!!!",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-118",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re killing moose!",
+    "reddit_knowledge": "Congrats!!",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-119",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re a good looking guy, and I\u2019m sure you\u2019ll be fine.",
+    "reddit_knowledge": "You should maybe stop dating blind girls. They're picky.",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-120",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re so cute!",
+    "reddit_knowledge": "I think you\u2019re a lovely lass!",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-121",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You have a very kind and gentle soul. I hope you have a great day!",
+    "reddit_knowledge": "You will find a better person next time as you have an idea of what to look for now.  Just chalk the previous relationship up t ok a lesson learned.  There is a good guy out there that deserves you.",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-122",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re really good at it. I\u2019m sure you\u2019ve got a lot of fun games to play. ",
+    "reddit_knowledge": "You look like a sexy badass!",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-123",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like the kind of person who would want to kill you. \n\nI'm sorry to hear that, but I'm sure you'll be okay. ",
+    "reddit_knowledge": "Wow you look like a really awesome friend I had back in Norway.",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-124",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You don't fuck up. You're beautiful. ",
+    "reddit_knowledge": "Damn dude your tattoos are bad ass!!!",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-125",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re so cute! I\u2019m so sorry to hear about the auto dude. I hope you feel better soon.",
+    "reddit_knowledge": "Who was the rapper?",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-126",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You have a very pretty face, and your hair is really nice. I hope you have a great day!",
+    "reddit_knowledge": "The nose piercings all work together SO WELL. Plus the rest of your makeup is so minimal and the eyes are sharp as hell and it just has the best contrast.",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-127",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019ll have to agree to disagree mate. \n\nI\u2019m sorry you\u2019re having to go through this. ",
+    "reddit_knowledge": "Thanks for the hard work!",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-128",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re so cute! I\u2019m so sorry to hear about your loss. I hope you feel better soon.",
+    "reddit_knowledge": "I think you\u2019re cute ",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-129",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re very pretty. I\u2019m sure you\u2019ve got a lot to like about your face.",
+    "reddit_knowledge": "I\u2019m tryna grow my beard like that it\u2019s fye \ud83d\udd25",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-130",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re very pretty, and I\u2019m sure you\u2019ll find someone who\u2019s just as cute as you.",
+    "reddit_knowledge": "How can I help!",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-131",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You're a week old and you're a good looking guy. \n\nI'm sorry to hear about this, but I'm sure you'll get through this. ",
+    "reddit_knowledge": "Oof that sucks man. I'm really sorry. I hope you heal soon. Sending love \u2764\ufe0f",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-132",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You have a great sense of style! I love your hair!",
+    "reddit_knowledge": "Thoses tattoos look amazing, how many do you have?",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-133",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re a good looking guy, and I\u2019m sure you\u2019ll find someone who appreciates you. ",
+    "reddit_knowledge": "Tell your coworker to go fuck themselves ",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-134",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re a good looking guy, and I\u2019m sure you\u2019ll find someone who appreciates you. ",
+    "reddit_knowledge": "Honestly if it wasn't for the title I wouldn't have known",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-135",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re very pretty, and I\u2019m sure you\u2019ll find something to like.",
+    "reddit_knowledge": "I hope you have a blast playing Red Dead online",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-136",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re very pretty, and I\u2019m sure you\u2019ll find someone who\u2019s just as cute as you.",
+    "reddit_knowledge": "why would such a bad thing happen to such a cute person",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-137",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re so cute! I\u2019m so sorry to hear about your loss. I hope you feel better soon.",
+    "reddit_knowledge": "What a cool job! ",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-138",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re a great looking guy. I\u2019m sure you\u2019ll find someone who appreciates you.",
+    "reddit_knowledge": "Get an Uber next time. ",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-139",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re a good looking guy!",
+    "reddit_knowledge": "I hope you have a good day too!",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-140",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re very pretty. I\u2019m sorry you\u2019ve been feeling short lately. I hope you can get over that.",
+    "reddit_knowledge": "Wow you\u2019re really cute! The hair suits you too",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-141",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like a fun guy to hang out with!",
+    "reddit_knowledge": "Super awesome! Definitely looks like you have some sort of magic ability!",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-142",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019ve got a very pretty face, and I\u2019m sure you\u2019ll find someone who appreciates you.",
+    "reddit_knowledge": "Keep trying! You were very brave to make a move. The more you ask, the more you'll hear yes. Props to you for putting yourself out there.",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-143",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you\u2019re in a great mood!",
+    "reddit_knowledge": "That is awesome!  I love it! You Etsy store looks great! ",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-144",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019ve got a great sense of style and style. I\u2019m sure you\u2019ll find someone who\u2019s as good as you!",
+    "reddit_knowledge": "That's incredible dude. Takes a lot of discipline to accomplish what you have.",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-145",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you\u2019ve got a great sense of style. I\u2019m not religious but I love your hair!",
+    "reddit_knowledge": "I gotta respect you and this post just for saying rad in it honestly, haven't seen that in a while",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-146",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You, you look like a great person to hang out with.",
+    "reddit_knowledge": "It does get better my friend or at least it stops getting worse... Keep ur chin up and good things will find u ma man",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-147",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re a good looking guy. I\u2019m sure you\u2019ll have a good time with your friends. ",
+    "reddit_knowledge": "I love it here. It makes me feel there is hope for us yet. Random strangers being nice to one another for no other reason than they can. I can feel the love here and it makes me happy.",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-148",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re a great looking dude!",
+    "reddit_knowledge": "Just make sure to take care of yourself man, drugs can be fun but they are dangerous af too.  You seem like a chill dude though!  I would totally grab a beer with you",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-149",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re a great looking guy. I\u2019m sure you\u2019ll have a great time with your dog.",
+    "reddit_knowledge": "Yeah thats bs, they shouldve just read it!  Its not a big fucking deal, i struggle trying to get people to look at my work sometimes.  ",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-150",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like a really nice guy. I love your hair!",
+    "reddit_knowledge": "actually you're a really nice looking guy",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-151",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re very pretty, and I\u2019m sure you\u2019ll find a lot of people who would be willing to trade for you. ",
+    "reddit_knowledge": "Thank you! I've been putting a little extra in lately and was wondering if anyone noticed or if it was paying off! This is enough reddit for me for now, gonna start my workout. ",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-152",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re so cute! I\u2019m so sorry you\u2019ve had to go through that. I hope you feel better soon.",
+    "reddit_knowledge": "Mmmm I love me some cookies and they look incredible",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-153",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re one of those people who can\u2019t stand to be awkward in a house full of people. \n\nI\u2019m sorry to hear about that, but I hope you\u2019ll feel better soon.",
+    "reddit_knowledge": "Hey dude, you're not ugly... But don't cover your face. Don't live in fear. Let your other eye see..",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-154",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re so cute! I\u2019m so sorry to hear that. I hope you feel better soon.",
+    "reddit_knowledge": "Sad to thar that, what happened? You\u2019re super sexy btw.",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-155",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you\u2019ve got a lot of fun to be around!",
+    "reddit_knowledge": "I'd sell my soul to be 26 again...",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-156",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re very pretty, and I\u2019m sure you\u2019ll find someone who appreciates you.",
+    "reddit_knowledge": "Surely You save a lot of people",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-157",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019ve got a great smile!",
+    "reddit_knowledge": "Nice tatoos and Nice smile ou dude. Keep it up",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-158",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You have a very pretty face, and I love your hair! ",
+    "reddit_knowledge": "Those girls are beautiful!",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-159",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re a great looking guy!",
+    "reddit_knowledge": "I wish i could draw these are really nice! Pretty simple, to the point, funny, and easy to read. Good work!",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-160",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re so cute!",
+    "reddit_knowledge": "Definitely a keeper!! \nThanks for sharing \ud83e\udd17",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-161",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you\u2019ve got a great sense of style!",
+    "reddit_knowledge": "Hell yeah! Looks like you already got the badass wastelander beard down for if the nukes come falling. 10/10 would have as companion.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-162",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re so cute! I\u2019m so sorry to hear about your loss. I hope you\u2019ll feel better soon.",
+    "reddit_knowledge": "This exact same thing happened to me this year. Thanks for this post, I think I'm going to start playing my guitar again! It's been too long!",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-163",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re very pretty!",
+    "reddit_knowledge": "Damn, I'm straight up gonna copy your style, hope you don't mind.",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-164",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re a great looking guy!",
+    "reddit_knowledge": "This is the stuff I love to see on this sub. Thank you for your kind words c:",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-165",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You have a very pretty face, and your hair is really nice. ",
+    "reddit_knowledge": "I play the drums or guitar.",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-166",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re so cute!",
+    "reddit_knowledge": "Sounds like everything is going well for you. Congratulations!",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-167",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re very pretty and I\u2019m sure you\u2019ll find someone who appreciates you.",
+    "reddit_knowledge": "Been bummed lately about my ex, she made me feel worthless and hopeless. Someone say something to make me feel better...",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-168",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You have a very pretty face, and you look like a fun person to hang out with.",
+    "reddit_knowledge": "Ah that sucks... Hope you'll feel better soon. And looking great!",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-169",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look great!",
+    "reddit_knowledge": "You look really good ",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-170",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you\u2019ve got a great sense of style!",
+    "reddit_knowledge": "sweet jesus man do you only consume whey\ni mean like\nyou are jacked as fucking hell\nlike\nholy shit\n\n",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-171",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re very pretty, and I\u2019m sure you\u2019ve got a great sense of style.",
+    "reddit_knowledge": "Awwww! You give off such sweet energy :) you\u2019re very cute!",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-172",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019ve got a great smile!",
+    "reddit_knowledge": "I suppose you scrub up alright! \ud83e\udd23\ud83d\ude18",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-173",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re very pretty, and I\u2019m sure you\u2019ll find someone who\u2019s just as cute as you!",
+    "reddit_knowledge": "Ain't gonna mess with you, mate ",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-174",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like a great person to hang out with. ",
+    "reddit_knowledge": "So cute!! And the butterfly clips take me baccckkkk! \ud83d\ude0a",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-175",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re a great writer and I\u2019m proud of you for sharing your work with others. ",
+    "reddit_knowledge": "And the community is better and stronger with positive beautiful people like yourself! Thank you for this!",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-176",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You, you're a good looking dude. I'm sorry you're going through this. I hope you feel better soon. ",
+    "reddit_knowledge": "You got that \"Good Boy Turned Bad\" look. \n\nLike a date with you would entail stealing two motorcycles from the dealership, so they can be used to rob the gas station. \n\nAll you need is someone able to bring you back to the light. Plus, I bet you're wild in bed. \n\n",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-177",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019ve got a really nice smile, and I\u2019m glad you\u2019re feeling better. ",
+    "reddit_knowledge": "You sound like a really hard working dude, I'm sure that you'll find a job eventually. \n\nAnd no, that doesn't sound weird at all. When we aren't feeling alright anything can tip us off. \n\nYou just keep doing your thing and things will turn out for the better. ",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-178",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re very pretty, and I\u2019m sure you\u2019ll find someone who\u2019s like you.",
+    "reddit_knowledge": "I hope you have a great weekend too!",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-179",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You's a die hard fan. I love your hair and your eyes. I hope you have a great day!",
+    "reddit_knowledge": "Youre a dragon tamer dude lol, i like your style",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-180",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You have a great smile! I love your hair!",
+    "reddit_knowledge": "Hey, good on you for looking out for your mom like that. ",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-181",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re so cute! I\u2019m so sorry you had to go through that. I hope you\u2019ll feel better soon.",
+    "reddit_knowledge": "Holy shit your tattoos are fuckin awesome ",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-182",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re very pretty. I\u2019m sure you\u2019ve got a lot to like about your hair.",
+    "reddit_knowledge": "Well, social medias are mostly full of photoshopped people, with professional photographers knowing how to erase any flaw. Even I could look decent with photoshop and a professional. It's all fake.\n\nBut you, you are pretty. And that's real.",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-183",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re so cute! I\u2019m so sorry to hear about that :(",
+    "reddit_knowledge": "Glad to have been of help to you hot dude!",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-184",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re a dicks\u2019 man! I\u2019m so sorry you\u2019ve had to go through that. I hope you can get through this.",
+    "reddit_knowledge": "Young and dumb. Too many variables that bring that side out in certain people though so it\u2019s hard to say. I\u2019m sorry man that shit always sucks",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-185",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you\u2019ve got a lot of fun to do!",
+    "reddit_knowledge": "We here bro. \nI  did Christmas alone in 2010. ",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-186",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re gonna make a mess of that helmet!",
+    "reddit_knowledge": "That looks dope as hell ",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-187",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You have a great smile and your hair is really nice.",
+    "reddit_knowledge": "Really hope you have a better day and cheer up.  It definitely is sad and scary all the crazy shit going on in the world.. so kinda just gotta say fuck em and one foot in front of the other.  Have a wonderful day. Oh and by the way.... you be lookin finnnnnnnne as hell\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-188",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re very pretty, and I\u2019m sure you\u2019ll find someone who\u2019s just as nice as you.",
+    "reddit_knowledge": "So much hate on reddit, why is it that i see compliments and it feels out of place. Reddit is so\nOdd. ",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-189",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like a great person to hang out with!",
+    "reddit_knowledge": "You're not fat at all! You're beautiful :) and, as a gamer, you seem super cool!",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-190",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019ve got a great smile!",
+    "reddit_knowledge": "That's a cute face right there",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-191",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you\u2019ve got a lot of fun to do with it. I\u2019m sure you will find more people to drag to the theater.",
+    "reddit_knowledge": "dude you pass so fucking much,",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-192",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re a great looking guy! I\u2019m sure you\u2019ll find a way to beat a 35 yr old!",
+    "reddit_knowledge": "Bro who tf has been telling you that you\u2019re ugly your whole life. Seriously man fuck them, you\u2019re not ugly.",
+    "reddit_index": 1
+  },
+  {
+    "dialog_id": "test-193",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You have a great smile, and I hope you get a great year!",
+    "reddit_knowledge": "Well i think thats fucking awesome, be it 100% yours or not.  I suck at photoshop so that is impressive af.  Keep it up!  I think you did a great job, have an A1 day!",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-194",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re looking for something that\u2019s going to make you happy. I\u2019m sure you\u2019ll find it. ",
+    "reddit_knowledge": "Let me know how you\u2019re doing ok?",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-195",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you\u2019re a really good looking guy!",
+    "reddit_knowledge": "Omg you should post this on r/streetwear they would love it!!",
+    "reddit_index": 0
+  },
+  {
+    "dialog_id": "test-196",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re very pretty and I\u2019m sure you\u2019ll find someone who\u2019s smarter than you.",
+    "reddit_knowledge": "Wait what the fuck your art is AMAZING lol why the hell does it have so little notes??",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-197",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like a fun guy to hang out with. ",
+    "reddit_knowledge": "Awe yay! What you gonna eat? I need ideas! Looking killer!",
+    "reddit_index": 3
+  },
+  {
+    "dialog_id": "test-198",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You\u2019re a handsome young man. I\u2019m sure you\u2019ll grow up to like dark meat.",
+    "reddit_knowledge": "Thanks man, I dont feel good lately, but it will pass, it just takes time",
+    "reddit_index": 4
+  },
+  {
+    "dialog_id": "test-199",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like a really good looking guy. ",
+    "reddit_knowledge": "Super awesome! Definitely looks like you have some sort of magic ability!",
+    "reddit_index": 2
+  },
+  {
+    "dialog_id": "test-200",
+    "ground_truth": "DEMO ONLY",
+    "generated": "You look like you\u2019re a very pretty young lady. I\u2019m sorry to hear that. \n\nI hope you feel better soon.",
+    "reddit_knowledge": "You should maybe stop dating blind girls. They're picky.",
+    "reddit_index": 1
+  }
+]
